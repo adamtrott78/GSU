@@ -279,7 +279,7 @@ The first sentence of existing Article XV already establishes the critical princ
 
 > **Section 1. Name and status.** The Graduate Student Employees bargaining unit represented by this Federation shall constitute the Graduate Student Employees Chapter, which may use the name **Graduate Student Union (GSU)** for its internal governance, organizing, and communications. The Chapter is a constituent bargaining-unit chapter of Local 6350 and is not a separate AFT local.
 >
-> **Section 2. Membership.** Membership in the Graduate Student Employees Chapter consists of members of the Federation who are represented in the Graduate Student Employees bargaining unit, subject to the membership provisions of Article III.
+> **Section 2. Membership.** Membership in the Graduate Student Employees Chapter consists of members of the Federation who are represented in the Graduate Student Employees bargaining unit, subject to the membership provisions of Article III. A temporary gap between covered Graduate Student Employees appointments, including a summer period without a covered appointment, shall not by itself terminate Chapter membership or eligibility to continue serving in Chapter office when the member is expected to return to a covered Graduate Student Employees appointment in the immediately following academic term.
 >
 > **Section 3. Officers.** The Chapter shall elect a President, Vice President, Treasurer, and Secretary. Officers shall serve one-year terms.
 >
@@ -323,9 +323,9 @@ These articles may receive technical conforming edits after the Local President/
 
 ---
 
-# REMAINING EXTERNAL CONFIRMATION BEFORE MEMBER CIRCULATION
+# LEADERSHIP CONFIRMATION RESERVED FOR THE SEPTEMBER 22 MEETING
 
-1. **Appointment gaps and continuity:** Confirm how union membership and eligibility to remain in GSU office are treated when a graduate employee has an ordinary gap between appointments, especially a summer with no appointment followed by a fall appointment.
+1. **Temporary appointment gaps:** The first draft proposes that an ordinary temporary gap between covered graduate appointments — including a summer without a covered UMass Dartmouth appointment — does not by itself terminate GSU membership or elected-office eligibility when the member is expected to return to a covered appointment in the immediately following academic term. Leadership should expressly approve, modify, or reject this continuity rule.
 
 ### Resolved for the first draft
 
