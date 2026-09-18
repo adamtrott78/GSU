@@ -1,67 +1,67 @@
 # Comparator Bylaw Sources
 
-This note records the public comparator constitutions identified in the leadership comments on the Local 6350 draft.
+This note records the comparator constitutions identified in the leadership comments on the Local 6350 draft and the local repository copies now used for analysis.
 
 ## Chelsea Teachers' Union — AFT Local 1340
 
-**Official union rules page:**  
+**Repository copies**
+- `../CTU Constitution, Amended 10-18-23.md`
+- `CTU Constitution, Amended 10-18-23.pdf`
+
+**Integrity verification**
+- Markdown Git blob SHA: `3862166236c7b1da88814cfd857f64d283fcbdd8`
+- Markdown SHA-256: `234e7392b9de7062f9052807087d4a800b3d190cd23616ce4bd38a8322b5ba64`
+- PDF Git blob SHA: `6b7deeb0c45170731a650a2657fe64158571d328`
+- PDF SHA-256: `1205bacb2112f5daeb7275f42eb2e9a36f8b6789043ec5ed1587c23614b30fa4`
+
+The document states that it was amended and approved at the General Membership meeting on October 18, 2023.
+
+**Public source page:**  
 https://chelseateachersunion.org/contracts-and-resources/ctu-rules/
-
-**Current Constitution & By-Laws (official Google Drive link, last amended October 2023):**  
-https://drive.google.com/file/d/18gA4ntjAbsv4ezbojjNUhxYZS_qmPEX5/view?usp=sharing
-
-**Official leadership page:**  
-https://chelseateachersunion.org/ctu-leadership/
 
 ### Why it is relevant
 
-Chelsea is a multi-unit AFT local representing educators, paraprofessionals, and clerical staff.
-
-Its currently published leadership structure includes:
-- President
-- Vice President
-- Secretary
-- Treasurer
-- Paraprofessional Vice Presidents
-- Clerical Vice President
-- an Executive Board with worksite/building representation
-
-This is a useful comparator for a Local-wide executive structure with additional unit-specific vice presidents.
+Chelsea uses a Local-wide officer structure plus bargaining-unit-specific vice presidents. Its Constitution gives those unit vice presidents explicit Executive Board, bargaining, communications, and grievance roles. Chelsea also elects workplace/building representatives.
 
 ## Chelmsford Federation of Teachers — AFT Local 3569
 
-**Official union Documents page:**  
+**Repository copies**
+- `../CFT Constitution Bylaws 2.md`
+- `CFT Constitution Bylaws 2.pdf`
+
+**Integrity verification**
+- Markdown Git blob SHA: `68e6ce559bf998bfbb1a812a09f215f0e63b00b8`
+- Markdown SHA-256: `5cae7bd5eab9025e7de753f1ea6e6ea1c1dc13c578a1016d3fd3f7a151204831`
+- PDF Git blob SHA: `f3ffd9543958c13a8f34e05ad94d8bff87b53302`
+- PDF SHA-256: `b1050d11495e0a98a50e5d8fede8bfefb48d3fc26b95bbfcb71a63ddba0c7591`
+
+The repository document states that the Constitution was amended July 21, 2010. It is therefore a structural comparator, not evidence that every provision reflects Chelmsford's present governance.
+
+**Public Documents page:**  
 https://sites.google.com/view/cft-union/documents
-
-**CFT Constitution Bylaws PDF (official Google Drive link):**  
-https://drive.google.com/file/d/1VQ-v0oYvaGOl1PZXJy3Dxkn9y0U4PqLM/view?usp=drive_open
-
-**Official current leadership page:**  
-https://sites.google.com/view/cft-union/about/about-us
 
 ### Why it is relevant
 
-Chelmsford's currently published Executive Board includes:
-- President
-- Executive Vice President Unit A
-- Vice President of Teachers & Nurses
-- Vice President ParaEducators & Support Staff
-- Executive Secretary
-- Treasurer
-- Communication Secretary
-- building representatives
+Chelmsford provides the cleanest comparator for:
+- a President plus Executive Vice President;
+- one Bargaining Unit Vice President for each represented unit;
+- a Representative Council separate from the Executive Board;
+- proportional elected representatives by school/building;
+- unit-specific negotiation teams;
+- election-based vacancy filling.
 
-This directly validates the leadership comment that Chelmsford uses an executive-vice-president / bargaining-unit vice-president style structure.
+## Comparative analysis
 
-## Research use
+See:
 
-Before drafting final Local 6350 language:
-1. Read the actual Chelsea and Chelmsford constitutions.
-2. Extract only provisions relevant to:
-   - multi-unit officer structure;
-   - unit-specific elections;
-   - Executive Board representation;
-   - representative councils/building representatives;
-   - vacancies and special elections;
-   - initial-unit/transition eligibility.
-3. Do not copy language blindly; adapt only after checking compatibility with Local 6350's charter and AFT Massachusetts guidance.
+`COMPARATOR_ANALYSIS.md`
+
+for the provision-by-provision comparison against Local 6350 and the resulting working governance architecture.
+
+## Research rule
+
+Do not copy comparator language blindly. Adapt only after checking:
+- Local 6350's chartered structure;
+- AFT/AFT Massachusetts requirements;
+- the formal identity of the two Local 6350 bargaining units;
+- the practical needs of a graduate-worker bargaining unit.
