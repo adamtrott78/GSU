@@ -1,137 +1,84 @@
 # External Confirmation Checklist
 
-Status: working verification checklist before the first Local 6350 amendment draft is treated as internally complete.
+Status: narrowed after September 18, 2026 review.
 
-This file contains only questions that require confirmation outside the GSU drafting group. Governance choices reserved for the September 22 leadership meeting are intentionally excluded.
+This file records what has been resolved for the first draft and the one factual issue that still requires outside confirmation before the draft can be treated as fully verified.
 
-## 1. Chartered Local name
+## Resolved for the first draft
 
-**Question:** Is "U-Mass Dartmouth Maintainers, Local 6350" the chartered/legal name that must remain in Article I, or may/should the Local use a broader umbrella name now that it contains more than one bargaining unit?
+### Local name
 
-**Current status:** OPEN.
+The first draft keeps the existing name **U-Mass Dartmouth Maintainers, Local 6350**. A broader umbrella name may be raised as a suggestion during the leadership meeting, but it is not required to complete the first draft.
 
-**Needed source:** Local 6350 charter and/or confirmation from AFT Massachusetts / Local President.
+### Graduate bargaining-unit terminology
 
-**Draft impact:** Article I only. No name change is currently proposed.
+Use **Graduate Student Employees** consistently for the graduate bargaining unit and chapter.
 
----
+### GSU President / Graduate Student Vice-President
 
-## 2. Formal bargaining-unit title
+The proposed structure makes the elected GSU President serve ex officio as Graduate Student Vice-President of Local 6350 and as a voting Executive Board member.
 
-**Question:** What exact formal title should the Constitution use for the graduate bargaining unit: "Graduate Student Employees bargaining unit," "Unit B," another certified title, or a combination?
+This is treated as part of the constitutional proposal itself. Chelsea Local 1340 and Chelmsford Local 3569 provide comparator precedent for bargaining-unit-specific vice presidents. The structure becomes effective only if Local 6350 adopts the amendments.
 
-**Current status:** OPEN.
+### One-year eligibility exception
 
-**Needed source:** recognition/certification document, charter material, current CBA, or AFT/Local confirmation.
+The first draft expressly exempts the GSU President / Graduate Student Vice-President from Local 6350's existing one-year prior-membership requirement.
 
-**Draft impact:** Articles III, IV, V, IX, XI, XV, and XVII should use one consistent formal name.
+AFT's 2024 Constitution does not impose a one-year prior-membership minimum on local officers. Instead, it requires local election procedures to be consistent with the democratic-election standards developed under Title IV of the LMRDA. Because the GSU has not existed for one year, the exception is necessary for an initial democratic leadership structure and should be presented to leadership as an explicit proposed change.
 
----
+### Election requirements
 
-## 3. Graduate Student Vice-President / ex officio structure
+AFT's 2024 Constitution requires elections of affiliated locals to comply with the standards developed under Title IV of the LMRDA.
 
-**Question:** May the elected GSU President serve ex officio as the Graduate Student Vice-President of Local 6350 and as a voting member of the Local Executive Board?
+For GSU officer elections, the first draft therefore requires at minimum:
 
-**Current status:** OPEN.
-
-**Evidence already available:** Chelsea Local 1340 and Chelmsford Local 3569 demonstrate bargaining-unit-specific vice-president structures, but they do not establish what Local 6350's charter or AFT Massachusetts requires.
-
-**Needed source:** Local 6350 President and/or AFT Massachusetts constitutional/charter guidance.
-
-**Draft impact:** Article IV and Article XVII.
-
----
-
-## 4. Officer eligibility exception
-
-**Question:** Does any AFT, AFT Massachusetts, Local 6350 charter, or applicable election rule require the person occupying the GSU-linked Local office to have one year of prior membership?
-
-**Current status:** OPEN.
-
-**Reason:** The proposed Constitution intentionally exempts the GSU President / Graduate Student Vice-President from Local 6350's existing one-year officer-eligibility rule.
-
-**Needed source:** AFT/AFT Massachusetts governing documents or direct confirmation.
-
-**Draft impact:** Articles IV, IX, and XVII.
-
----
-
-## 5. Appointment gaps and continuity of membership/office
-
-**Question:** If a graduate employee has an ordinary gap between appointments — particularly no summer appointment followed by a fall TA/RA appointment — does the member remain eligible for Local/GSU membership and to continue serving in elected office?
-
-**Current status:** OPEN.
-
-**Needed source:** Local membership practice, AFT/AFT Massachusetts guidance, and if necessary the bargaining-unit recognition language.
-
-**Draft impact:** Article XVII membership/eligibility and GSU chapter bylaws.
-
-**Important:** Do not invent a continuity rule until this is confirmed.
-
----
-
-## 6. GSU election requirements
-
-**Question:** What minimum requirements apply to the initial and annual GSU elections, including:
-- nomination notice;
-- election notice;
 - secret ballot;
-- electronic voting;
-- candidate observers;
-- election records and retention; and
-- special elections?
+- a reasonable opportunity to nominate candidates;
+- a reasonable opportunity for eligible members to vote;
+- election notice mailed to every member at the member's last known home address at least 15 days before the election;
+- candidate observer rights;
+- adequate safeguards to ensure a fair election;
+- publication of results;
+- preservation of election records for at least one year; and
+- no use of proxy voting for officer elections.
 
-**Current status:** OPEN.
+Remote electronic voting is not categorically prohibited, but any system used must preserve secrecy and the required fairness, observer, and audit safeguards.
 
-**Current draft:** The Local Constitution scopes Local-wide election mechanics separately from GSU elections and requires GSU procedures to satisfy applicable law and affiliated-organization rules.
+### Dues administration
 
-**Needed source:** AFT/AFT Massachusetts election rules and Local guidance.
+Treated as resolved for the first draft based on Local leadership guidance plus the AFT Massachusetts 2026-2027 Per Capita Rates memo:
 
-**Draft impact:** Article IX, Article XVII, and GSU chapter bylaws.
+- the same full, one-half, one-quarter, and one-eighth rate structure applies;
+- Graduate Student Employee classification is based on total UMass Dartmouth compensation during the fiscal year, combining fall, spring, and summer income;
+- a normal minimum-stipend graduate worker is expected to fall in the one-quarter category;
+- changing annual dollar thresholds/rates are not hard-coded into the Constitution.
 
----
+### Amendment approval and filing
 
-## 7. Dues administration
+Existing Local 6350 Article XIII controls adoption:
 
-**Question:** Does the revised Article XI accurately state the Local's existing dues practice?
+- the proposed constitutional amendments must be read at the regular meeting immediately preceding the vote **or** presented to all members at least 15 days before the vote;
+- adoption requires a two-thirds vote of members present at a regular meeting.
 
-**Current understanding from Local leadership:**
-- GSU uses the same full, one-half, one-quarter, and one-eighth classifications and rate structure as Maintainers.
-- A GSU member's classification uses total compensation paid by UMass Dartmouth during the fiscal year, combining fall, spring, and summer income.
-- A typical minimum-stipend graduate worker falls in the one-quarter category.
-- The annual AFT/AFT Massachusetts thresholds and per-capita dollar amounts change over time and therefore should not be written as fixed dollar values in the Constitution.
+AFT's 2024 Constitution requires affiliates to submit subsequently amended constitutions and bylaws to the national organization and requires those documents not to conflict with the AFT Constitution. The national provision does not state a separate pre-adoption approval requirement.
 
-**External source already obtained:** AFT Massachusetts 2026-2027 Per Capita Rates memo confirms the annual full, half, quarter, and eighth membership classes and income thresholds.
+Accordingly, the working process is:
 
-**Current status:** PARTIALLY CONFIRMED — Local Treasurer should confirm the constitutional wording and treatment of the Local dues component.
+1. informal review with Local leadership/AFT as useful;
+2. distribute the final proposed amendment package under Article XIII;
+3. Local 6350 membership votes under the two-thirds rule;
+4. after adoption, submit the amended governing documents as required.
 
-**Draft impact:** Article XI.
+## Remaining external confirmation
 
----
+### Appointment gaps and continuity of membership / office
 
-## 8. AFT / AFT Massachusetts review, approval, and filing
+**Question:** If a Graduate Student Employee has an ordinary gap between appointments — especially no summer appointment followed by a fall TA/RA appointment — does the member remain in good standing and eligible to continue serving in GSU office during that gap?
 
-**Question:** What formal review, approval, submission, or filing is required:
-- before Local 6350 votes on these constitutional amendments;
-- after adoption;
-- for the GSU chapter bylaws; and
-- for any change to Local officers or bargaining-unit chapter structure?
+**Why this still matters:** The proposed one-year officer term runs July 1 through June 30, while some graduate employees may not have a summer appointment.
 
-**Current status:** OPEN.
+**Do not infer an answer.** Confirm the Local/AFT membership treatment of ordinary appointment gaps before finalizing eligibility language.
 
-**Existing Local Constitution:** Article XIV requires submission of the Constitution and future amendments to AFT and AFT Massachusetts, but this does not establish whether pre-adoption approval or additional filing is required.
+## Next step
 
-**Needed source:** AFT/AFT Massachusetts governing documents or direct confirmation.
-
-**Draft impact:** Adoption workflow and final review schedule more than substantive language.
-
----
-
-# Completion criterion
-
-The first amendment draft is externally verified when each item above is either:
-
-- **CONFIRMED** with a source or named authoritative confirmation; or
-- **UNRESOLVED / MUST ASK PRESIDENT-AFT**, with the uncertainty explicitly preserved.
-
-Only after this checklist is exhausted should remaining governance choices be converted into Tuesday presentation decision points.
+Once the appointment-gap question is resolved or explicitly marked for leadership/Local review, the first draft can be frozen. Only then should unresolved governance choices be converted into presentation decision points.
