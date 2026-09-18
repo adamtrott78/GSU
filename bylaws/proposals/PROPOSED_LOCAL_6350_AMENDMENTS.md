@@ -20,7 +20,7 @@ Bracketed drafting notes are **not** proposed constitutional text.
 6. Preserve bargaining-unit-only contract ratification.
 7. Permit unit-specific bargaining committees.
 8. Create a GSU election cycle suited to graduate-worker turnover.
-9. Avoid changing the chartered Local name until the Local President/AFT confirms whether that is appropriate.
+9. Preserve the existing Local 6350 name in the first draft; any broader umbrella name is reserved as a leadership discussion item rather than a prerequisite to this amendment package.
 10. Preserve the existing dues framework while making the income-based full, one-half, one-quarter, and one-eighth rate structure expressly applicable across bargaining units.
 
 ---
@@ -193,7 +193,7 @@ The existing provision requires delegates to meet the same requirements as Feder
 
 ## Replace Article IX, Section 3 with:
 
-> **Section 3.** For Local-wide elections and delegate elections conducted under this Article, a notice of nominations and elections shall be prepared by the Nomination-Election Committee and provided to eligible members in accordance with the notice periods required by this Constitution and applicable requirements. Graduate Student Employees Chapter elections shall instead follow Article XVII and the chapter bylaws, provided that those procedures meet or exceed any notice period required by applicable law or the governing documents of affiliated organizations.
+> **Section 3.** For Local-wide Constitutional Officer and delegate elections, the Nomination-Election Committee shall provide nomination and election notice in accordance with this Constitution. For Graduate Student Employees Chapter officer elections, members shall be given a reasonable opportunity to nominate candidates, and written notice of the election shall be mailed to every Chapter member at the member's last known home address at least fifteen (15) days before the election. Chapter election procedures may provide additional notice and may apply the same safeguards to Representative Council elections.
 
 ## Replace Article IX, Section 4 with:
 
@@ -205,11 +205,11 @@ The existing provision requires delegates to meet the same requirements as Feder
 
 ## Replace Article IX, Section 6 with:
 
-> **Section 6.** Elections shall be by secret ballot where required by this Constitution, applicable law, or the governing documents of affiliated organizations. For Local-wide Constitutional Officer and delegate elections conducted at a membership meeting, ballots shall be counted before the meeting adjourns. Observers for candidates may be present when ballots are counted but may not participate in the counting. Graduate Student Employees Chapter elections shall be counted and certified under Article XVII and the Chapter bylaws.
+> **Section 6.** Elections of Local-wide Constitutional Officers and Graduate Student Employees Chapter officers shall be conducted by secret ballot. Eligible members shall have a reasonable opportunity to vote. Each bona fide candidate shall have the right to an observer at each polling location and at each place where ballots are counted or otherwise processed. For Local-wide Constitutional Officer and delegate elections conducted at a membership meeting, ballots shall be counted before the meeting adjourns. Graduate Student Employees Chapter elections shall be counted and certified under Article XVII and the Chapter bylaws.
 
 ## Replace Article IX, Section 7 with:
 
-> **Section 7.** Results of Local-wide Constitutional Officer and delegate elections shall be announced promptly and published in writing by the chairperson of the Nomination-Election Committee. Election records, including ballots, tally sheets, notices, results, and the names of committee members, shall be preserved for at least one year or for any longer period required by applicable law or affiliated-organization rules. Graduate Student Employees Chapter election results and records shall be published and preserved under Article XVII and the Chapter bylaws, subject to the same minimum record-retention requirements.
+> **Section 7.** Results of Local-wide Constitutional Officer and delegate elections shall be announced promptly and published in writing by the chairperson of the Nomination-Election Committee. Results of Graduate Student Employees Chapter elections shall likewise be published promptly. Election records, including ballots, tally sheets, membership and eligibility lists, nomination and election notices, voting instructions, challenged or voided ballots, and other records pertaining to the election shall be preserved for at least one year.
 
 ## Replace Article IX, Section 8 with:
 
@@ -217,11 +217,11 @@ The existing provision requires delegates to meet the same requirements as Feder
 
 ## Add new Article IX, Section 9:
 
-> **Section 9.** The Graduate Student Employees Chapter may conduct annual elections on a schedule different from the Federation's triennial Local-wide election cycle. Such elections shall be by secret ballot where required by law or the governing documents of affiliated organizations and shall be administered under procedures that provide adequate nomination and election notice, protect ballot integrity, and allow eligible chapter members a reasonable opportunity to participate.
+> **Section 9.** The Graduate Student Employees Chapter may conduct annual elections on a schedule different from the Federation's triennial Local-wide election cycle. Chapter officer elections shall comply with the democratic-election standards required by the American Federation of Teachers, including secret ballot, a reasonable opportunity to nominate candidates and vote, at least fifteen (15) days' mailed election notice, candidate observer rights, adequate safeguards for a fair election, and preservation of election records for at least one year. Remote electronic voting may be used only if the system preserves ballot secrecy and provides adequate safeguards, auditability, and meaningful observer access consistent with those standards.
 
 ### Drafting note
 
-The final election-notice language should be reviewed by the Local President/AFT before circulation. The existing Local Constitution uses fifteen days before nominations and thirty days before election; the comparator constitutions use different procedures. This draft does not attempt to waive any legally required notice.
+AFT's 2024 Constitution requires local elections to be consistent with the election standards developed under Title IV of the Labor-Management Reporting and Disclosure Act (LMRDA). Those standards require, among other protections, secret-ballot officer elections, a reasonable opportunity to nominate and vote, mailed election notice at least fifteen days before the election, candidate observers, adequate safeguards for fairness, and preservation of election records for one year. The Local may retain stricter procedures for its Local-wide elections.
 
 ---
 
@@ -323,16 +323,19 @@ These articles may receive technical conforming edits after the Local President/
 
 ---
 
-# EXTERNAL CONFIRMATIONS REQUIRED BEFORE MEMBER CIRCULATION
+# REMAINING EXTERNAL CONFIRMATION BEFORE MEMBER CIRCULATION
 
-1. **Chartered Local name:** Confirm whether "U-Mass Dartmouth Maintainers, Local 6350" is the chartered/legal name that must remain in Article I, or whether AFT/AFT Massachusetts permits or expects a broader Local-wide name.
-2. **Formal bargaining-unit title:** Confirm the exact formal name that should be used for the Graduate Student Employees bargaining unit / Unit B in the Constitution.
-3. **Graduate Student Vice-President title and ex officio structure:** Confirm that AFT/AFT Massachusetts and Local 6350 permit the elected GSU President to serve ex officio as the Graduate Student Vice-President of the Federation and as a voting member of the Executive Board.
-4. **Officer eligibility exception:** Confirm that no AFT/AFT Massachusetts rule requires the GSU President / Graduate Student Vice-President to have one year of prior membership before taking the linked Local office.
-5. **Appointment gaps and continuity:** Confirm how union membership and eligibility to remain in GSU office are treated when a graduate employee has an ordinary gap between appointments, especially a summer with no appointment followed by a fall appointment.
-6. **Election notice and administration requirements:** Confirm the minimum nomination notice, election notice, secret-ballot, electronic-voting, and record-retention requirements that must govern the initial and annual GSU elections.
-7. **Dues administration:** Confirm with the Local Treasurer that Article XI accurately reflects current practice: the same full, one-half, one-quarter, and one-eighth classifications and Local rate structure apply across bargaining units, and a Graduate Student Employee's classification is based on total UMass Dartmouth compensation for the applicable fiscal year, including fall, spring, and summer income.
-8. **AFT/AFT Massachusetts review and filing:** Confirm what approval, review, submission, or filing is required before and/or after Local 6350 adopts the constitutional amendments and GSU chapter bylaws.
+1. **Appointment gaps and continuity:** Confirm how union membership and eligibility to remain in GSU office are treated when a graduate employee has an ordinary gap between appointments, especially a summer with no appointment followed by a fall appointment.
+
+### Resolved for the first draft
+
+- The existing Local 6350 name is retained. A possible broader umbrella name is a leadership discussion item, not a drafting prerequisite.
+- The graduate unit is referred to consistently as the **Graduate Student Employees** bargaining unit / Chapter.
+- The GSU President serving as Graduate Student Vice-President is treated as a proposed Local constitutional structure. It becomes valid only if the Local adopts the amendments; no separate pre-approval requirement has been identified.
+- The one-year Local officer eligibility requirement is expressly excepted for the GSU President / Graduate Student Vice-President. AFT's national Constitution does not impose a one-year prior-membership minimum for local officers; it instead requires local election procedures to meet democratic-election standards.
+- GSU election safeguards are now specified using the AFT-required Title IV LMRDA standards.
+- Dues administration is treated as substantively resolved based on Local leadership guidance and the AFT Massachusetts annual rate memo.
+- The amendment process is governed by existing Article XIII: the proposal must be read at the preceding regular meeting or presented to all members at least **fifteen (15) days** before the vote, and adoption requires a two-thirds vote of members present at a regular meeting. AFT's national Constitution requires amended constitutions/bylaws to be submitted after adoption and does not state a separate pre-adoption approval requirement. Informal review by the Local President/AFT remains prudent.
 
 ---
 
