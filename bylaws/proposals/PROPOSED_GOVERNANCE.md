@@ -185,7 +185,7 @@ Leadership should expressly approve, modify, or reject this rule.
 
 ---
 
-# 21. GSU Representative Council
+# 8. GSU Representative Council
 
 Create a Representative Council separate from the Local 6350 Executive Board.
 
@@ -206,7 +206,7 @@ The Council does not replace the authority of the full GSU membership where the 
 
 ---
 
-# 21. Proposed Representative Council composition
+# 9. Proposed Representative Council composition
 
 ## Voting members
 
@@ -250,7 +250,7 @@ If reliable college/school membership data are not available for the initial ele
 
 ---
 
-# 21. Cross-cutting representation
+# 10. Cross-cutting representation
 
 Do **not** create separate electoral districts for every overlapping graduate-worker identity.
 
@@ -280,7 +280,7 @@ Academic college/school is proposed as the stable electoral base; committees/cau
 
 ---
 
-# 21. Bargaining authority
+# 11. Bargaining authority
 
 The existing Local Constitution has a Collective Bargaining Committee designed specifically around Maintainers classifications.
 
@@ -300,7 +300,7 @@ Contract ratification remains solely with the members of the bargaining unit cov
 
 ---
 
-# 21. Grievances and contract enforcement
+# 12. Grievances and contract enforcement
 
 The GSU President, Vice President, and trained representatives should work with the Local grievance structure on Graduate Student Employees matters.
 
@@ -314,7 +314,7 @@ A Representative Council member should not be required to independently process 
 
 ---
 
-# 21. Vacancies
+# 13. Vacancies
 
 ## President
 
@@ -338,7 +338,7 @@ The Council may appoint an eligible member for the remainder of a term when fewe
 
 ---
 
-# 21. Initial transition election
+# 14. Initial transition election
 
 The constitutional amendments should not force GSU to wait until the next ordinary Local triennial election.
 
@@ -356,7 +356,7 @@ The election provisions in Draft 1 now incorporate the AFT-required democratic-e
 
 ---
 
-# 21. GSU membership meetings
+# 15. GSU membership meetings
 
 GSU should be authorized to conduct its own chapter membership meetings in addition to Local-wide meetings.
 
@@ -373,7 +373,7 @@ Electronic participation must preserve:
 
 ---
 
-# 21. Financial structure
+# 16. Financial structure
 
 This proposal does **not** attempt to unilaterally redesign Local 6350 finances.
 
@@ -388,7 +388,7 @@ Draft 1 preserves the existing Local dues ceiling and applies the same full, one
 
 ---
 
-# 21. Contract ratification
+# 17. Contract ratification
 
 Preserve existing Article XV's core rule:
 
@@ -403,7 +403,7 @@ The reverse applies to a Maintainers agreement.
 
 ---
 
-# 21. What remains Local-wide
+# 18. What remains Local-wide
 
 GSU autonomy does not mean forming a separate Local.
 
@@ -418,7 +418,7 @@ Local-wide matters remain governed by Local 6350, including:
 
 ---
 
-# 21. What GSU controls
+# 19. What GSU controls
 
 Subject to the Local Constitution, AFT governing documents, applicable law, and the collective bargaining agreement, GSU should control its own:
 
@@ -438,7 +438,7 @@ Subject to the Local Constitution, AFT governing documents, applicable law, and 
 
 ---
 
-# 21. Why this is the proposed Tuesday model
+# 20. Why this is the proposed Tuesday model
 
 This proposal intentionally avoids two extremes.
 
