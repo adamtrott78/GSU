@@ -74,7 +74,7 @@ The Local Executive Board should be specifically enumerated rather than defined 
 - Local Treasurer
 - Local Secretary
 - Graduate Student Vice-President / GSU President
-- existing Local committee chairs if leadership chooses to preserve their current Board status
+- the existing Local-wide committee chairs, preserving their current Executive Board status
 - chief delegate to the local labor council, if current leadership wishes to preserve that seat
 
 ### What is NOT automatic
@@ -169,11 +169,23 @@ The existing Local Constitution requires one year of membership before holding L
 
 The GSU President's Local role as Graduate Student Vice-President therefore requires a specific constitutional exception.
 
-This proposal should be reviewed by the Local President and AFT/AFT Massachusetts before final circulation.
+That exception is an explicit part of Draft 1 and should be approved, modified, or rejected by leadership with the rest of the proposed structure.
 
 ---
 
-# 7. GSU Representative Council
+# 7. Temporary appointment gaps
+
+### Proposed continuity rule
+
+A temporary gap between covered Graduate Student Employees appointments — including a summer period without a covered UMass Dartmouth appointment — does **not** by itself terminate GSU membership or eligibility to continue serving in elected office when the member is expected to return to a covered Graduate Student Employees appointment in the immediately following academic term.
+
+This rule is intended to cover ordinary funding and appointment gaps. It does not preserve eligibility after graduation, permanent departure from UMass Dartmouth, or where the member is not expected to return to a covered appointment.
+
+Leadership should expressly approve, modify, or reject this rule.
+
+---
+
+# 21. GSU Representative Council
 
 Create a Representative Council separate from the Local 6350 Executive Board.
 
@@ -194,7 +206,7 @@ The Council does not replace the authority of the full GSU membership where the 
 
 ---
 
-# 8. Proposed Representative Council composition
+# 21. Proposed Representative Council composition
 
 ## Voting members
 
@@ -238,7 +250,7 @@ If reliable college/school membership data are not available for the initial ele
 
 ---
 
-# 9. Cross-cutting representation
+# 21. Cross-cutting representation
 
 Do **not** create separate electoral districts for every overlapping graduate-worker identity.
 
@@ -268,7 +280,7 @@ Academic college/school is proposed as the stable electoral base; committees/cau
 
 ---
 
-# 10. Bargaining authority
+# 21. Bargaining authority
 
 The existing Local Constitution has a Collective Bargaining Committee designed specifically around Maintainers classifications.
 
@@ -288,7 +300,7 @@ Contract ratification remains solely with the members of the bargaining unit cov
 
 ---
 
-# 11. Grievances and contract enforcement
+# 21. Grievances and contract enforcement
 
 The GSU President, Vice President, and trained representatives should work with the Local grievance structure on Graduate Student Employees matters.
 
@@ -302,7 +314,7 @@ A Representative Council member should not be required to independently process 
 
 ---
 
-# 12. Vacancies
+# 21. Vacancies
 
 ## President
 
@@ -326,7 +338,7 @@ The Council may appoint an eligible member for the remainder of a term when fewe
 
 ---
 
-# 13. Initial transition election
+# 21. Initial transition election
 
 The constitutional amendments should not force GSU to wait until the next ordinary Local triennial election.
 
@@ -340,11 +352,11 @@ Following adoption of the amendments:
 4. their initial terms end June 30, 2027;
 5. regular annual spring elections begin in 2027.
 
-Exact election notice periods should be checked against AFT/AFT Massachusetts and applicable legal requirements before the final amendment is circulated.
+The election provisions in Draft 1 now incorporate the AFT-required democratic-election safeguards, including secret ballot, mailed election notice for officer elections, candidate observer rights, and one-year record retention.
 
 ---
 
-# 14. GSU membership meetings
+# 21. GSU membership meetings
 
 GSU should be authorized to conduct its own chapter membership meetings in addition to Local-wide meetings.
 
@@ -361,7 +373,7 @@ Electronic participation must preserve:
 
 ---
 
-# 15. Financial structure
+# 21. Financial structure
 
 This proposal does **not** attempt to unilaterally redesign Local 6350 finances.
 
@@ -372,11 +384,11 @@ Proposed principle:
 - The GSU Treasurer tracks that allocation and provides reports.
 - GSU expenditures follow Local financial controls unless the Constitution expressly delegates additional authority.
 
-The current Local dues formula is Maintainers-specific and should be reviewed separately with the Local Treasurer and AFT/AFT Massachusetts before amendment language affecting dues is finalized.
+Draft 1 preserves the existing Local dues ceiling and applies the same full, one-half, one-quarter, and one-eighth income-based rate structure to Graduate Student Employees, using total UMass Dartmouth fiscal-year compensation across fall, spring, and summer to determine the applicable class.
 
 ---
 
-# 16. Contract ratification
+# 21. Contract ratification
 
 Preserve existing Article XV's core rule:
 
@@ -391,7 +403,7 @@ The reverse applies to a Maintainers agreement.
 
 ---
 
-# 17. What remains Local-wide
+# 21. What remains Local-wide
 
 GSU autonomy does not mean forming a separate Local.
 
@@ -406,7 +418,7 @@ Local-wide matters remain governed by Local 6350, including:
 
 ---
 
-# 18. What GSU controls
+# 21. What GSU controls
 
 Subject to the Local Constitution, AFT governing documents, applicable law, and the collective bargaining agreement, GSU should control its own:
 
@@ -426,7 +438,7 @@ Subject to the Local Constitution, AFT governing documents, applicable law, and 
 
 ---
 
-# 19. Why this is the proposed Tuesday model
+# 21. Why this is the proposed Tuesday model
 
 This proposal intentionally avoids two extremes.
 
@@ -444,15 +456,14 @@ The design therefore aims for:
 
 ---
 
-# 20. Status after Tuesday
+# 21. Status after Tuesday
 
 If GSU leadership approves the structure in principle:
 
 1. revise the proposal to reflect any leadership changes;
-2. send the proposed Local constitutional amendments and GSU chapter bylaws to the Local 6350 President;
-3. request review by AFT/AFT Massachusetts as appropriate;
-4. resolve finance, charter-name, and election-compliance questions;
-5. prepare the final amendment package for member circulation;
-6. comply with Article XIII's notice requirement before the intended October 21, 2026 vote.
+2. incorporate the leadership-approved changes into the Local constitutional amendments and GSU chapter bylaws;
+3. send the revised package to the Local 6350 President for informal review;
+4. prepare the final amendment package for member circulation;
+5. comply with Article XIII's notice requirement before the intended October 21, 2026 vote.
 
 If using the existing Constitution's fifteen-day distribution route for an October 21 vote, the amendment package must reach all members no later than **October 6, 2026**.
