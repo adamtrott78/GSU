@@ -69,16 +69,16 @@ Accordingly, the working process is:
 3. Local 6350 membership votes under the two-thirds rule;
 4. after adoption, submit the amended governing documents as required.
 
-## Remaining external confirmation
+## External confirmation phase complete for Draft 1
 
-### Appointment gaps and continuity of membership / office
+No unresolved external factual question is blocking Draft 1.
 
-**Question:** If a Graduate Student Employee has an ordinary gap between appointments — especially no summer appointment followed by a fall TA/RA appointment — does the member remain in good standing and eligible to continue serving in GSU office during that gap?
+The appointment-gap issue has been converted into an explicit **proposed governance rule** rather than asserted as an externally verified fact:
 
-**Why this still matters:** The proposed one-year officer term runs July 1 through June 30, while some graduate employees may not have a summer appointment.
+- a temporary gap between covered graduate appointments, including a summer without a covered appointment, does not by itself terminate GSU membership or elected-office eligibility when the member is expected to return to a covered Graduate Student Employees appointment in the immediately following academic term.
 
-**Do not infer an answer.** Confirm the Local/AFT membership treatment of ordinary appointment gaps before finalizing eligibility language.
+This proposal must be expressly approved, modified, or rejected by leadership at the September 22 meeting.
 
-## Next step
+## Draft 1 status
 
-Once the appointment-gap question is resolved or explicitly marked for leadership/Local review, the first draft can be frozen. Only then should unresolved governance choices be converted into presentation decision points.
+Draft 1 may now be treated as externally researched and internally frozen for leadership review. Remaining issues are governance decisions for the leadership meeting, not missing factual research.
