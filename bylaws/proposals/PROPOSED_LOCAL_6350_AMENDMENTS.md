@@ -157,6 +157,10 @@ This prevents the phrase "all elected officers" from unintentionally putting eve
 
 > **Section 2.** Any union member who has been a member in good standing for one year is eligible to be nominated for a Local-wide union office listed in Article IV, Section 1(a) through (d). Eligibility for Graduate Student Employees Chapter office, including the office whose holder serves as Graduate Student Vice-President of the Federation, shall be governed by Article XVII and the bylaws of the Graduate Student Employees Chapter.
 
+## Replace Article IX, Section 3 with:
+
+> **Section 3.** For Local-wide elections and delegate elections conducted under this Article, a notice of nominations and elections shall be prepared by the Nomination-Election Committee and provided to eligible members in accordance with the notice periods required by this Constitution and applicable requirements. Graduate Student Employees Chapter elections shall instead follow Article XVII and the chapter bylaws, provided that those procedures meet or exceed any notice period required by applicable law or the governing documents of affiliated organizations.
+
 ## Replace Article IX, Section 4 with:
 
 > **Section 4.** Nominations for the Local-wide offices listed in Article IV, Section 1(a) through (d) shall be made triennially at the regular July meeting in accordance with the nomination and notice procedures of this Article. Bargaining-unit chapter elections may occur on a different cycle as expressly authorized by this Constitution and the applicable chapter bylaws.
