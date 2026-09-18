@@ -84,6 +84,24 @@ This uses the bargaining-unit vice-president concept found in comparator AFT loc
 
 # AMENDMENT 3 — ARTICLE V: COMMITTEES
 
+## Replace Article V, Section 1 with:
+
+> **Section 1.** The following Local-wide committees shall be active in this Federation:
+>
+> a. Membership  
+> b. Budget  
+> c. Grievance  
+> d. Nominations-Election  
+> e. Social  
+> f. Scholarship  
+> g. Committee on Political Education (COPE)
+>
+> Collective Bargaining Committees shall be bargaining-unit-specific and shall be constituted as provided in Sections 3 through 6 of this Article.
+
+## Replace Article V, Section 2 with:
+
+> **Section 2.** Except as otherwise provided by this Constitution for bargaining-unit-specific committees, the chairperson and members of each Local-wide committee listed in Section 1 shall be appointed by the President.
+
 ## Replace Article V, Section 3 with:
 
 > **Section 3.** The Collective Bargaining Committee for the Maintainers bargaining unit shall be comprised of no less than the President, Vice-President, Secretary, Treasurer, and one representative each from the following Maintainers classifications or units:
@@ -136,7 +154,7 @@ The existing Article V bargaining committee is built around Maintainers classifi
 > c. the Treasurer;  
 > d. the Secretary;  
 > e. the Graduate Student Vice-President;  
-> f. the chairpersons of Local-wide committees established under Article V; and  
+> f. the chairpersons of the Local-wide committees listed in Article V, Section 1; and  
 > g. the chief delegate to the local labor council.
 >
 > An elected representative of a bargaining-unit chapter or Representative Council shall not become a member of the Federation Executive Board solely by reason of holding that chapter or representative office unless this Constitution expressly grants that office a seat on the Executive Board.
@@ -147,11 +165,27 @@ This prevents the phrase "all elected officers" from unintentionally putting eve
 
 ---
 
-# AMENDMENT 6 — ARTICLE IX: ELECTIONS
+# AMENDMENT 6 — ARTICLE VIII: AFFILIATIONS
+
+## Replace Article VIII, Section 4 with:
+
+> **Section 4.** Delegates to affiliated organizations shall be members in good standing of this Federation for at least one year.
+
+### Drafting note
+
+The existing provision requires delegates to meet the same requirements as Federation officers. Because the amended Constitution creates a different eligibility rule for the Graduate Student Vice-President, this revision preserves the existing one-year delegate-eligibility rule explicitly rather than leaving the phrase "same requirements as officers" ambiguous.
+
+---
+
+# AMENDMENT 7 — ARTICLE IX: ELECTIONS
 
 ## Replace the introductory sentence of Article IX with:
 
 > All elections for Local-wide Constitutional Officers, chapter officers, chapter representatives, and delegates to affiliated organizations shall be conducted in accordance with this Article, except where a bargaining-unit chapter is expressly authorized by this Constitution to use additional election procedures consistent with applicable law and the governing documents of affiliated organizations.
+
+## Replace Article IX, Section 1 with:
+
+> **Section 1.** For Local-wide Constitutional Officer elections and delegate elections conducted under this Article, the President shall appoint a Nomination-Election Committee to seek candidates, prepare the ballot, and conduct the election. No candidate for an office or delegate position appearing on a ballot may serve on the committee administering that election or participate in discretionary decisions concerning that election. Elections of Graduate Student Employees Chapter officers and representatives shall be administered in accordance with Article XVII and the Chapter bylaws.
 
 ## Replace Article IX, Section 2 with:
 
@@ -169,6 +203,14 @@ This prevents the phrase "all elected officers" from unintentionally putting eve
 
 > **Section 5.** All union members in good standing shall be eligible to vote for Local-wide Constitutional Officers and delegates where the election is Local-wide. Only members of a bargaining-unit chapter shall vote for officers and representatives elected solely to represent that chapter. The Graduate Student Employees Chapter shall elect its officers and Representative Council members in accordance with Article XVII and its chapter bylaws.
 
+## Replace Article IX, Section 6 with:
+
+> **Section 6.** Elections shall be by secret ballot where required by this Constitution, applicable law, or the governing documents of affiliated organizations. For Local-wide Constitutional Officer and delegate elections conducted at a membership meeting, ballots shall be counted before the meeting adjourns. Observers for candidates may be present when ballots are counted but may not participate in the counting. Graduate Student Employees Chapter elections shall be counted and certified under Article XVII and the Chapter bylaws.
+
+## Replace Article IX, Section 7 with:
+
+> **Section 7.** Results of Local-wide Constitutional Officer and delegate elections shall be announced promptly and published in writing by the chairperson of the Nomination-Election Committee. Election records, including ballots, tally sheets, notices, results, and the names of committee members, shall be preserved for at least one year or for any longer period required by applicable law or affiliated-organization rules. Graduate Student Employees Chapter election results and records shall be published and preserved under Article XVII and the Chapter bylaws, subject to the same minimum record-retention requirements.
+
 ## Replace Article IX, Section 8 with:
 
 > **Section 8.** Vacancies in Local-wide elective office, other than President, shall be filled by members appointed by the Executive Board subject to approval of the regular membership at the following regular membership meeting. A vacancy in the office of President shall be filled by the Vice-President. Vacancies in Graduate Student Employees Chapter office or Representative Council seats shall be governed by Article XVII and the chapter bylaws. Any member or officer who fails to carry out the duties of office or who is not present for three consecutive meetings without notice as required by the applicable governing rules may be subject to removal under procedures providing notice and an opportunity to be heard.
@@ -183,7 +225,7 @@ The final election-notice language should be reviewed by the Local President/AFT
 
 ---
 
-# AMENDMENT 7 — ARTICLE X: MEETINGS
+# AMENDMENT 8 — ARTICLE X: MEETINGS
 
 ## Add new Article X, Section 7:
 
@@ -191,11 +233,11 @@ The final election-notice language should be reviewed by the Local President/AFT
 
 ---
 
-# AMENDMENT 8 — ARTICLE XI: FINANCES
+# AMENDMENT 9 — ARTICLE XI: FINANCES
 
 ## Replace Article XI, Section 1 with:
 
-> **Section 1.** The dues of the Federation shall include the applicable per capita dues and assessments paid to AFT Massachusetts; AFT; the Massachusetts State Labor Council; the Greater Southeastern Massachusetts Labor Council; AFT insurance; and the Local dues component. Members shall pay the applicable full, one-half, one-quarter, or one-eighth dues rate according to the income thresholds and rate schedule then in effect for the Federation and its affiliated organizations. The same income classifications and rate structure shall apply to members of each bargaining-unit chapter. For members of the Graduate Student Employees bargaining unit, annual salary or income for purposes of determining the applicable dues rate shall mean the member's total compensation paid by the University of Massachusetts Dartmouth during the applicable fiscal year, including fall, spring, and summer employment. The Local dues component shall continue to use the same rate structure applied to Maintainers, including the existing amount based on six hours of pay as reflected by the Salary Schedule, Grade 9, Step I, prorated according to the member's applicable dues rate.
+> **Section 1.** The dues of the Federation shall not exceed the sum of the applicable per capita dues and assessments paid to AFT Massachusetts; AFT; the Massachusetts State Labor Council; the Greater Southeastern Massachusetts Labor Council; AFT insurance; plus the Local dues amount equal to six hours of pay as reflected by the Salary Schedule, Grade 9, Step I. Members shall pay the applicable full, one-half, one-quarter, or one-eighth dues rate according to the income thresholds and rate schedule then in effect for the Federation and its affiliated organizations. The same income classifications and rate structure shall apply to members of each bargaining-unit chapter. For members of the Graduate Student Employees bargaining unit, annual salary or income for purposes of determining the applicable dues rate shall mean the member's total compensation paid by the University of Massachusetts Dartmouth during the applicable fiscal year, including fall, spring, and summer employment.
 
 ## Add new Article XI, Section 6:
 
@@ -207,7 +249,19 @@ AFT and AFT Massachusetts publish the full, one-half, one-quarter, and one-eight
 
 ---
 
-# AMENDMENT 9 — ARTICLE XV: RATIFICATION OF CONTRACTS
+# AMENDMENT 10 — ARTICLE XIII: AMENDMENTS TO THE CONSTITUTION
+
+## Replace Article XIII, Section 1 with:
+
+> **Section 1.** This Constitution may be changed or amended at any regular meeting of the Federation by a two-thirds vote of the members present, provided that the proposed constitutional amendment has been read to the members at the regular meeting immediately preceding, or provided that a copy of the proposed constitutional amendment has been presented to all members at least fifteen days before the vote on the amendment is taken. An amendment to authorized bargaining-unit chapter bylaws that does not amend or conflict with this Constitution is not an amendment to this Constitution and shall be governed by Section 2 of this Article.
+
+## Add new Article XIII, Section 2:
+
+> **Section 2.** A bargaining-unit chapter may adopt and amend chapter bylaws under the procedures authorized by this Constitution and the applicable chapter bylaws, provided that no chapter bylaw may conflict with this Constitution, applicable law, the governing documents of affiliated organizations, or the collective bargaining agreement covering that bargaining unit.
+
+---
+
+# AMENDMENT 11 — ARTICLE XV: RATIFICATION OF CONTRACTS
 
 ## Retain Article XV, Section 1 and subsections (a) and (b), and add subsection (c):
 
@@ -219,7 +273,7 @@ The first sentence of existing Article XV already establishes the critical princ
 
 ---
 
-# AMENDMENT 10 — ADD NEW ARTICLE XVII: GRADUATE STUDENT EMPLOYEES CHAPTER
+# AMENDMENT 12 — ADD NEW ARTICLE XVII: GRADUATE STUDENT EMPLOYEES CHAPTER
 
 ## ARTICLE XVII: GRADUATE STUDENT EMPLOYEES CHAPTER
 
@@ -227,7 +281,7 @@ The first sentence of existing Article XV already establishes the critical princ
 >
 > **Section 2. Membership.** Membership in the Graduate Student Employees Chapter consists of members of the Federation who are represented in the Graduate Student Employees bargaining unit, subject to the membership provisions of Article III.
 >
-> **Section 3. Officers.** The Chapter shall elect a President, Vice President, Treasurer, and Secretary. Officers shall serve one-year terms unless the Chapter bylaws are amended consistently with this Constitution to provide another term length.
+> **Section 3. Officers.** The Chapter shall elect a President, Vice President, Treasurer, and Secretary. Officers shall serve one-year terms.
 >
 > **Section 4. Graduate Student Vice-President.** The elected President of the Graduate Student Employees Chapter shall, by virtue of office, serve as Graduate Student Vice-President of the Federation and as a voting member of the Federation Executive Board.
 >
@@ -261,9 +315,7 @@ The working package does not presently propose substantive changes to:
 
 - Article I — Name
 - Article II — Objectives
-- Article VIII — Affiliations
 - Article XII — Rules of Order
-- Article XIII — Amendments to the Constitution
 - Article XIV — Availability of the Constitution
 - Article XVI — Order of Business at Regular Meetings
 
@@ -271,17 +323,16 @@ These articles may receive technical conforming edits after the Local President/
 
 ---
 
-# QUESTIONS THAT MUST BE RESOLVED BEFORE MEMBER CIRCULATION
+# EXTERNAL CONFIRMATIONS REQUIRED BEFORE MEMBER CIRCULATION
 
-1. **Chartered name:** May/should Article I be broadened beyond "U-Mass Dartmouth Maintainers, Local 6350"?
-2. **Formal bargaining-unit title:** Is "Graduate Student Employees bargaining unit" the exact formal title Local/AFT wants used?
-3. **Officer title:** Is "Graduate Student Vice-President" acceptable to the Local/AFT for the GSU President's Local role?
-4. **Eligibility:** Does AFT/AFT Massachusetts require any minimum membership period for the chapter office that carries the Local Executive Board seat?
-5. **Election notice:** What exact nomination/election notice periods must govern the initial and annual GSU elections?
-6. **Dues administration:** Confirm with the Local Treasurer that the revised Article XI wording accurately reflects the current practice of applying the same income-based dues classes and rate structure to Maintainers and Graduate Student Employees, with Graduate Student Employees classified using total UMass Dartmouth fiscal-year compensation.
-7. **Committee-chair Executive Board seats:** Does Local leadership want to preserve voting Executive Board membership for all appointed Local committee chairs?
-8. **Electronic meetings:** Does the Local want the new electronic/hybrid authority to apply only to chapters or also to all Federation meetings?
-9. **Filing/approval:** What review or submission process does AFT/AFT Massachusetts require before or after adoption?
+1. **Chartered Local name:** Confirm whether "U-Mass Dartmouth Maintainers, Local 6350" is the chartered/legal name that must remain in Article I, or whether AFT/AFT Massachusetts permits or expects a broader Local-wide name.
+2. **Formal bargaining-unit title:** Confirm the exact formal name that should be used for the Graduate Student Employees bargaining unit / Unit B in the Constitution.
+3. **Graduate Student Vice-President title and ex officio structure:** Confirm that AFT/AFT Massachusetts and Local 6350 permit the elected GSU President to serve ex officio as the Graduate Student Vice-President of the Federation and as a voting member of the Executive Board.
+4. **Officer eligibility exception:** Confirm that no AFT/AFT Massachusetts rule requires the GSU President / Graduate Student Vice-President to have one year of prior membership before taking the linked Local office.
+5. **Appointment gaps and continuity:** Confirm how union membership and eligibility to remain in GSU office are treated when a graduate employee has an ordinary gap between appointments, especially a summer with no appointment followed by a fall appointment.
+6. **Election notice and administration requirements:** Confirm the minimum nomination notice, election notice, secret-ballot, electronic-voting, and record-retention requirements that must govern the initial and annual GSU elections.
+7. **Dues administration:** Confirm with the Local Treasurer that Article XI accurately reflects current practice: the same full, one-half, one-quarter, and one-eighth classifications and Local rate structure apply across bargaining units, and a Graduate Student Employee's classification is based on total UMass Dartmouth compensation for the applicable fiscal year, including fall, spring, and summer income.
+8. **AFT/AFT Massachusetts review and filing:** Confirm what approval, review, submission, or filing is required before and/or after Local 6350 adopts the constitutional amendments and GSU chapter bylaws.
 
 ---
 
