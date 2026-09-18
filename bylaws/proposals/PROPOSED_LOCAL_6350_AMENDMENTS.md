@@ -21,7 +21,7 @@ Bracketed drafting notes are **not** proposed constitutional text.
 7. Permit unit-specific bargaining committees.
 8. Create a GSU election cycle suited to graduate-worker turnover.
 9. Avoid changing the chartered Local name until the Local President/AFT confirms whether that is appropriate.
-10. Avoid redesigning dues until the Local Treasurer/AFT reviews the financial provisions.
+10. Preserve the existing dues framework while making the income-based full, one-half, one-quarter, and one-eighth rate structure expressly applicable across bargaining units.
 
 ---
 
@@ -193,13 +193,17 @@ The final election-notice language should be reviewed by the Local President/AFT
 
 # AMENDMENT 8 — ARTICLE XI: FINANCES
 
+## Replace Article XI, Section 1 with:
+
+> **Section 1.** The dues of the Federation shall include the applicable per capita dues and assessments paid to AFT Massachusetts; AFT; the Massachusetts State Labor Council; the Greater Southeastern Massachusetts Labor Council; AFT insurance; and the Local dues component. Members shall pay the applicable full, one-half, one-quarter, or one-eighth dues rate according to the income thresholds and rate schedule then in effect for the Federation and its affiliated organizations. The same income classifications and rate structure shall apply to members of each bargaining-unit chapter. For members of the Graduate Student Employees bargaining unit, annual salary or income for purposes of determining the applicable dues rate shall mean the member's total compensation paid by the University of Massachusetts Dartmouth during the applicable fiscal year, including fall, spring, and summer employment. The Local dues component shall continue to use the same rate structure applied to Maintainers, including the existing amount based on six hours of pay as reflected by the Salary Schedule, Grade 9, Step I, prorated according to the member's applicable dues rate.
+
 ## Add new Article XI, Section 6:
 
 > **Section 6.** The Federation may establish or approve budgets or budget allocations for bargaining-unit chapters. A chapter treasurer may maintain internal records and administer an approved chapter budget in coordination with the Treasurer of the Federation, but no chapter officer shall independently open, control, or obligate accounts or funds of the Federation except as expressly authorized by the Executive Board, the adopted budget, or this Constitution.
 
-### Drafting note — financial review required
+### Drafting note
 
-No change to the current dues formula is proposed in this working draft. Article XI, Section 1 is tied to Maintainers Salary Schedule Grade 9, Step I and should be reviewed with the Local Treasurer and AFT/AFT Massachusetts before the final amendment package is circulated.
+AFT and AFT Massachusetts publish the full, one-half, one-quarter, and one-eighth per-capita rate schedules and income thresholds annually. Those changing dollar figures should not be hard-coded into the Constitution. For Graduate Student Employees, Local leadership has clarified that the applicable dues class is based on total UMass Dartmouth compensation for the fiscal year, including fall, spring, and summer income.
 
 ---
 
@@ -274,7 +278,7 @@ These articles may receive technical conforming edits after the Local President/
 3. **Officer title:** Is "Graduate Student Vice-President" acceptable to the Local/AFT for the GSU President's Local role?
 4. **Eligibility:** Does AFT/AFT Massachusetts require any minimum membership period for the chapter office that carries the Local Executive Board seat?
 5. **Election notice:** What exact nomination/election notice periods must govern the initial and annual GSU elections?
-6. **Finances:** How should Article XI's Maintainers-specific dues formula be reconciled with the Graduate Student Employees bargaining unit?
+6. **Dues administration:** Confirm with the Local Treasurer that the revised Article XI wording accurately reflects the current practice of applying the same income-based dues classes and rate structure to Maintainers and Graduate Student Employees, with Graduate Student Employees classified using total UMass Dartmouth fiscal-year compensation.
 7. **Committee-chair Executive Board seats:** Does Local leadership want to preserve voting Executive Board membership for all appointed Local committee chairs?
 8. **Electronic meetings:** Does the Local want the new electronic/hybrid authority to apply only to chapters or also to all Federation meetings?
 9. **Filing/approval:** What review or submission process does AFT/AFT Massachusetts require before or after adoption?
