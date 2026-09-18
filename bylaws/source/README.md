@@ -5,17 +5,19 @@
 - `Bylaw-Edits.md` — exact Markdown file supplied for this project.
 - `Bylaw-Edits.pdf` — annotated PDF supplied for this project; contains leadership margin comments that are not fully preserved by the Markdown conversion.
 
-### Integrity hashes of the supplied files
+### Integrity verification
 
-- `Bylaw-Edits.md` SHA-256: `3c01643157c0983c9746a70403823cb2f7fb6c93c8c53a13496ecf470bb81a8f`
-- `Bylaw-Edits.pdf` SHA-256: `0de46f31d50766c4bcd759254a4da7d261c951a3da27f7a062ed44ef8ee9de3a`
+Both committed source files have been verified byte-for-byte against the copies supplied in the working conversation by comparing their Git blob hashes and SHA-256 digests.
 
-## Repository status
+- `Bylaw-Edits.md`
+  - Git blob SHA: `76d824b84032e7b1456d38b61d1778a1f11d2792`
+  - SHA-256: `3c01643157c0983c9746a70403823cb2f7fb6c93c8c53a13496ecf470bb81a8f`
+- `Bylaw-Edits.pdf`
+  - Git blob SHA: `17c4b8336ac92113545633546d336be666b373b0`
+  - SHA-256: `0de46f31d50766c4bcd759254a4da7d261c951a3da27f7a062ed44ef8ee9de3a`
 
-The exact Markdown source is committed here.
+## Authority
 
-The original PDF is a binary attachment. The current GitHub connector used for this commit supports repository text writes but does not expose a direct attachment-to-repository binary upload path. **Do not recreate or convert the PDF and call it the original.** When the original binary is added, verify it against the SHA-256 above and store it at:
+Use the PDF when interpreting margin comments, annotations, or page layout. Use the Markdown for search, comparison, and drafting.
 
-`bylaws/source/Bylaw-Edits.pdf`
-
-Until then, use the original leadership-supplied PDF outside the repository when interpreting comments.
+Do not edit either source file in place. Proposed changes should live in separate analysis/redline files so the original source remains preserved.
