@@ -30,6 +30,8 @@ GSU exists to democratically represent Graduate Student Employees; protect and e
 
 Membership consists of members in good standing of Local 6350 who are represented in the Graduate Student Employees bargaining unit.
 
+A temporary gap between covered Graduate Student Employees appointments, including a summer period without a covered appointment, does not by itself terminate GSU membership when the member is expected to return to a covered Graduate Student Employees appointment in the immediately following academic term.
+
 ## Section 2. Rights of members
 
 Each member in good standing has the right to:
@@ -69,6 +71,8 @@ Officers may seek reelection while otherwise eligible.
 ## Section 3. Eligibility
 
 Any GSU member in good standing is eligible to seek and hold GSU office.
+
+A temporary appointment gap described in Article II, Section 1 does not by itself make an elected officer or Representative Council member ineligible to complete the term while the member remains expected to return to a covered Graduate Student Employees appointment in the immediately following academic term.
 
 No minimum one-year membership period applies to GSU chapter office unless required by controlling law or the governing documents of affiliated organizations.
 
