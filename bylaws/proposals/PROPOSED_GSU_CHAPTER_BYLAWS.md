@@ -237,7 +237,7 @@ If necessary, the Local 6350 Nomination-Election Committee may administer or sup
 
 ## Section 3. Election notice
 
-Each eligible member shall receive written notice of a regular or special election at least fifteen calendar days before ballots are due or voting closes, unless a longer period is required by controlling law, the Local Constitution, or affiliated-organization rules.
+For an election of GSU officers, written notice of the election shall be mailed to every GSU member at the member's last known home address at least fifteen calendar days before voting closes. The Election Committee may provide additional notice electronically or by other means. Representative Council elections shall use the same notice standard unless controlling requirements permit a different procedure.
 
 The notice shall state:
 
@@ -268,9 +268,12 @@ Electronic voting may be used if the method:
 
 - verifies voter eligibility;
 - prevents duplicate voting;
-- preserves ballot secrecy where required;
-- creates an auditable result; and
-- gives eligible members a reasonable opportunity to vote.
+- preserves ballot secrecy;
+- creates an auditable result;
+- gives eligible members a reasonable opportunity to vote; and
+- provides candidates meaningful observer access to the stages of the process necessary to verify election integrity.
+
+No proxy voting is permitted in an officer election.
 
 ## Section 6. Electorates
 
@@ -298,13 +301,17 @@ If only one eligible candidate is nominated for a position and applicable law do
 
 The Election Committee shall document and publish the result.
 
-## Section 9. Results and records
+## Section 9. Candidate observers
+
+Each bona fide candidate shall have the right to designate an observer at each polling location and at each place or stage where ballots are received, eligibility is verified, ballots are counted, or electronic results are processed, to the extent necessary to provide meaningful observation without compromising ballot secrecy.
+
+## Section 10. Results and records
 
 Election results shall be promptly reported to the membership.
 
-Election records shall be preserved for at least one year or for any longer period required by law, the Local Constitution, or affiliated-organization rules.
+Election records, including membership and eligibility lists, nomination and election notices, voting instructions, ballots and ballot records, challenged or voided ballots, tally records, and other records pertaining to the election, shall be preserved for at least one year or for any longer period required by controlling rules.
 
-## Section 10. Challenges
+## Section 11. Challenges
 
 An election challenge shall be submitted in writing to the Election Committee within seven calendar days after results are announced.
 
