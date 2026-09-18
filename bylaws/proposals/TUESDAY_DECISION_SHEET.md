@@ -86,11 +86,11 @@ The existing Local one-year membership requirement does not apply to GSU chapter
 
 ### Recommendation
 
-**Approve in principle, subject to Local/AFT review.**
+**Approve as proposed.**
 
 ### Why
 
-A mandatory one-year waiting period substantially narrows leadership eligibility in a high-turnover bargaining unit and creates an immediate transition problem.
+A mandatory one-year waiting period substantially narrows leadership eligibility in a high-turnover bargaining unit and would make the initial GSU election impossible because the GSU itself has not existed for one year. The proposed amendment expressly creates the exception for GSU chapter office.
 
 **Leadership decision:** APPROVE / MODIFY / REJECT
 
@@ -236,7 +236,11 @@ After constitutional adoption:
 
 ### Recommendation
 
-**Approve in principle, subject to Local/AFT review of election notice requirements.**
+**Approve as proposed.**
+
+### Why
+
+The election framework has been updated to incorporate the AFT-required democratic-election safeguards, including secret ballot, mailed notice for officer elections, observer rights, and election-record retention.
 
 **Leadership decision:** APPROVE / MODIFY / REJECT
 
@@ -244,17 +248,73 @@ Notes:
 
 ---
 
-# Questions specifically reserved for Local 6350 President / Treasurer / AFT review
+## Decision 11 — Temporary summer / appointment-gap continuity
 
-These should **not** block leadership from deciding the desired GSU governance model on Tuesday.
+### Proposal
 
-1. Does the chartered legal name "U-Mass Dartmouth Maintainers, Local 6350" need to remain unchanged?
-2. What exact formal terminology should identify the Graduate Student Employees bargaining unit / Unit B?
-3. What election notice requirements apply to the initial GSU election?
-4. Can the GSU President constitutionally serve ex officio as Graduate Student Vice-President of the Local as proposed?
-5. How should the existing Local one-year officer eligibility language be amended for GSU?
-6. How are Local dues, GSU allocations, reimbursements, and signing authority currently administered?
-7. Does AFT/AFT Massachusetts require approval or filing beyond the submission requirements already contained in Article XIV?
+A temporary gap between covered Graduate Student Employees appointments — including a summer without a covered UMass Dartmouth appointment — does **not** by itself terminate GSU membership or eligibility to continue serving in elected GSU office when the member is expected to return to a covered Graduate Student Employees appointment in the immediately following academic term.
+
+### Recommendation
+
+**Approve as proposed.**
+
+### Why
+
+GSU terms run across the summer, but graduate funding and appointment patterns do not always do so. Without a continuity rule, an otherwise eligible elected officer could lose office solely because of an ordinary summer funding gap despite returning to the bargaining unit in the fall.
+
+This rule does **not** cover graduation, permanent departure from UMass Dartmouth, or a member who is not expected to return to a covered appointment.
+
+**Leadership decision:** APPROVE / MODIFY / REJECT
+
+Notes:
+
+---
+
+## Decision 12 — Contract-ratification administration
+
+### Proposal
+
+For a GSU collective bargaining agreement, GSU elected leadership participates in calling, administering, and communicating the ratification process **in coordination with Local 6350 officers**.
+
+Only members of the Graduate Student Employees bargaining unit vote on the agreement, as the current Local Constitution already requires.
+
+### Recommendation
+
+**Approve as proposed.**
+
+### Why
+
+This gives GSU direct control and responsibility over communication with its own bargaining unit while preserving Local 6350's umbrella legal and administrative role.
+
+**Leadership decision:** APPROVE / MODIFY / REJECT
+
+Notes:
+
+---
+
+# Discussion item — Local 6350 name
+
+The first draft preserves the existing name **U-Mass Dartmouth Maintainers, Local 6350**.
+
+Leadership does **not** need to change the name for this amendment package to work. However, the group may discuss whether it eventually wants to recommend a broader umbrella name now that Local 6350 contains both Maintainers and Graduate Student Employees.
+
+No name change is proposed in Draft 1.
+
+---
+
+# Already resolved before the meeting
+
+These are no longer open research questions:
+
+- use **Graduate Student Employees** as the graduate-unit terminology;
+- retain the existing Local 6350 name in Draft 1;
+- use the proposed Graduate Student Vice-President structure as part of the constitutional amendment itself;
+- expressly exempt GSU chapter office from the Local's one-year prior-membership rule;
+- use AFT-required democratic-election safeguards for GSU officer elections;
+- use the clarified income-based dues treatment for Graduate Student Employees;
+- follow existing Article XIII for amendment notice and the two-thirds Local membership vote, followed by required post-adoption submission.
+
+The current draft also **preserves**, rather than changes, the existing Local-wide Executive Board seats held by Local-wide committee chairs.
 
 ---
 
