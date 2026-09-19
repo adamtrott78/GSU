@@ -1,6 +1,6 @@
 # GSU Governance Presentation Script
 
-**Status:** STAGE 1 CORRECTED DRAFT — spoken narration / talking points  
+**Status:** STAGE 1 — SLIDE-BY-SLIDE CONCEPT REVIEW  
 **Meeting:** September 22, 2026  
 **Target spoken length:** approximately 10–14 minutes before discussion
 
@@ -28,45 +28,53 @@ So the question for today is basically: does this structure make sense for gradu
 
 ---
 
-# Slide 2 — Local 6350 has pieces of multi-unit governance—but no defined GSU structure
+# Slide 2 — Local 6350 already has pieces of multi-unit governance—GSU is the missing structure
+
+**Status:** CONCEPT LOCKED
 
 ## Script
 
-"The current constitution is still fundamentally written around the Maintainers.
+"The current constitution was written around the Maintainers, which makes sense historically.
 
 The membership language is built around maintenance personnel, and the bargaining committee is literally defined around Custodial, Grounds, Power Plant, and Trades.
 
-But there are also two useful pieces already in the document.
+But there are also two really useful pieces already in the document.
 
 Article IX already refers to chapter-specific voting, even though the constitution never really defines those chapters. And Article XV already says only members of the bargaining unit covered by a contract vote on that contract.
 
-So this is not us inventing a completely foreign structure. The constitution already has pieces of multi-unit governance. What Draft 1 does is define the Graduate Student Employees chapter and make those pieces actually usable."
+So we're not inventing a completely foreign structure. The constitution already has pieces of multi-unit governance. What Draft 1 does is define the Graduate Student Employees chapter and make those pieces actually usable."
 
 ## Transition
 
-"Before deciding how to do that, I looked at how other AFT locals organize multiple bargaining units and representative bodies."
+"Before deciding how to do that, I wanted to make sure we weren't just inventing a governance model from scratch, so I looked at how other AFT locals handle multiple bargaining units and representative bodies."
 
 ---
 
-# Slide 3 — Other AFT locals provide useful building blocks—not a template we have to copy
+# Slide 3 — The building blocks already exist in other AFT locals—we can adapt them to GSU
+
+**Status:** CONCEPT LOCKED
 
 ## Script
 
-"Two locals were especially useful as structural comparisons.
+"Before drafting this, I wanted to make sure we weren't just inventing a governance model from scratch. So I looked at how other AFT locals handle multiple constituencies and bargaining units.
 
-Chelsea has bargaining-unit-specific elected leadership with explicit bargaining and grievance roles. Chelmsford has multiple bargaining units and, importantly for us, a Representative Council that is separate from the main Executive Board.
+Two examples were especially useful.
 
-Those examples show that there is no single mandatory way to organize this. They give us building blocks.
+Chelsea uses bargaining-unit-specific elected leadership with defined roles in bargaining and grievances, and it also elects representatives from particular constituencies.
 
-The pieces that fit us are elected bargaining-unit leadership, a separate representative body, and a unit-specific bargaining team.
+Chelmsford is especially useful for the other half of our structure. It represents multiple bargaining units, uses unit-specific bargaining teams, and has a Representative Council that is separate from its main Executive Board.
 
-The part we are deliberately not copying is a new Local 6350 officer or a new Executive Board seat. We do not need to change broader Local leadership in order to create democratic GSU governance.
+I don't think we should copy either constitution wholesale. The important point is that the building blocks already exist.
 
-And then on top of those structural ideas, we need shorter terms and more flexible eligibility because graduate-worker turnover is totally different from a teacher local."
+Draft 1 takes those ideas and adapts them to graduate workers: our own four officers, a separate Representative Council, college or school representation, and our own bargaining team.
+
+Then we change the parts that don't fit graduate employment—especially term length and eligibility.
+
+And importantly, none of this requires changing the existing Local 6350 Executive Board."
 
 ## Transition
 
-"That leads to the overall structure in Draft 1."
+"So if we take those pieces and apply them narrowly to our situation, the overall structure becomes pretty simple."
 
 ---
 
