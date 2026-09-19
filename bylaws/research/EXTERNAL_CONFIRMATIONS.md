@@ -14,11 +14,14 @@ The first draft keeps the existing name **U-Mass Dartmouth Maintainers, Local 63
 
 Use **Graduate Student Employees** consistently for the graduate bargaining unit and chapter.
 
-### GSU President / Graduate Student Vice-President
+### GSU President / Local 6350 relationship
 
-The proposed structure makes the elected GSU President serve ex officio as Graduate Student Vice-President of Local 6350 and as a voting Executive Board member.
+Draft 1 preserves the existing Local 6350 officer and Executive Board structure.
 
-This is treated as part of the constitutional proposal itself. Chelsea Local 1340 and Chelmsford Local 3569 provide comparator precedent for bargaining-unit-specific vice presidents. The structure becomes effective only if Local 6350 adopts the amendments.
+The elected GSU President serves as the principal liaison between the Graduate Student Employees Chapter and existing Local leadership. This does not create a new Local-wide office or automatic Executive Board seat.
+
+Chelsea Local 1340 and Chelmsford Local 3569 remain useful structural comparators, but Draft 1 intentionally adopts a narrower arrangement so creation of GSU does not alter broader Local leadership.
+
 
 ### One-year eligibility exception
 
