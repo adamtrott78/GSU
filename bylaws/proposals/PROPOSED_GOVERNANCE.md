@@ -47,18 +47,15 @@ This proposal does **not** create:
 - a new voting seat on the Local Executive Board; or
 - a separate Local-level election for GSU representation.
 
-If Local 6350 later wants to create a guaranteed GSU Executive Board seat, that should be considered as a separate Local-wide governance change.
+If Local 6350 later wants to create a guaranteed GSU Executive Board seat, that would be a separate Local-wide governance decision outside the baseline GSU chapter structure.
 
 ---
 
-# 3.
----
+# 3. Existing Local 6350 Executive Board remains unchanged
 
-# 3. Proposed Local 6350 Executive Board
+Draft 1 preserves the existing Local Executive Board composition. The constitutional amendment only clarifies that creating GSU chapter offices does not automatically add those chapter officers to the Local board.
 
-The Local Executive Board should be specifically enumerated rather than defined as every person who happens to hold an elected title.
-
-### Proposed voting members
+### Existing voting membership preserved
 
 - Local President
 - Local Vice-President
