@@ -15,7 +15,7 @@ Bracketed drafting notes are **not** proposed constitutional text.
 1. Preserve the existing Local 6350 umbrella and existing four Local-wide offices.
 2. Formally recognize bargaining-unit chapters inside the Local.
 3. Create democratic GSU chapter governance.
-4. Guarantee GSU representation on the Local Executive Board.
+4. Create a clear GSU-to-Local liaison without changing the existing Local 6350 officer or Executive Board structure.
 5. Keep the GSU Representative Council separate from the Local Executive Board.
 6. Preserve bargaining-unit-only contract ratification.
 7. Permit unit-specific bargaining committees.
@@ -49,40 +49,7 @@ This removes the current conflict created by Article III's exclusion of "all oth
 
 ---
 
-# AMENDMENT 2 — ARTICLE IV: OFFICERS & DUTIES OF OFFICERS
-
-## Replace Article IV, Section 1 with:
-
-> **Section 1.** The following Local-wide officers shall be elected triennially by the Federation:
->
-> a. President  
-> b. Vice-President  
-> c. Treasurer  
-> d. Secretary
->
-> In addition, the President of the Graduate Student Employees Chapter shall, by virtue of that chapter office, serve as the **Graduate Student Vice-President of the Federation** for the duration of the President's chapter term and shall be an officer of the Federation.
-
-## Replace Article IV, Section 2 with:
-
-> **Section 2.** Membership in good standing in the Federation for at least one year is required to hold a Local-wide office listed in Section 1(a) through (d). The one-year requirement shall not apply to the Graduate Student Vice-President serving by virtue of election as President of the Graduate Student Employees Chapter. Eligibility for Graduate Student Employees Chapter office shall be governed by Article XVII and the bylaws of that chapter.
-
-## Add new Article IV, Section 7:
-
-> **Section 7.** The Graduate Student Vice-President shall:
->
-> a. represent the Graduate Student Employees Chapter on the Executive Board;  
-> b. serve as the principal liaison between the Graduate Student Employees Chapter and the Local-wide officers;  
-> c. communicate matters affecting Graduate Student Employees to the Executive Board and communicate relevant Executive Board actions to the Graduate Student Employees Chapter;  
-> d. participate in bargaining, grievance, contract-administration, and organizing matters affecting the Graduate Student Employees bargaining unit as provided by this Constitution and the chapter bylaws; and  
-> e. perform such other duties consistent with this Constitution as may be assigned by the membership of the Graduate Student Employees Chapter or the Executive Board.
-
-### Drafting note
-
-This uses the bargaining-unit vice-president concept found in comparator AFT locals while allowing the GSU to retain a traditional internal office title of President.
-
----
-
-# AMENDMENT 3 — ARTICLE V: COMMITTEES
+# AMENDMENT 2 — ARTICLE V: COMMITTEES
 
 ## Replace Article V, Section 1 with:
 
@@ -131,7 +98,7 @@ The existing Article V bargaining committee is built around Maintainers classifi
 
 ---
 
-# AMENDMENT 4 — ARTICLE VI: DUTIES OF COMMITTEES
+# AMENDMENT 3 — ARTICLE VI: DUTIES OF COMMITTEES
 
 ## Replace Article VI, Section 3 with:
 
@@ -143,7 +110,7 @@ The existing Article V bargaining committee is built around Maintainers classifi
 
 ---
 
-# AMENDMENT 5 — ARTICLE VII: EXECUTIVE BOARD
+# AMENDMENT 4 — ARTICLE VII: EXECUTIVE BOARD
 
 ## Replace Article VII, Section 1 with:
 
@@ -153,19 +120,18 @@ The existing Article V bargaining committee is built around Maintainers classifi
 > b. the Vice-President;  
 > c. the Treasurer;  
 > d. the Secretary;  
-> e. the Graduate Student Vice-President;  
-> f. the chairpersons of the Local-wide committees listed in Article V, Section 1; and  
-> g. the chief delegate to the local labor council.
+> e. the chairpersons of the Local-wide committees listed in Article V, Section 1; and  
+> f. the chief delegate to the local labor council.
 >
-> An elected representative of a bargaining-unit chapter or Representative Council shall not become a member of the Federation Executive Board solely by reason of holding that chapter or representative office unless this Constitution expressly grants that office a seat on the Executive Board.
+> Officers or representatives elected solely to a bargaining-unit chapter do not become members of the Federation Executive Board solely by reason of that chapter office unless this Constitution is later amended to provide otherwise.
 
 ### Drafting note
 
-This prevents the phrase "all elected officers" from unintentionally putting every elected GSU college representative on the Local Executive Board.
+This preserves the existing Local Executive Board structure while making clear that creation of elected GSU offices and a GSU Representative Council does not automatically create new Local-wide officers or Executive Board seats.
 
 ---
 
-# AMENDMENT 6 — ARTICLE VIII: AFFILIATIONS
+# AMENDMENT 5 — ARTICLE VIII: AFFILIATIONS
 
 ## Replace Article VIII, Section 4 with:
 
@@ -173,11 +139,11 @@ This prevents the phrase "all elected officers" from unintentionally putting eve
 
 ### Drafting note
 
-The existing provision requires delegates to meet the same requirements as Federation officers. Because the amended Constitution creates a different eligibility rule for the Graduate Student Vice-President, this revision preserves the existing one-year delegate-eligibility rule explicitly rather than leaving the phrase "same requirements as officers" ambiguous.
+The chapter amendments create GSU officers with different eligibility rules from Local-wide officers. This revision preserves the existing one-year eligibility standard for delegates by stating it directly.
 
 ---
 
-# AMENDMENT 7 — ARTICLE IX: ELECTIONS
+# AMENDMENT 6 — ARTICLE IX: ELECTIONS
 
 ## Replace the introductory sentence of Article IX with:
 
@@ -189,7 +155,7 @@ The existing provision requires delegates to meet the same requirements as Feder
 
 ## Replace Article IX, Section 2 with:
 
-> **Section 2.** Any union member who has been a member in good standing for one year is eligible to be nominated for a Local-wide union office listed in Article IV, Section 1(a) through (d). Eligibility for Graduate Student Employees Chapter office, including the office whose holder serves as Graduate Student Vice-President of the Federation, shall be governed by Article XVII and the bylaws of the Graduate Student Employees Chapter.
+> **Section 2.** Any union member who has been a member in good standing for one year is eligible to be nominated for a Local-wide union office listed in Article IV. Eligibility for Graduate Student Employees Chapter office shall be governed by Article XVII and the bylaws of the Graduate Student Employees Chapter.
 
 ## Replace Article IX, Section 3 with:
 
@@ -225,7 +191,7 @@ AFT's 2024 Constitution requires local elections to be consistent with the elect
 
 ---
 
-# AMENDMENT 8 — ARTICLE X: MEETINGS
+# AMENDMENT 7 — ARTICLE X: MEETINGS
 
 ## Add new Article X, Section 7:
 
@@ -233,7 +199,7 @@ AFT's 2024 Constitution requires local elections to be consistent with the elect
 
 ---
 
-# AMENDMENT 9 — ARTICLE XI: FINANCES
+# AMENDMENT 8 — ARTICLE XI: FINANCES
 
 ## Replace Article XI, Section 1 with:
 
@@ -249,7 +215,7 @@ AFT and AFT Massachusetts publish the full, one-half, one-quarter, and one-eight
 
 ---
 
-# AMENDMENT 10 — ARTICLE XIII: AMENDMENTS TO THE CONSTITUTION
+# AMENDMENT 9 — ARTICLE XIII: AMENDMENTS TO THE CONSTITUTION
 
 ## Replace Article XIII, Section 1 with:
 
@@ -261,7 +227,7 @@ AFT and AFT Massachusetts publish the full, one-half, one-quarter, and one-eight
 
 ---
 
-# AMENDMENT 11 — ARTICLE XV: RATIFICATION OF CONTRACTS
+# AMENDMENT 10 — ARTICLE XV: RATIFICATION OF CONTRACTS
 
 ## Retain Article XV, Section 1 and subsections (a) and (b), and add subsection (c):
 
@@ -273,7 +239,7 @@ The first sentence of existing Article XV already establishes the critical princ
 
 ---
 
-# AMENDMENT 12 — ADD NEW ARTICLE XVII: GRADUATE STUDENT EMPLOYEES CHAPTER
+# AMENDMENT 11 — ADD NEW ARTICLE XVII: GRADUATE STUDENT EMPLOYEES CHAPTER
 
 ## ARTICLE XVII: GRADUATE STUDENT EMPLOYEES CHAPTER
 
@@ -283,17 +249,17 @@ The first sentence of existing Article XV already establishes the critical princ
 >
 > **Section 3. Officers.** The Chapter shall elect a President, Vice President, Treasurer, and Secretary. Officers shall serve one-year terms.
 >
-> **Section 4. Graduate Student Vice-President.** The elected President of the Graduate Student Employees Chapter shall, by virtue of office, serve as Graduate Student Vice-President of the Federation and as a voting member of the Federation Executive Board.
+> **Section 4. Relationship to Local 6350.** The elected President of the Graduate Student Employees Chapter shall serve as the principal liaison between the Chapter and the Local-wide officers of the Federation. Creation of the Chapter and its elected offices does not create an additional Local-wide officer or an additional seat on the Federation Executive Board.
 >
 > **Section 5. Eligibility.** Any member of the Graduate Student Employees Chapter in good standing shall be eligible to seek and hold Chapter office or a Chapter Representative Council seat. The one-year membership requirement applicable to Local-wide office under Article IV shall not apply to Chapter office.
 >
 > **Section 6. Representative Council.** The Chapter shall maintain an elected Representative Council. The Council shall include the Chapter officers, representatives elected from academic colleges or schools, and such at-large representatives as are provided by the Chapter bylaws. The Council shall represent Chapter members between general Chapter membership meetings, coordinate organizing and communications, identify contract-enforcement issues, provide input on bargaining priorities, and exercise such additional authority as is delegated by the Chapter membership or Chapter bylaws.
 >
-> **Section 7. Separation from Federation Executive Board.** Membership on the Graduate Student Employees Representative Council does not, by itself, confer membership on the Federation Executive Board. The Chapter's guaranteed Executive Board representation is exercised through the Graduate Student Vice-President unless this Constitution is subsequently amended to provide additional seats.
+> **Section 7. Separation from Federation Executive Board.** Holding office in the Graduate Student Employees Chapter or serving on its Representative Council does not, by itself, confer membership on the Federation Executive Board. The composition of the Federation Executive Board remains governed by Article VII.
 >
 > **Section 8. Elections.** Chapter officers and Representative Council members shall be elected annually by the constituencies they represent under secret-ballot and notice procedures established in the Chapter bylaws and consistent with applicable law and affiliated-organization requirements. The Chapter may conduct its regular elections during the spring academic semester, with terms normally beginning July 1.
 >
-> **Section 9. Vacancies.** If the Chapter Presidency becomes vacant, the Chapter Vice President shall become President for the remainder of the term and shall thereby become Graduate Student Vice-President of the Federation. Other officer and Representative Council vacancies shall be filled by special election when practicable, subject to temporary appointment procedures established by Chapter bylaws for short end-of-term vacancies or periods when an election is impracticable.
+> **Section 9. Vacancies.** If the Chapter Presidency becomes vacant, the Chapter Vice President shall become President for the remainder of the term. Other officer and Representative Council vacancies shall be filled by special election when practicable, subject to temporary appointment procedures established by Chapter bylaws for short end-of-term vacancies or periods when an election is impracticable.
 >
 > **Section 10. Bargaining.** The Chapter shall select a Graduate Student Employees Collective Bargaining Committee in accordance with its bylaws. That committee shall develop proposals with input from the Chapter membership and represent the Graduate Student Employees bargaining unit in collective bargaining, subject to the Federation's legal and affiliation obligations. A bargaining committee of another chapter shall not determine Graduate Student Employees bargaining proposals or bind the Graduate Student Employees bargaining unit without authorization from that unit.
 >
@@ -315,6 +281,7 @@ The working package does not presently propose substantive changes to:
 
 - Article I — Name
 - Article II — Objectives
+- Article IV — Officers & Duties of Officers
 - Article XII — Rules of Order
 - Article XIV — Availability of the Constitution
 - Article XVI — Order of Business at Regular Meetings
@@ -331,7 +298,7 @@ These articles may receive technical conforming edits after the Local President/
 
 - The existing Local 6350 name is retained. A possible broader umbrella name is a leadership discussion item, not a drafting prerequisite.
 - The graduate unit is referred to consistently as the **Graduate Student Employees** bargaining unit / Chapter.
-- The GSU President serving as Graduate Student Vice-President is treated as a proposed Local constitutional structure. It becomes valid only if the Local adopts the amendments; no separate pre-approval requirement has been identified.
+- No new Local-wide officer or Executive Board seat is created for GSU; the GSU President serves as the principal liaison to existing Local leadership.
 - The one-year Local officer eligibility requirement is expressly excepted for the GSU President / Graduate Student Vice-President. AFT's national Constitution does not impose a one-year prior-membership minimum for local officers; it instead requires local election procedures to meet democratic-election standards.
 - GSU election safeguards are now specified using the AFT-required Title IV LMRDA standards.
 - Dues administration is treated as substantively resolved based on Local leadership guidance and the AFT Massachusetts annual rate memo.
