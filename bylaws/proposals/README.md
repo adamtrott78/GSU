@@ -18,8 +18,8 @@ The package proposes:
 
 - preserving Local 6350's existing President, Vice-President, Treasurer, and Secretary;
 - electing a GSU President, Vice President, Treasurer, and Secretary annually;
-- making the elected GSU President serve ex officio as Graduate Student Vice-President of Local 6350;
-- giving that officer a voting seat on the Local Executive Board;
+- making the elected GSU President the principal liaison to existing Local 6350 leadership;
+- preserving the existing Local 6350 officer and Executive Board structure;
 - establishing a GSU Representative Council separate from the Local Executive Board;
 - electing Council representatives primarily by academic college/school;
 - using committees/caucuses for overlapping RA/TA, Master's/PhD, international-worker, and other cross-cutting interests;
