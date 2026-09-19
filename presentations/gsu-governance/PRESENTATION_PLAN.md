@@ -46,7 +46,7 @@ The emotional arc should be:
 
 | # | Working slide title | Intellectual job | Status |
 |---|---|---|---|
-| 1 | A Governance Structure for Graduate Student Employees | Frame the meeting and the decision | DRAFT |
+| 1 | A Governance Structure for Graduate Student Employees | Frame the meeting and the decision | **CONCEPT LOCKED** |
 | 2 | Local 6350 has pieces of multi-unit governance—but no defined GSU structure | Establish why amendments are necessary | DRAFT |
 | 3 | Other AFT locals provide useful building blocks—not a template we have to copy | Show comparator support without importing their Local-board structures | DRAFT |
 | 4 | Keep Local 6350 leadership intact; add GSU as a democratically governed bargaining-unit chapter | Show the parent/child governance architecture | DRAFT |
@@ -63,6 +63,10 @@ Target presentation time: **10–14 minutes before discussion.**
 ---
 
 # Slide 1 — A Governance Structure for Graduate Student Employees
+
+## Status
+
+**CONCEPT LOCKED**
 
 ## Job
 
@@ -84,7 +88,7 @@ A Governance Structure for Graduate Student Employees
 GSU leadership review • September 22, 2026
 
 **Bottom statement:**  
-**Goal today: approve, modify, or reject the structure before it goes to Local leadership for review.**
+**Goal today: approve the structure in principle or identify the changes needed before Local review.**
 
 ## Visual concept
 
@@ -112,8 +116,8 @@ The visual must suggest **inside the same Local**, not separation.
 |                       v                                          |
 |          [ GRADUATE STUDENT EMPLOYEES / GSU ]                   |
 |                                                                  |
-|  Goal today: approve, modify, or reject the structure before     |
-|  it goes to Local leadership for review.                         |
+|  Goal today: approve the structure in principle or identify      |
+|  the changes needed before Local review.                         |
 +------------------------------------------------------------------+
 ```
 
@@ -171,8 +175,8 @@ Then a convergence arrow to `DEFINED GSU CHAPTER`.
 |  MAINTAINER-SPECIFIC                MULTI-UNIT PIECES ALREADY     |
 |  [ III Membership ]                 [ IX Chapter voting ]         |
 |  [ V Bargaining   ]                 [ XV Unit ratification ]      |
-|           \                               /                       |
-|            \                             /                        |
+|           \\                               /                       |
+|            \\                             /                        |
 |             +-----------+---------------+                         |
 |                         v                                        |
 |                [ DEFINE THE GSU CHAPTER ]                         |
@@ -235,8 +239,8 @@ A visible `NOT COPIED` callout should identify new Local Executive Board seats a
 |  unit-specific leaders          separate Rep Council             |
 |  bargaining roles               constituency reps                |
 |  grievance roles                unit bargaining                  |
-|           \                         /                             |
-|            \                       /                              |
+|           \\                         /                             |
+|            \\                       /                              |
 |             +---------------------+                               |
 |                       v                                          |
 |                   GSU DRAFT 1                                    |
@@ -307,7 +311,7 @@ Important visual semantics:
 |            +-------------------+-------------------+             |
 |            |                                       |             |
 | [ EXISTING LOCAL LEADERSHIP ]              [ BARGAINING UNITS ] |
-| Pres | VP | Treas | Sec                    /                 \    |
+| Pres | VP | Treas | Sec                    /                 \\    |
 | committees / delegate              [ MAINTAINERS ]       [ GSU ] |
 |                                      existing        Pres VP T S |
 |                                                        |         |
@@ -517,9 +521,9 @@ A bottom ribbon of committees/caucuses overlays the representation structure rat
 | A REPRESENTATIVE COUNCIL GIVES EVERY PART OF GSU AN ELECTED VOICE|
 |                                                                  |
 | [Engineering]   [Arts & Sciences]   [Business]                   |
-|       \               |                /                          |
+|       \\               |                /                          |
 |             [ REPRESENTATIVE COUNCIL ]                            |
-|       /               |                \                          |
+|       /               |                \\                          |
 | [Nursing]       [At-large x2]       [SMAST / other]              |
 |                                                                  |
 | [ PROPOSED SEAT FORMULA ]                                       |
@@ -646,7 +650,7 @@ Two parallel pipelines beneath a common Local 6350 coordination band.
 | GSU SELECTS ITS BARGAINING TEAM; ONLY GSU MEMBERS RATIFY ITS CBA |
 |                                                                  |
 |                  [ LOCAL 6350 COORDINATION ]                     |
-|                    /                      \                       |
+|                    /                      \\                       |
 |          MAINTAINERS                       GSU                    |
 |        [ bargaining ]                 [ bargaining ]              |
 |             ↓                              ↓                      |
