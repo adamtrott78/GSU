@@ -38,29 +38,20 @@ Preserve the four existing Local-wide offices:
 
 These remain officers of the Federation elected under the Local Constitution.
 
-## Guaranteed GSU Local officer
+## GSU-to-Local liaison
 
-Add:
+The elected GSU President serves as the principal liaison between the Graduate Student Employees Chapter and the existing Local 6350 leadership.
 
-- **Graduate Student Vice-President**
+This proposal does **not** create:
+- a new Local 6350 constitutional officer;
+- a new voting seat on the Local Executive Board; or
+- a separate Local-level election for GSU representation.
 
-The GSU President would serve **ex officio** as the Graduate Student Vice-President of Local 6350.
+If Local 6350 later wants to create a guaranteed GSU Executive Board seat, that should be considered as a separate Local-wide governance change.
 
-This means one person has two linked roles:
+---
 
-- inside GSU: **GSU President**
-- inside Local 6350: **Graduate Student Vice-President**
-
-There is no separate election for the Local title. GSU members elect their President, and that elected President automatically becomes the Graduate Student Vice-President of Local 6350.
-
-### Why this model
-
-- gives GSU a guaranteed voting seat on the Local Executive Board;
-- avoids creating a fifth separate GSU officer whose only function is Local representation;
-- preserves the traditional President / Vice President / Treasurer / Secretary structure GSU leadership has discussed;
-- resembles the bargaining-unit vice-president structures used in Chelsea and Chelmsford;
-- minimizes disruption to the existing Maintainers officer structure.
-
+# 3.
 ---
 
 # 3. Proposed Local 6350 Executive Board
@@ -73,7 +64,6 @@ The Local Executive Board should be specifically enumerated rather than defined 
 - Local Vice-President
 - Local Treasurer
 - Local Secretary
-- Graduate Student Vice-President / GSU President
 - the existing Local-wide committee chairs, preserving their current Executive Board status
 - chief delegate to the local labor council, if current leadership wishes to preserve that seat
 
@@ -83,7 +73,7 @@ GSU Representative Council members do **not** automatically become Local 6350 Ex
 
 This is intentional.
 
-A Representative Council could eventually contain many college representatives. Automatically seating all of them on the Local Board could change the balance between bargaining units. The Representative Council should govern and represent GSU internally while the GSU President provides the formal GSU bridge to the Local Board.
+A Representative Council could eventually contain many college representatives. Automatically seating all of them on the Local Board could change the balance between bargaining units. The Representative Council governs and represents GSU internally while the GSU President serves as the principal liaison to existing Local leadership.
 
 ---
 
@@ -96,8 +86,8 @@ The Graduate Student Employees Chapter elects four officers:
 Responsibilities:
 - chief elected representative of GSU;
 - presides at GSU membership and Representative Council meetings;
-- serves ex officio as Graduate Student Vice-President of Local 6350;
-- represents GSU on the Local Executive Board;
+- serves as principal liaison to Local 6350 leadership;
+- coordinates GSU matters with the existing Local-wide officers;
 - serves as primary liaison between GSU and Local-wide leadership;
 - participates in bargaining and grievance administration;
 - reports Local Executive Board actions relevant to GSU back to GSU leadership and membership.
@@ -167,9 +157,7 @@ There is **no one-year waiting period** for GSU chapter office.
 
 The existing Local Constitution requires one year of membership before holding Local office. That rule is poorly matched to a workforce with short appointments and rapid turnover and would unnecessarily restrict the pool of eligible graduate-worker leaders.
 
-The GSU President's Local role as Graduate Student Vice-President therefore requires a specific constitutional exception.
-
-That exception is an explicit part of Draft 1 and should be approved, modified, or rejected by leadership with the rest of the proposed structure.
+The one-year waiting period applies to Local-wide office under the existing constitution. Draft 1 proposes a separate eligibility rule for GSU chapter office without creating a new Local-wide office.
 
 ---
 
@@ -320,7 +308,6 @@ A Representative Council member should not be required to independently process 
 
 If the GSU President leaves office:
 - the GSU Vice President becomes President for the remainder of the term;
-- the new President automatically becomes Graduate Student Vice-President of Local 6350.
 
 ## Other officers
 
