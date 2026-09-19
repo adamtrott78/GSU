@@ -23,7 +23,7 @@ External confirmation work is recorded in `../research/EXTERNAL_CONFIRMATIONS.md
 - Local 6350 keeps its existing name in the draft.
 - The graduate bargaining unit is called **Graduate Student Employees**.
 - GSU elects President, Vice President, Treasurer, and Secretary.
-- The elected GSU President also serves as Graduate Student Vice-President of Local 6350.
+- The elected GSU President serves as the principal liaison to Local 6350 leadership; no new Local-wide officer or Executive Board seat is created.
 - GSU officers serve one-year terms.
 - GSU office is exempt from the existing one-year prior-membership requirement.
 - GSU has a Representative Council separate from the Local Executive Board.
@@ -43,7 +43,7 @@ Leadership is being asked to approve, modify, or reject the concrete proposals i
 
 The highest-value discussion points are:
 
-1. **Officer architecture:** four GSU officers and the GSU President's linked Graduate Student Vice-President seat.
+1. **Officer architecture:** four GSU officers, with the GSU President serving as the principal liaison to existing Local leadership.
 2. **Terms and eligibility:** one-year terms and no one-year waiting period.
 3. **Representative Council:** separate from the Local Executive Board; college/school representation; two at-large seats; proposed representation thresholds.
 4. **Cross-cutting representation:** committees/caucuses rather than RA/TA or MS/PhD electoral districts.
