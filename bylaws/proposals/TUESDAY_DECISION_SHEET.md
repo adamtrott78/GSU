@@ -34,26 +34,19 @@ Notes:
 
 ---
 
-## Decision 2 — GSU President holds the Local 6350 GSU seat
+## Design principle — GSU leadership does not alter the Local Executive Board
 
-### Proposal
+### Draft 1 baseline
 
-The elected GSU President automatically serves as the **Graduate Student Vice-President of Local 6350** and becomes a voting member of the Local Executive Board.
+The elected GSU President serves as the principal liaison to Local 6350 leadership.
 
-No separate person is elected merely to act as the GSU-to-Local liaison.
+Draft 1 does **not** create a new Local 6350 officer or guaranteed voting Executive Board seat.
 
-### Recommendation
+If Local leadership later wants a guaranteed GSU Executive Board seat, that should be considered separately as a Local-wide governance change.
 
-**Approve as proposed.**
+---
 
-### Why
-
-Chelsea and Chelmsford both use bargaining-unit-specific vice presidents at the Local level. Linking that Local role to the elected GSU President avoids duplicating offices and guarantees direct GSU representation.
-
-**Leadership decision:** APPROVE / MODIFY / REJECT
-
-Notes:
-
+## Decision 3 — One-year GSU terms
 ---
 
 ## Decision 3 — One-year GSU terms
@@ -82,7 +75,7 @@ Notes:
 
 Any GSU member in good standing may run for GSU office or Representative Council.
 
-The existing Local one-year membership requirement does not apply to GSU chapter office, including the GSU President's linked Local role as Graduate Student Vice-President.
+The existing Local one-year membership requirement does not apply to GSU chapter office, .
 
 ### Recommendation
 
@@ -106,7 +99,7 @@ Create an elected GSU Representative Council that is **separate from the Local 6
 
 GSU officers and college/school representatives sit on the Council.
 
-Only the GSU President has an automatic GSU seat on the Local Executive Board.
+No GSU chapter office automatically carries a Local Executive Board seat.
 
 ### Recommendation
 
@@ -308,7 +301,7 @@ These are no longer open research questions:
 
 - use **Graduate Student Employees** as the graduate-unit terminology;
 - retain the existing Local 6350 name in Draft 1;
-- use the proposed Graduate Student Vice-President structure as part of the constitutional amendment itself;
+- preserve the existing Local Executive Board structure; the GSU President is a liaison, not a new Local officer;
 - expressly exempt GSU chapter office from the Local's one-year prior-membership rule;
 - use AFT-required democratic-election safeguards for GSU officer elections;
 - use the clarified income-based dues treatment for Graduate Student Employees;
