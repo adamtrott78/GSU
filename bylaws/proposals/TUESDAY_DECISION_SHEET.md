@@ -46,7 +46,7 @@ If Local leadership later wants a guaranteed GSU Executive Board seat, that shou
 
 ---
 
-## Decision 3 — One-year GSU terms
+## Decision 2 — One-year GSU terms
 ---
 
 ## Decision 3 — One-year GSU terms
@@ -69,7 +69,7 @@ Notes:
 
 ---
 
-## Decision 4 — No one-year waiting period for GSU office
+## Decision 3 — No one-year waiting period for GSU office
 
 ### Proposal
 
@@ -91,7 +91,7 @@ Notes:
 
 ---
 
-## Decision 5 — Separate GSU Representative Council
+## Decision 4 — Separate GSU Representative Council
 
 ### Proposal
 
@@ -115,7 +115,7 @@ Notes:
 
 ---
 
-## Decision 6 — College/school representation formula
+## Decision 5 — College/school representation formula
 
 ### Proposal
 
@@ -142,7 +142,7 @@ Preferred threshold if modified:
 
 ---
 
-## Decision 7 — RA/TA and MS/PhD interests handled through committees/caucuses
+## Decision 6 — RA/TA and MS/PhD interests handled through committees/caucuses
 
 ### Proposal
 
@@ -168,7 +168,7 @@ Notes:
 
 ---
 
-## Decision 8 — GSU controls its own bargaining team
+## Decision 7 — GSU controls its own bargaining team
 
 ### Proposal
 
@@ -192,7 +192,7 @@ Notes:
 
 ---
 
-## Decision 9 — Special elections for vacancies
+## Decision 8 — Special elections for vacancies
 
 ### Proposal
 
@@ -215,7 +215,7 @@ Notes:
 
 ---
 
-## Decision 10 — Initial implementation
+## Decision 9 — Initial implementation
 
 ### Proposal
 
@@ -241,7 +241,7 @@ Notes:
 
 ---
 
-## Decision 11 — Temporary summer / appointment-gap continuity
+## Decision 10 — Temporary summer / appointment-gap continuity
 
 ### Proposal
 
@@ -263,7 +263,7 @@ Notes:
 
 ---
 
-## Decision 12 — Contract-ratification administration
+## Decision 11 — Contract-ratification administration
 
 ### Proposal
 
