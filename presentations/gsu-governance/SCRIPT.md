@@ -54,7 +54,7 @@ So we are not inventing a completely foreign concept. The constitution already c
 
 "Two examples were especially useful.
 
-Chelsea Local 1340 has bargaining-unit-specific vice presidents. Those vice presidents sit on the Local Executive Board, represent their units in bargaining, and participate in grievances. So that gives us precedent for a graduate-specific Local officer.
+Chelsea Local 1340 has bargaining-unit-specific vice presidents who sit on its Local Executive Board and participate in bargaining and grievances. That shows one possible multi-unit model, but we do not need to copy that part.
 
 Chelmsford has one bargaining-unit vice president for each represented unit, but it also has a separate Representative Council made up of elected school or building representatives.
 
@@ -62,7 +62,7 @@ That separation is the part I think fits us really well.
 
 I do not think every Engineering rep, Nursing rep, Business rep, and so on should automatically become a voting member of the Local 6350 Executive Board. That could distort Local-wide governance pretty quickly.
 
-So the draft takes Chelsea's idea of guaranteed bargaining-unit leadership and Chelmsford's idea of a separate broad Representative Council, and then changes the term and eligibility rules to fit graduate workers instead of career school employees."
+So the draft borrows the general idea of bargaining-unit self-governance and Chelmsford's separate Representative Council, but deliberately stops short of adding a new Local 6350 officer or Executive Board seat."
 
 ## Transition
 
@@ -82,9 +82,9 @@ Inside that Local, the Maintainers remain their bargaining unit and Graduate Stu
 
 GSU elects its own President, Vice President, Treasurer, and Secretary, and it has its own Representative Council.
 
-The important bridge is the GSU President. The person elected by graduate workers as GSU President would automatically serve as the Graduate Student Vice-President of Local 6350 and get a voting seat on the Local Executive Board.
+The GSU President serves as the principal liaison to the existing Local leadership. That is a communication and coordination role, not a new Local-wide office and not an automatic Executive Board seat.
 
-So GSU gets a guaranteed voice at the Local level, but we are not turning every internal GSU position into a Local-wide office."
+So we get a clear connection to Local 6350 without changing the Local's existing leadership structure."
 
 ## Transition
 
@@ -98,7 +98,7 @@ So GSU gets a guaranteed voice at the Local level, but we are not turning every 
 
 "I am proposing the standard four offices: President, Vice President, Treasurer, and Secretary.
 
-The President is the chief representative, chairs our meetings, works on bargaining and grievances, and holds the Local Executive Board seat.
+The President is the chief representative, chairs our meetings, works on bargaining and grievances, and serves as the principal liaison to Local 6350 leadership.
 
 The Vice President is the succession officer and helps coordinate the Council, committees, organizing, and contract enforcement.
 
@@ -106,7 +106,7 @@ The Treasurer tracks whatever budget or allocation GSU receives and works with t
 
 The Secretary owns minutes, notices, election records, and governance records.
 
-The reason I like linking the President to the Local Graduate Student VP seat is that it avoids creating a fifth officer whose only job is to be a messenger between GSU and the Local. The person graduate workers elect to lead GSU should be the person speaking for GSU on the Local board."
+The President should be the main point of contact with Local 6350, but we do not need to create a fifth officer or alter the Local Executive Board to accomplish that."
 
 ## Transition
 
@@ -196,7 +196,7 @@ The proposal has GSU leadership participate directly in calling, administering, 
 
 We leave the Local President, Vice-President, Treasurer, and Secretary intact.
 
-We preserve the existing committee-chair seats on the Executive Board, the labor-council delegate seat, Local treasury controls, and the existing Maintainers bargaining committee structure.
+We preserve the existing Local Executive Board itself — including the existing officers, committee-chair seats, and labor-council delegate — along with Local treasury controls and the Maintainers bargaining committee structure.
 
 We are adding the parts that do not currently exist: a defined Graduate Student Employees chapter, our officers, our Representative Council, our election rules, our bargaining committee, and the rules that make annual graduate-worker governance workable.
 
@@ -214,7 +214,7 @@ I think keeping the scope narrow is important. It makes the amendments easier to
 
 "The detailed decision sheet has twelve line items, but I think they really collapse into five questions.
 
-First: officers. Do we want the four-officer structure, and do we want the elected GSU President to also hold the Local graduate seat?
+First: officers. Do we want the four-officer structure, with the elected GSU President serving as the principal liaison to existing Local leadership?
 
 Second: representation. Do we want a separate Representative Council, college or school constituencies, the hybrid seat formula, and committees for RA/TA, Master's/PhD, and similar interests?
 
