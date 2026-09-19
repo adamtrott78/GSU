@@ -25,7 +25,7 @@ Chelsea Local 1340 and Chelmsford Local 3569 remain useful structural comparator
 
 ### One-year eligibility exception
 
-The first draft expressly exempts the GSU President / Graduate Student Vice-President from Local 6350's existing one-year prior-membership requirement.
+The first draft gives GSU chapter offices their own eligibility rule and does not create a new Local-wide office. The existing one-year prior-membership requirement therefore remains applicable to the existing Local-wide offices, while GSU chapter office is open to eligible GSU members in good standing.
 
 AFT's 2024 Constitution does not impose a one-year prior-membership minimum on local officers. Instead, it requires local election procedures to be consistent with the democratic-election standards developed under Title IV of the LMRDA. Because the GSU has not existed for one year, the exception is necessary for an initial democratic leadership structure and should be presented to leadership as an explicit proposed change.
 
