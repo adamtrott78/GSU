@@ -1,6 +1,6 @@
 # GSU Governance Presentation Plan
 
-**Status:** STAGE 1 — NARRATIVE / CONTENT / VISUAL CONCEPT DRAFT  
+**Status:** STAGE 1 — CORRECTED NARRATIVE / CONTENT / VISUAL CONCEPT DRAFT  
 **Meeting:** September 22, 2026  
 **Audience:** GSU leadership / organizing leadership  
 **Purpose:** Obtain leadership approval in principle, or precise modifications, for the frozen Draft 1 governance structure before the amendment package is revised and sent to the Local 6350 President for informal review.
@@ -13,7 +13,7 @@ This is **not** a line-by-line bylaw presentation.
 
 The tracked-change Word constitution is the detailed review artifact. The slide deck has a narrower job:
 
-> explain why structural amendments are necessary, show the proposed governance architecture, establish that the design is grounded in AFT precedent, and make the remaining leadership decisions easy to approve, modify, or reject.
+> explain why structural amendments are necessary, show the proposed governance architecture, demonstrate that the design is informed by AFT precedent without copying unrelated Local structures, and make the remaining leadership decisions easy to approve or modify.
 
 Communication rules:
 
@@ -34,11 +34,11 @@ Communication rules:
 
 The story should move in this order:
 
-> Local 6350's constitution was written around the Maintainers -> GSU now needs a formally defined place inside the same Local -> other AFT locals already use bargaining-unit officers and representative bodies -> preserve Local 6350 and add a democratically governed GSU chapter -> elect four GSU officers -> use a separate Representative Council for broad academic representation -> adapt terms/eligibility to graduate-worker turnover -> give GSU control over its bargaining team while preserving unit-only contract ratification -> minimize disruption to Maintainers governance -> leadership chooses the remaining design points -> Local membership still makes the constitutional decision.
+> Local 6350 already contains pieces of multi-unit governance but was written around the Maintainers -> other AFT locals provide useful structural building blocks -> preserve Local 6350 leadership and add a democratically governed GSU chapter -> immediately reassure the room that broader Local leadership remains unchanged -> explain GSU officers -> explain the Representative Council -> adapt terms and eligibility to graduate-worker turnover -> give GSU its own bargaining team while preserving bargaining-unit-only ratification -> consolidate the remaining choices -> show the adoption path.
 
 The emotional arc should be:
 
-**problem -> precedent -> coherent proposal -> reassurance -> decisions -> action.**
+**problem -> precedent -> proposal -> reassurance -> details -> decisions -> action.**
 
 ---
 
@@ -46,23 +46,23 @@ The emotional arc should be:
 
 | # | Working slide title | Intellectual job | Status |
 |---|---|---|---|
-| 1 | A governance structure for UMass Dartmouth Graduate Student Employees | Frame the meeting and the decision | DRAFT |
-| 2 | The current constitution assumes one bargaining unit; GSU now needs a defined place inside Local 6350 | Establish why amendments are necessary | DRAFT |
-| 3 | AFT comparators show multiple ways to organize bargaining-unit leadership and representative governance | Show the proposal is informed by existing AFT structures without copying their Local-board design | DRAFT |
+| 1 | A Governance Structure for Graduate Student Employees | Frame the meeting and the decision | DRAFT |
+| 2 | Local 6350 has pieces of multi-unit governance—but no defined GSU structure | Establish why amendments are necessary | DRAFT |
+| 3 | Other AFT locals provide useful building blocks—not a template we have to copy | Show comparator support without importing their Local-board structures | DRAFT |
 | 4 | Keep Local 6350 leadership intact; add GSU as a democratically governed bargaining-unit chapter | Show the parent/child governance architecture | DRAFT |
-| 5 | Four GSU officers create clear accountability inside the GSU chapter | Explain the officer model and Local Executive Board link | DRAFT |
-| 6 | A separate Representative Council gives colleges a voice without crowding the Local Executive Board | Explain representation, seat logic, and committees/caucuses | DRAFT |
-| 7 | Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps | Explain term/eligibility/vacancy/continuity rules | DRAFT |
-| 8 | GSU controls its bargaining team; contract ratification stays with the affected bargaining unit | Explain bargaining and ratification autonomy | DRAFT |
-| 9 | Draft 1 changes only what GSU needs—and leaves most Maintainers governance alone | Reduce perceived risk and show bounded scope | DRAFT |
-| 10 | Leadership only needs to decide five design questions | Consolidate the remaining governance choices | DRAFT |
-| 11 | Approve the structure in principle Tuesday; the Local membership still makes the constitutional decision | Close with the requested action and timeline | DRAFT |
+| 5 | Creating GSU does not require redesigning Local 6350 | Reduce perceived risk immediately after showing the architecture | DRAFT |
+| 6 | Four elected officers give GSU clear accountability | Explain the officer model and liaison role | DRAFT |
+| 7 | A Representative Council gives every part of GSU an elected voice | Explain representation, seat logic, and committees/caucuses | DRAFT |
+| 8 | Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps | Explain term/eligibility/vacancy/continuity rules | DRAFT |
+| 9 | GSU selects its bargaining team; only GSU members ratify its contract | Explain bargaining and ratification autonomy | DRAFT |
+| 10 | Five decisions determine whether Draft 1 moves forward | Consolidate the remaining governance choices | DRAFT |
+| 11 | Tuesday decides what we recommend; Local 6350 members decide what gets adopted | Close with the requested action and timeline | DRAFT |
 
 Target presentation time: **10–14 minutes before discussion.**
 
 ---
 
-# Slide 1 — A governance structure for UMass Dartmouth Graduate Student Employees
+# Slide 1 — A Governance Structure for Graduate Student Employees
 
 ## Job
 
@@ -74,195 +74,189 @@ Frame the meeting as a governance design review, not a final constitutional vote
 
 ## On-slide text
 
+**Eyebrow:**  
+UMass Dartmouth • AFT Local 6350
+
 **Title:**  
-A governance structure for UMass Dartmouth Graduate Student Employees
+A Governance Structure for Graduate Student Employees
 
 **Subtitle:**  
-Proposed Local 6350 amendments — GSU leadership review
-
-**Small line:**  
-September 22, 2026
+GSU leadership review • September 22, 2026
 
 **Bottom statement:**  
 **Goal today: approve, modify, or reject the structure before it goes to Local leadership for review.**
 
 ## Visual concept
 
-Minimal title slide with a simple two-level governance motif rather than a decorative photo.
+Minimal title slide with a simple containment motif rather than a decorative photo.
 
-Use two linked blocks:
+Use:
 
-`LOCAL 6350` -> `GRADUATE STUDENT EMPLOYEES / GSU`
+`LOCAL 6350` containing or linking to `GRADUATE STUDENT EMPLOYEES / GSU`
 
-The connection should visually suggest "inside the same Local," not separation.
+The visual must suggest **inside the same Local**, not separation.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
+|  UMASS DARTMOUTH • AFT LOCAL 6350                               |
 |                                                                  |
-|   A GOVERNANCE STRUCTURE FOR                                     |
-|   UMASS DARTMOUTH GRADUATE STUDENT EMPLOYEES                     |
+|  A GOVERNANCE STRUCTURE FOR                                     |
+|  GRADUATE STUDENT EMPLOYEES                                     |
 |                                                                  |
-|   Proposed Local 6350 amendments — GSU leadership review         |
-|   September 22, 2026                                             |
+|  GSU leadership review • September 22, 2026                     |
 |                                                                  |
-|                     [ LOCAL 6350 ]                                |
-|                           |                                      |
-|                           v                                      |
-|                [ GRADUATE STUDENT EMPLOYEES ]                    |
+|                 [ LOCAL 6350 ]                                   |
+|                       |                                          |
+|                       v                                          |
+|          [ GRADUATE STUDENT EMPLOYEES / GSU ]                   |
 |                                                                  |
-|   ------------------------------------------------------------   |
-|   Goal today: approve, modify, or reject the structure before    |
-|   it goes to Local leadership for review.                        |
+|  Goal today: approve, modify, or reject the structure before     |
+|  it goes to Local leadership for review.                         |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- We now have a full Draft 1: governance proposal, constitutional amendments, GSU chapter bylaws, and a Word redline.
+- Draft 1 now includes the governance proposal, constitutional amendments, chapter bylaws, and Word redline.
 - This meeting is not the constitutional vote.
-- The purpose is to decide whether this is the structure GSU leadership wants to advance.
-- If we agree in principle, we incorporate changes and send the revised package to the Local 6350 President for informal review.
+- We are deciding whether this is the structure GSU leadership wants to advance.
 
 ---
 
-# Slide 2 — The current constitution assumes one bargaining unit; GSU now needs a defined place inside Local 6350
+# Slide 2 — Local 6350 has pieces of multi-unit governance—but no defined GSU structure
 
 ## Job
 
-Show that amendments are structurally necessary without overwhelming the room with legal text.
+Show that amendment is necessary without pretending the existing constitution has no multi-unit concepts at all.
 
 ## Audience takeaway
 
-> The current constitution can already support bargaining-unit-specific voting, but most of its governance machinery was written only for the Maintainers.
+> The constitution already contains chapter voting and bargaining-unit-only ratification, but most of the actual governance machinery is Maintainer-specific.
 
 ## On-slide content
 
-Use four concise evidence points:
+**ARTICLE III — MEMBERSHIP**  
+Written around maintenance personnel and currently conflicts with adding another organized AFT unit.
 
-**Membership**  
-Current Article III is written around maintenance personnel and excludes other organized AFT units.
+**ARTICLE V — BARGAINING**  
+Committee composition is Custodial / Grounds / Power Plant / Trades.
 
-**Bargaining**  
-The bargaining committee is defined around Custodial, Grounds, Power Plant, and Trades.
+**ARTICLE IX — ELECTIONS**  
+Already refers to chapter-specific voting, but chapters are not actually defined.
 
-**Chapters**  
-Article IX already refers to chapter-specific voting—but the chapters are never actually defined.
-
-**Contracts**  
-Article XV already says only members of the affected bargaining unit vote on that contract.
+**ARTICLE XV — CONTRACTS**  
+Already says only members of the affected bargaining unit vote on that agreement.
 
 Bottom conclusion:
 
-**The constitution already contains the seed of a multi-unit Local; Draft 1 makes that structure explicit.**
+**The pieces already exist. Draft 1 defines how GSU fits.**
 
 ## Visual concept
 
-Left: simplified "current constitution" document icon with four highlighted article tabs.  
-Right: a transformation arrow into `LOCAL 6350 -> Maintainers + GSU`.
+Four article cards or document tabs split into two groups:
 
-Do **not** show full paragraphs from the constitution.
+- Maintainer-specific machinery: III + V
+- Existing multi-unit concepts: IX + XV
+
+Then a convergence arrow to `DEFINED GSU CHAPTER`.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| THE CURRENT CONSTITUTION ASSUMES ONE BARGAINING UNIT...          |
+| LOCAL 6350 HAS PIECES OF MULTI-UNIT GOVERNANCE...                |
 |                                                                  |
-|  [ CURRENT CONSTITUTION ]             [ WHAT IT NEEDS TO BECOME ] |
+|  MAINTAINER-SPECIFIC                MULTI-UNIT PIECES ALREADY     |
+|  [ III Membership ]                 [ IX Chapter voting ]         |
+|  [ V Bargaining   ]                 [ XV Unit ratification ]      |
+|           \                               /                       |
+|            \                             /                        |
+|             +-----------+---------------+                         |
+|                         v                                        |
+|                [ DEFINE THE GSU CHAPTER ]                         |
 |                                                                  |
-|  III  Membership: Maintainers          LOCAL 6350                 |
-|  V    Bargaining: Maintainer units        /       \               |
-|  IX   "chapter" voting exists          Maint.     GSU             |
-|  XV   unit-only ratification exists                               |
-|                                                                  |
-|                  -------------------------->                      |
-|                                                                  |
-|  The seed of a multi-unit Local already exists; Draft 1 makes    |
-|  the structure explicit.                                        |
+|  The pieces already exist. Draft 1 defines how GSU fits.         |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- We are not trying to replace the Maintainers constitution with a new organization.
-- The existing document already recognizes two ideas we need: chapter-specific voting and bargaining-unit-specific contract ratification.
-- The problem is that membership, bargaining, officers, and committees were drafted for a single Maintainers unit.
-- The amendments formalize the second bargaining unit instead of forcing GSU into Maintainer-specific machinery.
+- We are not replacing the Local or starting a separate union.
+- The constitution already recognizes chapter-specific voting and unit-specific contract ratification.
+- The amendments mainly formalize the second bargaining unit and stop Maintainer-specific machinery from being treated as universal.
 
 ---
 
-# Slide 3 — AFT comparators point to the same basic solution: unit leadership + representative governance
+# Slide 3 — Other AFT locals provide useful building blocks—not a template we have to copy
 
 ## Job
 
-Demonstrate that the proposed architecture is adapted from real AFT structures, not invented arbitrarily.
+Demonstrate that the design is informed by real AFT structures while making clear that Draft 1 is intentionally narrower.
 
 ## Audience takeaway
 
-> Other AFT locals solve multi-unit governance with bargaining-unit-specific officers and elected representative structures; our proposal combines the pieces that fit graduate workers best.
+> Chelsea and Chelmsford show workable multi-unit structures, but we only borrow the pieces that fit GSU and leave Local 6350's Executive Board alone.
 
 ## On-slide content
 
-### Chelsea Local 1340
+### CHELSEA LOCAL 1340
+- bargaining-unit-specific elected leadership;
+- explicit bargaining / grievance roles;
+- broad representative structure.
 
-- bargaining-unit-specific vice presidents;
-- those VPs sit on the Local Executive Board;
-- unit VPs participate in negotiations and grievances;
-- elected building representatives sit on a broad Executive Board.
-
-### Chelmsford Local 3569
-
-- one Bargaining Unit VP per represented unit;
+### CHELMSFORD LOCAL 3569
+- multiple bargaining units;
 - separate Representative Council;
-- school/building representatives elected by constituency;
-- unit-specific negotiating teams.
+- constituency-based representatives;
+- unit-specific bargaining teams.
 
-### Our adaptation
-
-**Chelsea:** guaranteed bargaining-unit voice  
-**+ Chelmsford:** Representative Council separate from Local board  
-**+ GSU reality:** shorter terms and open eligibility
+### GSU DRAFT 1
+- elected GSU officers;
+- separate GSU Representative Council;
+- unit-specific bargaining team;
+- graduate-worker term / eligibility rules;
+- **no change to Local 6350's existing Executive Board.**
 
 ## Visual concept
 
-Three-column synthesis:
+Two source columns feeding selected ideas into a center/bottom `GSU DRAFT 1` box.
 
-`CHELSEA` -> `GSU DRAFT 1` <- `CHELMSFORD`
-
-Arrows into the center should label what is being borrowed.
+A visible `NOT COPIED` callout should identify new Local Executive Board seats as something the proposal deliberately does not import.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| AFT COMPARATORS POINT TO THE SAME BASIC SOLUTION...              |
+| OTHER AFT LOCALS PROVIDE BUILDING BLOCKS — NOT A TEMPLATE        |
 |                                                                  |
-|  CHELSEA 1340          GSU DRAFT 1          CHELMSFORD 3569      |
-|  ------------          -----------          ---------------      |
-|  Unit VPs  --------->  GSU President  <---- Unit VPs             |
-|  Exec Board seat       Local GSU seat        Chapter liaison      |
-|  Bargaining role       bargaining role       Unit bargaining      |
-|       |                     |                     |               |
-|  Broad board            Separate Rep Council <--- Rep Council     |
+|      CHELSEA                         CHELMSFORD                   |
+|  unit-specific leaders          separate Rep Council             |
+|  bargaining roles               constituency reps                |
+|  grievance roles                unit bargaining                  |
+|           \                         /                             |
+|            \                       /                              |
+|             +---------------------+                               |
+|                       v                                          |
+|                   GSU DRAFT 1                                    |
+|     officers + Rep Council + own bargaining team                 |
+|     + graduate-worker term / eligibility rules                   |
 |                                                                  |
-|  OUR ADAPTATION = guaranteed unit voice + separate broad          |
-|  representation + graduate-worker term/eligibility rules          |
+|  NOT COPIED: new Local 6350 Executive Board seats                |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- Chelsea shows that bargaining-unit-specific vice presidents can be constitutional Local officers with bargaining and grievance responsibilities.
-- Chelmsford gives us the cleaner Representative Council model: the broad representative body is separate from the Local Executive Board.
-- We deliberately do not copy everything.
-- Teacher locals can use two- or three-year terms and long membership requirements; graduate workers cannot.
-- Draft 1 combines the structural precedent with rules suited to graduate employment.
+- Chelsea demonstrates one way to give bargaining units explicit leadership roles.
+- Chelmsford's separate Representative Council is especially useful for us.
+- We are adapting concepts, not importing another Local's constitution.
+- Draft 1 deliberately does not create a new Local officer or Executive Board seat.
 
 ---
 
-# Slide 4 — Keep Local 6350 intact; add GSU as a democratically governed bargaining-unit chapter
+# Slide 4 — Keep Local 6350 leadership intact; add GSU as a democratically governed bargaining-unit chapter
 
 ## Job
 
@@ -270,151 +264,209 @@ Show the proposed whole-system architecture in one picture.
 
 ## Audience takeaway
 
-> GSU remains inside Local 6350, gets guaranteed Local representation, and governs its own bargaining-unit affairs through elected leadership.
+> GSU remains inside Local 6350, governs its own bargaining-unit affairs democratically, and coordinates with existing Local leadership through the GSU President.
 
 ## On-slide content
 
-Top level:
-
 **AFT LOCAL 6350**
 
-Under it:
+Existing Local leadership:
 
-**Existing Local-wide officers**  
-President | Vice-President | Treasurer | Secretary
+President | Vice-President | Treasurer | Secretary  
+Existing committee-chair / labor-council seats remain unchanged
 
-Two bargaining-unit lanes:
+Bargaining-unit layer:
 
-**Maintainers**  
-Existing unit structure preserved
+**MAINTAINERS** — existing unit structure preserved
 
-**Graduate Student Employees / GSU**  
+**GRADUATE STUDENT EMPLOYEES / GSU**  
 President | VP | Treasurer | Secretary  
 Representative Council
 
+The GSU President has a **liaison / coordination** relationship with existing Local leadership.
 
 ## Visual concept
 
-Large organizational chart. This should be the deck's central visual and reusable conceptual anchor.
+This is the deck's hero architecture slide.
 
 Important visual semantics:
 
 - GSU is **inside** Local 6350.
-- The Local Executive Board is above/beside unit governance, not underneath GSU.
-- The GSU Representative Council does not feed directly into the Local Executive Board.
-- The GSU President is the principal liaison to existing Local leadership, not a new Local officer.
+- Existing Local leadership remains separate and unchanged.
+- The GSU President's liaison line is secondary/dotted, not a hierarchy line implying a Local office.
+- The Representative Council stays inside GSU.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| KEEP LOCAL 6350 INTACT; ADD GSU AS A DEMOCRATIC CHAPTER          |
+| KEEP LOCAL 6350 LEADERSHIP INTACT; ADD A DEMOCRATIC GSU CHAPTER |
 |                                                                  |
-|                         [ LOCAL 6350 ]                            |
-|                              |                                   |
-|       Pres | VP | Treasurer | Secretary                          |
-|                              |                                   |
-|              +---------------+----------------+                  |
-|              |                                |                  |
-|       [ MAINTAINERS ]                 [ GSU / GRAD EMPLOYEES ]    |
-|       existing structure               Pres | VP | Treas | Sec   |
-|                                               |                  |
-|                                               v                  |
-|                                       Representative Council     |
-|                                               |                  |
-|                                      colleges + at-large         |
-|                                                                  |
-|                GSU PRESIDENT                                     |
-|                    |                                             |
-|                    +--> principal liaison to Local leadership    |
+|                         [ AFT LOCAL 6350 ]                        |
+|                                |                                 |
+|            +-------------------+-------------------+             |
+|            |                                       |             |
+| [ EXISTING LOCAL LEADERSHIP ]              [ BARGAINING UNITS ] |
+| Pres | VP | Treas | Sec                    /                 \    |
+| committees / delegate              [ MAINTAINERS ]       [ GSU ] |
+|                                      existing        Pres VP T S |
+|                                                        |         |
+|                                              Representative     |
+|                                                  Council         |
+|                                                        |         |
+| GSU PRESIDENT - - - liaison / coordination - - -> Local leaders |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- The proposal is one Local, not two competing unions.
-- The Local-wide President, VP, Treasurer, and Secretary stay in place.
-- GSU becomes a bargaining-unit chapter with elected internal leadership.
-- The GSU President serves as the principal liaison to existing Local 6350 leadership; no new Local officer or Executive Board seat is created.
-- That creates a clear communication path to Local leadership without changing the Local Executive Board.
+- One Local, two bargaining units.
+- Existing Local officers and Executive Board remain unchanged.
+- GSU gets its own democratic internal structure.
+- The GSU President is the principal liaison to Local leadership, not a Local officer.
 
 ---
 
-# Slide 5 — Four GSU officers create clear accountability inside the GSU chapter
+# Slide 5 — Creating GSU does not require redesigning Local 6350
 
 ## Job
 
-Explain why the traditional four-officer structure works and what each office actually owns.
+Reassure the room immediately after showing the architecture that the proposal is narrowly scoped.
 
 ## Audience takeaway
 
-> Four officers are enough to create clear accountability, while the President serves as the principal liaison to existing Local leadership without creating a new Local office.
+> Draft 1 adds the structures GSU needs while preserving the broader Local leadership and Maintainers governance already in place.
 
 ## On-slide content
 
-Four cards:
+### PRESERVED
+- Local President / Vice-President / Treasurer / Secretary;
+- existing Executive Board composition;
+- committee-chair seats;
+- chief labor-council delegate;
+- Maintainers bargaining structure;
+- Local treasury controls;
+- Article XIII amendment process;
+- existing Local 6350 name in Draft 1.
+
+### ADDED / CLARIFIED
+- Graduate Student Employees chapter;
+- four elected GSU officers;
+- defined GSU-President liaison role;
+- GSU Representative Council;
+- GSU elections and vacancy rules;
+- GSU bargaining committee;
+- chapter bylaw authority;
+- graduate-worker dues / continuity provisions.
+
+Bottom statement:
+
+**Add a GSU governance layer. Do not rebuild the Local.**
+
+## Visual concept
+
+Balanced `PRESERVED` vs `ADDED / CLARIFIED` composition with a stable-foundation metaphor.
+
+## Rough mockup
+
+```text
++------------------------------------------------------------------+
+| CREATING GSU DOES NOT REQUIRE REDESIGNING LOCAL 6350             |
+|                                                                  |
+|  PRESERVED                         ADDED / CLARIFIED              |
+|  -----------------------           ---------------------------    |
+|  Local 4 officers                  GSU chapter                    |
+|  Exec Board composition            GSU 4 officers                |
+|  committee-chair seats             President liaison role        |
+|  labor delegate                    Representative Council        |
+|  Maintainers bargaining            GSU election/vacancy rules    |
+|  treasury controls                 GSU bargaining team           |
+|  Article XIII / current name       bylaws / dues / continuity    |
+|                                                                  |
+|       ADD A GSU GOVERNANCE LAYER — DO NOT REBUILD THE LOCAL      |
++------------------------------------------------------------------+
+```
+
+## Talking points
+
+- This is a targeted amendment package.
+- We are leaving unrelated Maintainers and Local-wide governance alone.
+- Keeping scope narrow reduces political and drafting risk.
+
+---
+
+# Slide 6 — Four elected officers give GSU clear accountability
+
+## Job
+
+Explain why the traditional four-officer structure works and what each office owns.
+
+## Audience takeaway
+
+> President, Vice President, Treasurer, and Secretary cover the core executive responsibilities without creating redundant positions.
+
+## On-slide content
 
 ### PRESIDENT
 - chief GSU representative;
 - chairs membership / Council meetings;
 - principal liaison to Local leadership;
-- bargaining / grievance liaison.
+- bargaining / grievance leadership.
 
 ### VICE PRESIDENT
-- succession;
-- committee / Council coordination;
-- organizing and contract enforcement.
+- succeeds President;
+- Council / committee coordination;
+- organizing / contract enforcement.
 
 ### TREASURER
-- tracks GSU budget/allocation;
+- tracks GSU budget / allocation;
 - coordinates with Local Treasurer;
 - financial reporting.
 
 ### SECRETARY
-- minutes and notices;
-- election / governance records;
-- official communications records.
+- minutes / notices;
+- election records;
+- governance / communications records.
 
-Bottom visual:
+Footer visual:
 
-`GSU members elect President` -> `President serves as principal liaison to existing Local 6350 leadership`
+`GSU MEMBERS -> elect -> PRESIDENT -> liaison -> EXISTING LOCAL 6350 LEADERSHIP`
 
 ## Visual concept
 
-2x2 officer-card grid with a distinct bridge arrow from the President card to a small Local Executive Board badge.
+2x2 officer-card grid. The liaison arrow should connect to a generic `Local 6350 leadership` label, **not** an Executive Board badge.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| FOUR GSU OFFICERS CREATE CLEAR ACCOUNTABILITY...                 |
+| FOUR ELECTED OFFICERS GIVE GSU CLEAR ACCOUNTABILITY              |
 |                                                                  |
 |  +---------------------+  +---------------------+                 |
 |  | PRESIDENT           |  | VICE PRESIDENT      |                 |
 |  | lead / meetings     |  | succession          |                 |
-|  | bargaining liaison  |  | committees          |                 |
-|  +----------+----------+  +---------------------+                 |
-|             |                                                    |
-|             +----> [ Principal liaison to Local 6350 leadership ]    |
+|  | bargaining / Local  |  | committees / org.   |                 |
+|  +---------------------+  +---------------------+                 |
 |                                                                  |
 |  +---------------------+  +---------------------+                 |
 |  | TREASURER           |  | SECRETARY           |                 |
-|  | budget tracking     |  | minutes / notices   |                 |
-|  | Local coordination  |  | records / elections |                 |
+|  | budget / reporting  |  | records / notices   |                 |
+|  | Local coordination  |  | elections / minutes |                 |
 |  +---------------------+  +---------------------+                 |
+|                                                                  |
+| MEMBERS -> elect President -> liaison -> LOCAL 6350 LEADERSHIP   |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- This is intentionally conventional: President, VP, Treasurer, Secretary.
-- The President is the principal liaison to Local leadership, but this does not create a Local-wide office or Executive Board seat.
-- That keeps the liaison function inside the GSU presidency without restructuring Local 6350 leadership.
-- The detailed duties are in the chapter bylaws; this slide is the accountability map.
+- Deliberately conventional four-office structure.
+- The President handles the Local liaison role without becoming a Local officer.
+- Detailed duties live in the bylaws; this slide is the accountability map.
 
 ---
 
-# Slide 6 — A separate Representative Council gives colleges a voice without crowding the Local Executive Board
+# Slide 7 — A Representative Council gives every part of GSU an elected voice
 
 ## Job
 
@@ -422,26 +474,23 @@ Explain how representation works and why college/school is the primary electoral
 
 ## Audience takeaway
 
-> College/school representation gives every part of the graduate workforce a stable elected voice, while committees handle overlapping identities like RA/TA and Master's/PhD.
+> Stable academic constituencies elect representatives, while committees/caucuses represent overlapping identities and employment types.
 
 ## On-slide content
 
-### Representative Council composition
-
+### Council composition
 - four GSU officers;
-- elected college/school representatives;
+- elected college / school representatives;
 - two at-large representatives.
 
-### Draft 1 seat formula
-
+### PROPOSED SEAT FORMULA
 **5–54 members -> 1 seat**  
 **55–104 -> 2 seats**  
 **105–154 -> 3 seats**
 
 One guaranteed seat for qualifying colleges + one additional seat per additional 50 members.
 
-### Cross-cutting committees/caucuses
-
+### Cross-cutting committees / caucuses
 RA / Research  
 TA / Instructional  
 Master's  
@@ -451,51 +500,46 @@ Organizing / grievance / communications
 
 Bottom statement:
 
-**Elect by stable constituency; organize by overlapping interest.**
+**Elect by stable constituency. Organize by overlapping interest.**
 
 ## Visual concept
 
-Center circle/card: `GSU REPRESENTATIVE COUNCIL`.
+Center `GSU REPRESENTATIVE COUNCIL` with example college/school nodes around it.
 
-Around it, six example college/school nodes + two at-large nodes.
+A clearly labeled `PROPOSED SEAT FORMULA` badge prevents the numerical thresholds from looking settled.
 
-Below, a horizontal ribbon of cross-cutting committee labels showing that these overlay the college structure rather than compete with it.
-
-Use generic college labels if current official membership distribution is not verified; the design should not imply that every named college definitely receives a seat under the threshold.
+A bottom ribbon of committees/caucuses overlays the representation structure rather than competing with it.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| A SEPARATE REPRESENTATIVE COUNCIL GIVES COLLEGES A VOICE...      |
+| A REPRESENTATIVE COUNCIL GIVES EVERY PART OF GSU AN ELECTED VOICE|
 |                                                                  |
-|     [ Engineering ]      [ Arts & Sciences ]      [ Business ]   |
-|             \                  |                    /             |
-|              \                 |                   /              |
-|                [ GSU REPRESENTATIVE COUNCIL ]                     |
-|              /          |             \                           |
-|     [ Nursing ]     [ At-large x2 ]      [ SMAST / other ]       |
+| [Engineering]   [Arts & Sciences]   [Business]                   |
+|       \               |                /                          |
+|             [ REPRESENTATIVE COUNCIL ]                            |
+|       /               |                \                          |
+| [Nursing]       [At-large x2]       [SMAST / other]              |
 |                                                                  |
-|   5–54 = 1 seat | 55–104 = 2 | 105–154 = 3 ...                  |
+| [ PROPOSED SEAT FORMULA ]                                       |
+| 5–54 = 1 | 55–104 = 2 | 105–154 = 3 ...                         |
 |                                                                  |
-|   ------------------------------------------------------------   |
-|   RA / Research | TA / Teaching | Master's | PhD | International |
-|   Elect by stable constituency; organize by overlapping interest |
+| RA | TA | Master's | PhD | International | Organizing | Grievance|
+| Elect by stable constituency. Organize by overlapping interest.  |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- The Representative Council is the broad democratic body inside GSU.
-- We intentionally keep it separate from the Local Executive Board so a larger GSU council cannot accidentally dominate Local-wide governance.
-- College/school is the primary electoral base because it is stable.
-- RA vs TA, Master's vs PhD, international status, and similar identities overlap and can change from semester to semester.
-- Those should have formal committees/caucuses rather than overlapping voting districts.
-- The seat threshold is a proposal and can be modified Tuesday.
+- Council is the broad democratic body inside GSU.
+- College/school is comparatively stable.
+- RA/TA, Master's/PhD, international status overlap and can change, so committees fit better than overlapping electoral districts.
+- The numerical seat formula is explicitly a Tuesday decision.
 
 ---
 
-# Slide 7 — Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps
+# Slide 8 — Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps
 
 ## Job
 
@@ -503,23 +547,21 @@ Make the graduate-worker-specific rules intuitive and surface the summer-gap dec
 
 ## Audience takeaway
 
-> A governance model built for long-term employees will fail for graduate workers unless terms, eligibility, vacancies, and appointment gaps are handled differently.
+> Rules designed for long-term employees need targeted adaptation for a high-turnover graduate-worker bargaining unit.
 
 ## On-slide content
 
-Four rules:
-
-**1 YEAR**  
-Officer and Council terms
+**1-YEAR TERMS**  
+Officers and Council
 
 **NO 1-YEAR WAIT**  
-Any GSU member in good standing may run
+Any eligible GSU member in good standing may run
 
 **SPECIAL ELECTIONS**  
 Meaningful mid-term vacancies go back to voters
 
 **SUMMER CONTINUITY — PROPOSED**  
-A temporary appointment gap does not end GSU office when the member is expected to return in the next academic term
+An ordinary appointment gap does not end office when a covered fall return is expected
 
 Small caveat:
 
@@ -527,13 +569,11 @@ Does not cover graduation, permanent departure, or no expected return to a cover
 
 ## Visual concept
 
-Horizontal academic-year timeline:
+Academic-year timeline:
 
-`SPRING ELECTION -> JULY 1 TERM START -> SUMMER GAP? -> FALL RETURN -> SPRING -> JUNE 30 TERM END`
+`SPRING ELECTION -> JULY 1 -> SUMMER GAP? -> FALL RETURN -> JUNE 30`
 
-Place the four governance rules above/below the timeline.
-
-The summer segment should be visually emphasized as the question the room must explicitly confirm.
+The summer segment receives the strongest emphasis because leadership must explicitly confirm it.
 
 ## Rough mockup
 
@@ -541,59 +581,55 @@ The summer segment should be visually emphasized as the question the room must e
 +------------------------------------------------------------------+
 | GRADUATE-WORKER TURNOVER DEMANDS DIFFERENT RULES                 |
 |                                                                  |
-|   [ 1-YEAR TERMS ]   [ NO 1-YEAR WAIT ]   [ SPECIAL ELECTIONS ]  |
+| [1-YEAR TERMS] [NO 1-YEAR WAIT] [SPECIAL ELECTIONS]              |
 |                                                                  |
-|  Spring        Jul 1        Summer          Fall         Jun 30   |
-|  election  ---- TERM ---- [ APPT GAP? ] ---- return ---- end      |
+| SPRING         JULY          SUMMER             FALL             |
+| election ----> term -----> [ NO APPT? ] -----> covered return    |
 |                               |                                  |
 |                               v                                  |
-|                 [ PROPOSED: CONTINUITY RULE ]                    |
-|        Expected fall return -> office eligibility continues      |
+|                 [ SUMMER CONTINUITY — PROPOSED ]                 |
+|                  office continues if return expected             |
 |                                                                  |
-|  Not graduation. Not permanent departure. Not no-return.         |
+| Not graduation • not permanent departure • not no-return         |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- The Local's three-year terms and one-year eligibility rule were written for a very different workforce.
-- GSU itself has not existed long enough for a one-year waiting rule to work.
-- One-year terms give each cohort a realistic democratic path into leadership.
-- Special elections are preferred to filling most of a short term by appointment.
-- The summer issue is real: an elected officer may have no UMassD summer appointment and still be returning to a covered fall position.
-- Draft 1 says that ordinary gap should not automatically eject them from office. That is one of the points we need the room to explicitly confirm.
+- Three-year Local terms and a one-year waiting period do not map well to graduate-worker turnover.
+- One-year terms and special elections preserve democratic accountability.
+- GSU has not existed long enough for a one-year waiting period to work for initial chapter office.
+- Summer continuity is a real operational issue and must be explicitly confirmed Tuesday.
 
 ---
 
-# Slide 8 — GSU controls its bargaining team; contract ratification stays with the affected bargaining unit
+# Slide 9 — GSU selects its bargaining team; only GSU members ratify its contract
 
 ## Job
 
-Explain unit-specific bargaining authority while showing that Local 6350 remains the umbrella.
+Explain unit-specific bargaining authority while showing Local 6350 remains the umbrella.
 
 ## Audience takeaway
 
-> Each bargaining unit should negotiate through its own team, while Local-wide coordination remains available and only the affected unit votes on its contract.
+> Each bargaining unit uses its own bargaining team, while Local-wide legal/administrative coordination remains shared and only the affected unit votes on its agreement.
 
 ## On-slide content
 
-Parallel lanes:
-
 ### MAINTAINERS
-Existing Maintainers bargaining committee  
+Maintainers bargaining team  
 -> Maintainers agreement  
 -> Maintainers vote
 
 ### GSU
-GSU-selected bargaining committee  
+GSU-selected bargaining team  
 -> Graduate Student Employees agreement  
 -> GSU vote
 
-Center shared layer:
+Shared layer:
 
 **LOCAL 6350**  
 legal / administrative coordination  
-shared issues when genuinely common
+common issues when genuinely shared
 
 Bottom statement:
 
@@ -601,107 +637,37 @@ Bottom statement:
 
 ## Visual concept
 
-Two parallel horizontal pipelines with a Local 6350 coordination band spanning above them.
-
-Do not imply GSU can bind Local 6350 independently of the Local's legal obligations; show coordination rather than separation.
+Two parallel pipelines beneath a common Local 6350 coordination band.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| GSU CONTROLS ITS BARGAINING TEAM; RATIFICATION STAYS UNIT-SPECIFIC|
+| GSU SELECTS ITS BARGAINING TEAM; ONLY GSU MEMBERS RATIFY ITS CBA |
 |                                                                  |
-|                 [ LOCAL 6350 COORDINATION ]                      |
-|                 legal / admin / common issues                    |
-|                    |                       |                     |
-|  MAINTAINERS       v                       v          GSU         |
-|  [Maint. team] -> [Maint. agreement]     [GSU team] -> [GSU CBA] |
-|         |                  |                    |            |    |
-|         +----> Maintainers vote                +----> GSU vote   |
+|                  [ LOCAL 6350 COORDINATION ]                     |
+|                    /                      \                       |
+|          MAINTAINERS                       GSU                    |
+|        [ bargaining ]                 [ bargaining ]              |
+|             ↓                              ↓                      |
+|       Maintainers CBA                    GSU CBA                  |
+|             ↓                              ↓                      |
+|      Maintainers vote                   GSU vote                  |
 |                                                                  |
-|  Article XV already says only the affected bargaining unit votes |
+| Article XV: only the affected bargaining unit votes              |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- The current bargaining committee is explicitly built around Maintainers classifications.
-- Draft 1 makes that the Maintainers bargaining committee rather than pretending it represents every future unit.
-- GSU selects its own bargaining team and develops its own bargaining priorities.
-- The Local still coordinates legal and administrative obligations and any genuinely shared issue.
-- Ratification is already bargaining-unit-specific under the existing constitution; we are preserving that principle.
+- Existing bargaining committee is Maintainer-specific.
+- Draft 1 makes GSU's team separately selected by GSU.
+- Local 6350 still coordinates shared obligations.
+- Unit-only ratification is already part of the existing constitution.
 
 ---
 
-# Slide 9 — Draft 1 changes only what GSU needs—and leaves most Maintainers governance alone
-
-## Job
-
-Reduce resistance by showing the bounded scope of the amendments.
-
-## Audience takeaway
-
-> The proposal is additive and targeted: it formalizes GSU without unnecessarily rewriting how the Maintainers run their unit.
-
-## On-slide content
-
-### PRESERVED
-
-- Local President / VP / Treasurer / Secretary;
-- existing Local committee-chair Executive Board seats;
-- chief labor-council delegate seat;
-- Maintainers bargaining committee structure;
-- Local treasury controls;
-- Local-wide amendment process;
-- existing Local 6350 name in Draft 1.
-
-### ADDED / CLARIFIED
-
-- Graduate Student Employees chapter;
-- GSU officers + defined liaison to Local leadership;
-- GSU Representative Council;
-- GSU-specific elections and vacancy rules;
-- GSU bargaining committee;
-- graduate-worker dues classification language;
-- chapter bylaw authority;
-- temporary appointment-gap continuity rule.
-
-## Visual concept
-
-Balanced two-column "Preserved / Added" composition.
-
-Use a visual metaphor of a stable foundation with a new branch added—not demolition/rebuild.
-
-## Rough mockup
-
-```text
-+------------------------------------------------------------------+
-| DRAFT 1 CHANGES ONLY WHAT GSU NEEDS...                           |
-|                                                                  |
-|  PRESERVED                         ADDED / CLARIFIED              |
-|  ------------------------          ---------------------------    |
-|  Local 4 officers                  GSU chapter                    |
-|  committee-chair board seats       GSU 4 officers + Local seat   |
-|  labor-council delegate            Representative Council        |
-|  Maintainers bargaining team       GSU election/vacancy rules    |
-|  Local treasury controls           GSU bargaining team           |
-|  Article XIII process              chapter bylaws / continuity   |
-|  existing name                                                     |
-|                                                                  |
-|            TARGETED AMENDMENT — NOT A LOCAL REBUILD               |
-+------------------------------------------------------------------+
-```
-
-## Talking points
-
-- This is important politically: the proposal is not trying to redesign unrelated Maintainers governance.
-- We preserve the existing Local officers, treasury structure, committee-chair board seats, and Maintainers bargaining structure.
-- The amendments mostly define GSU and clarify where bargaining-unit-specific rules apply.
-- Keeping the scope narrow makes the proposal easier to understand, review, and amend later if needed.
-
----
-
-# Slide 10 — Leadership only needs to decide five design questions
+# Slide 10 — Five decisions determine whether Draft 1 moves forward
 
 ## Job
 
@@ -709,75 +675,73 @@ Convert the detailed decision sheet into a manageable live discussion agenda.
 
 ## Audience takeaway
 
-> Most procedural questions are already resolved; Tuesday's work is to decide five governance design clusters.
+> Most procedural research is done; leadership now needs to approve or modify five design clusters.
 
 ## On-slide content
 
-Five numbered decision blocks:
-
 ### 1 — OFFICERS
 Four officers?  
-GSU President as principal liaison to existing Local leadership?
+President as principal Local liaison?
 
 ### 2 — REPRESENTATION
 Separate Representative Council?  
-College/school hybrid seats + two at-large?  
-RA/TA and MS/PhD through committees?
+Hybrid college/school seats + two at-large?  
+Cross-cutting groups through committees?
 
 ### 3 — TERMS & CONTINUITY
 One-year terms?  
 No one-year waiting period?  
-Approve summer appointment-gap continuity rule?
+Summer continuity rule?
 
 ### 4 — BARGAINING
-GSU selects its bargaining team?  
-GSU leadership co-administers ratification with Local officers?
+GSU-selected bargaining team?  
+GSU leadership participates in ratification administration with Local officers?
 
 ### 5 — VACANCIES & TRANSITION
 Special elections for meaningful vacancies?  
-Initial election immediately after amendments take effect?
+Initial election after amendments take effect?
 
-Small footer:
+Footer:
 
-**Optional discussion:** keep current Local name now; consider broader umbrella name later.
+**Optional discussion:** keep current Local name now; consider a broader umbrella name later.
+
+Dominant action label:
+
+**APPROVE AS PROPOSED / MODIFY**
 
 ## Visual concept
 
-Five large decision tiles, each with `APPROVE / MODIFY` language. Avoid showing all twelve detailed decisions individually.
-
-The intent is to make the room discuss one cluster at a time.
+Five large decision tiles. This is the point where the presentation becomes the meeting discussion.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| LEADERSHIP ONLY NEEDS TO DECIDE FIVE DESIGN QUESTIONS            |
+| FIVE DECISIONS DETERMINE WHETHER DRAFT 1 MOVES FORWARD           |
 |                                                                  |
-| [1 OFFICERS]     [2 REPRESENTATION]     [3 TERMS / CONTINUITY]   |
-| 4 officers?       separate council?      1-year terms?           |
-| President as liaison?  hybrid seats?          no wait? summer rule?   |
+| [1 OFFICERS]   [2 REPRESENTATION]   [3 TERMS / CONTINUITY]       |
+| 4 officers?     council / seats?     1-year / no wait?            |
+| liaison?        committees?          summer rule?                 |
 |                                                                  |
-|        [4 BARGAINING]              [5 VACANCIES / TRANSITION]    |
-|        own team?                    special elections?            |
-|        ratification role?          immediate first election?      |
+|       [4 BARGAINING]          [5 VACANCIES / TRANSITION]         |
+|       own team?                special elections?                 |
+|       ratification role?       initial election?                  |
 |                                                                  |
-|        APPROVE AS PROPOSED  /  MODIFY                             |
+|              APPROVE AS PROPOSED  /  MODIFY                      |
 |                                                                  |
-| Optional: discuss a broader Local name later; Draft 1 keeps it.  |
+| Optional: broader Local name later; Draft 1 keeps current name.  |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- The detailed sheet has twelve line-item decisions, but they collapse into five real design questions.
-- We should discuss them in clusters rather than reopening every clause independently.
-- If the room agrees with a cluster, we mark it approved.
-- If not, we record the exact modification and update the bylaws after the meeting.
-- The Local-name question is optional and does not block the governance package.
+- The detailed decision sheet breaks these into individual line items, but the live conversation works better in five clusters.
+- Approve a cluster if it works; otherwise record the exact modification.
+- Do not reopen already resolved procedural research unless a concrete issue emerges.
 
 ---
 
-# Slide 11 — Approve the structure in principle Tuesday; the Local membership still makes the constitutional decision
+# Slide 11 — Tuesday decides what we recommend; Local 6350 members decide what gets adopted
 
 ## Job
 
@@ -785,22 +749,23 @@ Close with the exact requested action and make the formal adoption path unmistak
 
 ## Audience takeaway
 
-> Tuesday leadership approval advances the proposal; it does not adopt the constitution. Local 6350 members make the constitutional decision later by the existing Article XIII process.
+> Tuesday advances a recommendation; it does not amend the constitution. Local 6350 members make the formal constitutional decision later.
 
 ## On-slide content
 
 ### Requested Tuesday outcome
 
-> **Approve the proposed governance structure in principle, subject to the modifications recorded today, and authorize the revised amendment package to be sent to the Local 6350 President for informal review.**
+> **Approve the proposed governance structure in principle, subject to the modifications recorded today, and authorize preparation of the revised package for Local 6350 President review.**
 
 ### Timeline
 
 **SEPT 22**  
 GSU leadership design review
 
--> **revise Draft 1**
+-> **REVISE DRAFT 1**
 
--> **Local President informal review**
+-> **LOCAL PRESIDENT**  
+informal review
 
 -> **BY OCT 6**  
 final amendments distributed if using the 15-day route
@@ -809,60 +774,59 @@ final amendments distributed if using the 15-day route
 Local 6350 regular meeting  
 **2/3 of members present required**
 
--> **after adoption**  
+-> **POST-ADOPTION**  
 submit amended governing documents as required
 
 Bottom statement:
 
-**Today decides what we recommend. The Local membership decides what becomes law for the union.**
+**Today decides what we recommend. Local 6350 members decide what gets adopted.**
 
 ## Visual concept
 
-Large horizontal timeline with the requested motion in a prominent callout above it.
-
-This should feel like a clean closing / action slide, not another content-heavy slide.
+Clean action slide with a prominent requested-outcome box and a horizontal process timeline.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| APPROVE THE STRUCTURE IN PRINCIPLE TUESDAY...                    |
+| TUESDAY DECIDES WHAT WE RECOMMEND; LOCAL MEMBERS DECIDE ADOPTION |
 |                                                                  |
-|  [ REQUESTED MOTION ]                                            |
-|  Approve in principle + record modifications + authorize         |
-|  revised package for Local President review                      |
+| [ REQUESTED OUTCOME ]                                            |
+| Approve in principle + record modifications + authorize revised  |
+| package for Local President review                               |
 |                                                                  |
-|  SEPT 22       REVISE        BY OCT 6          OCT 21            |
-|  leadership -> Draft 1 -> distribute final -> Local vote         |
-|  review                         (15-day route)     2/3 present     |
-|                                                     |            |
-|                                                     v            |
-|                                              post-adoption filing |
+| SEPT 22       REVISE       LOCAL PRES.      BY OCT 6    OCT 21   |
+| leadership -> Draft 1 -> informal review -> distribute -> vote   |
+|                                                     2/3 present  |
+|                                                         ↓        |
+|                                                 post-adoption     |
+|                                                 submission        |
 |                                                                  |
-|  Today decides what we recommend.                                |
-|  The Local membership decides what becomes union law.            |
+| Today decides what we recommend. Local members decide adoption.  |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- The leadership meeting is the design-review checkpoint.
-- If we approve the structure, we revise Draft 1 immediately to reflect any changes.
-- The Local President gets the clean revised package for informal review.
-- If the October 21 vote remains the target and we use the distribution route, the amendment package must be presented to members no later than October 6.
-- Adoption still requires the existing two-thirds vote of members present at the regular Local meeting.
-- That distinction matters: today we are deciding what GSU leadership recommends, not bypassing the Local's constitutional process.
+- Tuesday is the design-review checkpoint.
+- Leadership approval in principle does not adopt anything.
+- Changes get incorporated before the package goes to the Local President.
+- If the October 21 vote remains the target and the 15-day distribution route is used, distribution must occur by October 6.
+- Formal adoption remains a Local 6350 membership decision under Article XIII.
 
 ---
 
-# Stage 1 design questions for user review
+# Stage 1 slide-by-slide review questions
 
-Before this plan is concept-locked, review especially:
+The correction pass is complete. The next review should lock or revise each slide individually.
 
-1. Is **11 slides** the right amount for the leadership meeting, or should Slides 3 or 9 be collapsed to shorten the deck?
-2. Should the comparator slide remain early (Slide 3), or should the room see the proposal first and the precedent afterward?
-3. Does leadership need the **hybrid 5/50 seat formula** visually on Slide 6, or should that remain speaker-note detail and the slide show only the principle?
-4. Should the proposed motion on Slide 11 be framed as a formal motion or as a consensus statement?
-5. Do we want the deck branded primarily as **GSU**, **Local 6350**, or visually balanced between both?
+For each slide, review:
 
-Do not begin `SVG_PRODUCTION_SPEC.md` until the slide concepts, ordering, visual jobs, and script are approved.
+1. Is the **single intellectual job** correct?
+2. Is the **title** the conclusion we want the room to remember?
+3. Is the **visual** the clearest way to communicate that conclusion?
+4. Is any on-screen text unnecessary or missing?
+5. Does the **script** add useful rationale without repeating the slide?
+6. Is any governance claim stronger than the frozen bylaws actually support?
+
+Do not begin `SVG_PRODUCTION_SPEC.md` until all eleven slide concepts, visual jobs, and scripts are concept-locked.
