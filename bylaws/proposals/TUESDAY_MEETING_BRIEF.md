@@ -21,7 +21,7 @@ The proposal combines the parts that fit graduate workers best.
 
 ### One-sentence proposal
 
-> Keep Local 6350 as the umbrella, make GSU a democratically governed bargaining-unit chapter, give the elected GSU President a guaranteed Local Executive Board seat, and create a separate GSU Representative Council for broad graduate-worker representation.
+> Keep Local 6350 as the umbrella, preserve its existing leadership structure, make GSU a democratically governed bargaining-unit chapter, use the elected GSU President as the principal liaison to Local leadership, and create a separate GSU Representative Council for broad graduate-worker representation.
 
 ---
 
@@ -29,15 +29,15 @@ The proposal combines the parts that fit graduate workers best.
 
 ```text
 LOCAL 6350
-│
-├── Local President
-├── Local Vice-President
-├── Local Treasurer
-├── Local Secretary
-└── Graduate Student Vice-President
-        ▲
-        │ same elected person
+├── existing Local President
+├── existing Local Vice-President
+├── existing Local Treasurer
+├── existing Local Secretary
+├── existing committee-chair Executive Board seats
+└── existing labor-council delegate
         │
+        │ coordination / liaison
+        ▼
 GSU President
 ├── GSU Vice President
 ├── GSU Treasurer
@@ -57,9 +57,9 @@ GSU President
 
 ### Emphasize
 
-The Representative Council is **not** automatically the Local Executive Board.
+Neither the GSU officers nor the Representative Council automatically become members of the Local Executive Board.
 
-That keeps broad GSU representation without letting the size of the GSU council accidentally determine Local-wide voting balance.
+That keeps GSU self-governance distinct from the broader Local leadership structure.
 
 ---
 
@@ -90,6 +90,7 @@ Graduate workers have:
 - overlapping Master's/PhD, research/teaching, and international-worker identities.
 
 So the proposal uses:
+- a separate GSU chapter rather than new Local-wide offices;
 - one-year terms;
 - no one-year waiting period for GSU office;
 - college/school electoral constituencies;
@@ -108,7 +109,7 @@ Present the recommendation first, then ask whether anyone has an objection or mo
 The decisions are:
 
 1. four elected GSU officers;
-2. GSU President also holds the Local GSU seat;
+2. GSU President serves as the principal liaison to existing Local leadership;
 3. one-year terms;
 4. no one-year waiting period for GSU office;
 5. separate GSU Representative Council;
@@ -147,13 +148,10 @@ Leadership is approving the **proposal to advance for formal Local review**.
 If these questions threaten to consume the meeting, record them and move on:
 
 - Does the Local's legal/chartered name need to change?
-- Is "Graduate Student Vice-President" the preferred AFT title?
-- What exact election notice is required?
-- Does AFT require a minimum eligibility period for the GSU President's Local seat?
-- How should the existing Maintainers-based dues formula be handled?
-- Does AFT/AFT Massachusetts need to approve anything before the member vote?
+- Are there any Local/AFT concerns with the proposed temporary appointment-gap continuity rule?
+- Are there any implementation details for elections, dues administration, or filing that should be corrected before member circulation?
 
-These matter before final circulation, but they do not prevent GSU leadership from deciding what structure it wants.
+The baseline governance proposal itself does **not** require a new Local officer or Executive Board seat.
 
 ---
 
