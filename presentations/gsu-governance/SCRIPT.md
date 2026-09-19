@@ -10,13 +10,15 @@ The script is intentionally conversational. The slides carry the structure; narr
 
 # Slide 1 — A Governance Structure for Graduate Student Employees
 
+**Status:** CONCEPT LOCKED
+
 ## Script
 
 "So, we now have a complete first draft of the governance structure and the constitutional amendments that would make it work.
 
 The purpose of this meeting is not to vote the bylaws into effect. What I want us to do today is decide whether this is the structure we actually want to recommend.
 
-If we like it, we approve it in principle, make whatever changes come out of this discussion, and then send the revised amendment package to the Local 6350 President for review.
+If the structure works, we approve it in principle. If something needs to change, we decide exactly what. Then I revise the package and send it to the Local 6350 President for review.
 
 So the question for today is basically: does this structure make sense for graduate workers, and if not, what exactly do we want to change?"
 
