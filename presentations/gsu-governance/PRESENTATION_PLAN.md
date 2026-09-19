@@ -48,9 +48,9 @@ The emotional arc should be:
 |---|---|---|---|
 | 1 | A governance structure for UMass Dartmouth Graduate Student Employees | Frame the meeting and the decision | DRAFT |
 | 2 | The current constitution assumes one bargaining unit; GSU now needs a defined place inside Local 6350 | Establish why amendments are necessary | DRAFT |
-| 3 | AFT comparators point to the same basic solution: unit leadership + representative governance | Show the proposal is grounded in existing AFT structures | DRAFT |
-| 4 | Keep Local 6350 intact; add GSU as a democratically governed bargaining-unit chapter | Show the parent/child governance architecture | DRAFT |
-| 5 | Four GSU officers create clear accountability without duplicating Local leadership | Explain the officer model and Local Executive Board link | DRAFT |
+| 3 | AFT comparators show multiple ways to organize bargaining-unit leadership and representative governance | Show the proposal is informed by existing AFT structures without copying their Local-board design | DRAFT |
+| 4 | Keep Local 6350 leadership intact; add GSU as a democratically governed bargaining-unit chapter | Show the parent/child governance architecture | DRAFT |
+| 5 | Four GSU officers create clear accountability inside the GSU chapter | Explain the officer model and Local Executive Board link | DRAFT |
 | 6 | A separate Representative Council gives colleges a voice without crowding the Local Executive Board | Explain representation, seat logic, and committees/caucuses | DRAFT |
 | 7 | Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps | Explain term/eligibility/vacancy/continuity rules | DRAFT |
 | 8 | GSU controls its bargaining team; contract ratification stays with the affected bargaining unit | Explain bargaining and ratification autonomy | DRAFT |
@@ -292,10 +292,6 @@ Existing unit structure preserved
 President | VP | Treasurer | Secretary  
 Representative Council
 
-Link the GSU President upward to:
-
-**Graduate Student Vice-President of Local 6350**  
-Voting Local Executive Board seat
 
 ## Visual concept
 
@@ -306,7 +302,7 @@ Important visual semantics:
 - GSU is **inside** Local 6350.
 - The Local Executive Board is above/beside unit governance, not underneath GSU.
 - The GSU Representative Council does not feed directly into the Local Executive Board.
-- The GSU President is the bridge.
+- The GSU President is the principal liaison to existing Local leadership, not a new Local officer.
 
 ## Rough mockup
 
@@ -352,7 +348,7 @@ Explain why the traditional four-officer structure works and what each office ac
 
 ## Audience takeaway
 
-> Four officers are enough to create clear accountability, while the President's linked Local seat avoids creating a redundant fifth liaison office.
+> Four officers are enough to create clear accountability, while the President serves as the principal liaison to existing Local leadership without creating a new Local office.
 
 ## On-slide content
 
@@ -361,7 +357,7 @@ Four cards:
 ### PRESIDENT
 - chief GSU representative;
 - chairs membership / Council meetings;
-- Local Executive Board seat;
+- principal liaison to Local leadership;
 - bargaining / grievance liaison.
 
 ### VICE PRESIDENT
@@ -381,7 +377,7 @@ Four cards:
 
 Bottom visual:
 
-`GSU members elect President` -> `same person serves as Graduate Student VP of Local 6350`
+`GSU members elect President` -> `President serves as principal liaison to existing Local 6350 leadership`
 
 ## Visual concept
 
@@ -399,7 +395,7 @@ Bottom visual:
 |  | bargaining liaison  |  | committees          |                 |
 |  +----------+----------+  +---------------------+                 |
 |             |                                                    |
-|             +----> [ Graduate Student VP / Local Exec Board ]    |
+|             +----> [ Principal liaison to Local 6350 leadership ]    |
 |                                                                  |
 |  +---------------------+  +---------------------+                 |
 |  | TREASURER           |  | SECRETARY           |                 |
@@ -412,8 +408,8 @@ Bottom visual:
 ## Talking points
 
 - This is intentionally conventional: President, VP, Treasurer, Secretary.
-- The unusual part is simply that the elected GSU President also holds the Local's graduate bargaining-unit seat.
-- That avoids electing a fifth person whose only role is to relay information between GSU and the Local.
+- The President is the principal liaison to Local leadership, but this does not create a Local-wide office or Executive Board seat.
+- That keeps the liaison function inside the GSU presidency without restructuring Local 6350 leadership.
 - The detailed duties are in the chapter bylaws; this slide is the accountability map.
 
 ---
@@ -662,7 +658,7 @@ Reduce resistance by showing the bounded scope of the amendments.
 ### ADDED / CLARIFIED
 
 - Graduate Student Employees chapter;
-- GSU officers + Local GSU seat;
+- GSU officers + defined liaison to Local leadership;
 - GSU Representative Council;
 - GSU-specific elections and vacancy rules;
 - GSU bargaining committee;
@@ -721,7 +717,7 @@ Five numbered decision blocks:
 
 ### 1 — OFFICERS
 Four officers?  
-GSU President also = Graduate Student VP / Local Executive Board seat?
+GSU President as principal liaison to existing Local leadership?
 
 ### 2 — REPRESENTATION
 Separate Representative Council?  
@@ -759,7 +755,7 @@ The intent is to make the room discuss one cluster at a time.
 |                                                                  |
 | [1 OFFICERS]     [2 REPRESENTATION]     [3 TERMS / CONTINUITY]   |
 | 4 officers?       separate council?      1-year terms?           |
-| GSU Pres->Local?  hybrid seats?          no wait? summer rule?   |
+| President as liaison?  hybrid seats?          no wait? summer rule?   |
 |                                                                  |
 |        [4 BARGAINING]              [5 VACANCIES / TRANSITION]    |
 |        own team?                    special elections?            |
