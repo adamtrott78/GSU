@@ -83,7 +83,7 @@ The President shall:
 a. serve as chief elected representative of GSU;  
 b. preside at GSU membership and Representative Council meetings;  
 c. prepare meeting agendas with the Secretary and Vice President;  
-d. serve ex officio as Graduate Student Vice-President of Local 6350 if authorized by the Local Constitution;  
+d. serve ex officio as principal GSU liaison to Local 6350 if authorized by the Local Constitution;  
 e. represent GSU on the Local 6350 Executive Board;  
 f. serve as primary liaison to Local-wide officers, AFT representatives, and University counterparts where appropriate;  
 g. participate in bargaining and contract administration;  
@@ -334,7 +334,7 @@ Appeal may be made to the Local 6350 Executive Board or other body required by c
 If the President resigns, becomes ineligible, or is removed:
 
 a. the Vice President immediately becomes President for the remainder of the term; and  
-b. if authorized by the Local Constitution, becomes Graduate Student Vice-President of Local 6350.
+b. if authorized by the Local Constitution, becomes principal GSU liaison to Local 6350.
 
 ## Section 2. Other officer vacancies
 
@@ -686,7 +686,7 @@ Interim status does not convert an unelected position into an elected constituti
 
 Local 6350  
 → Local President / Vice-President / Treasurer / Secretary  
-→ Graduate Student Vice-President (held by elected GSU President)  
+→ GSU President (held by elected GSU President)  
 → Local Executive Board
 
 Graduate Student Employees Chapter / GSU  
@@ -707,7 +707,7 @@ The following are deliberate proposals and should be specifically approved or mo
 
 1. one-year officer and Council terms;
 2. no one-year waiting period for GSU office;
-3. GSU President also serving as Local Graduate Student Vice-President;
+3. GSU President also serving as Local GSU President;
 4. two at-large Council seats;
 5. five-member minimum for a guaranteed academic-unit seat;
 6. one additional seat per additional fifty members;
