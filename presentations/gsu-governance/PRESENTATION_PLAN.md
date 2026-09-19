@@ -324,9 +324,9 @@ Important visual semantics:
 |                                               |                  |
 |                                      colleges + at-large         |
 |                                                                  |
-|                GSU PRESIDENT --------------------------------+    |
-|                    |                                          |   |
-|                    +--> Graduate Student VP --> Local Exec Bd |   |
+|                GSU PRESIDENT                                     |
+|                    |                                             |
+|                    +--> principal liaison to Local leadership    |
 +------------------------------------------------------------------+
 ```
 
@@ -335,12 +335,12 @@ Important visual semantics:
 - The proposal is one Local, not two competing unions.
 - The Local-wide President, VP, Treasurer, and Secretary stay in place.
 - GSU becomes a bargaining-unit chapter with elected internal leadership.
-- The GSU President automatically holds the Graduate Student Vice-President seat on the Local Executive Board.
-- That creates a direct democratic connection between GSU members and Local governance without putting every GSU representative on the Local board.
+- The GSU President serves as the principal liaison to existing Local 6350 leadership; no new Local officer or Executive Board seat is created.
+- That creates a clear communication path to Local leadership without changing the Local Executive Board.
 
 ---
 
-# Slide 5 — Four GSU officers create clear accountability without duplicating Local leadership
+# Slide 5 — Four GSU officers create clear accountability inside the GSU chapter
 
 ## Job
 
