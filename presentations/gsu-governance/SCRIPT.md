@@ -78,25 +78,31 @@ And importantly, none of this requires changing the existing Local 6350 Executiv
 
 ---
 
-# Slide 4 — Keep Local 6350 leadership intact; add GSU as a democratically governed bargaining-unit chapter
+# Slide 4 — One Local, two bargaining units: preserve Local leadership and add GSU self-governance
+
+**Status:** CONCEPT LOCKED
 
 ## Script
 
-"The central idea is simple: one Local, two bargaining units.
+"So if we take those pieces and apply them narrowly to our situation, the overall structure is actually pretty simple.
 
-Local 6350 stays the umbrella. The existing Local President, Vice-President, Treasurer, Secretary, committee-chair seats, and other existing leadership structure stay where they are.
+One Local, two bargaining units.
 
-Inside that Local, the Maintainers keep their existing unit structure, and Graduate Student Employees become a formally defined bargaining-unit chapter — GSU.
+AFT Local 6350 stays the umbrella. Its existing President, Vice-President, Treasurer, Secretary, and Executive Board structure stay exactly where they are.
 
-GSU elects its own President, Vice President, Treasurer, and Secretary, and it has a Representative Council underneath that.
+Under that umbrella, the Maintainers keep their existing unit governance.
 
-The GSU President is the principal liaison to the existing Local leadership. That is a communication and coordination role, not a new Local office and not an automatic Executive Board seat.
+Graduate Student Employees become a formally defined bargaining-unit chapter—GSU—with our own President, Vice President, Treasurer, Secretary, and Representative Council.
 
-So we get real internal self-governance without redesigning the broader Local."
+So the Local handles Local-wide governance, while each bargaining unit has a structure appropriate to that unit.
+
+The GSU President is our principal liaison to the existing Local leadership. That's a communication and coordination role. It does not make the GSU President a Local officer or automatically put them on the Executive Board.
+
+The basic principle is one Local, distinct bargaining units, and democratic self-governance inside each unit."
 
 ## Transition
 
-"That scope boundary is important enough that I want to make it explicit before getting into the details."
+"And because this diagram can make the proposal look bigger than it actually is, I want to be explicit about what we're not changing."
 
 ---
 
