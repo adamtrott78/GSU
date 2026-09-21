@@ -49,7 +49,7 @@ The emotional arc is:
 | 1 | A Governance Structure for Graduate Student Employees | Frame the meeting and decision | **CONCEPT LOCKED** |
 | 2 | Local 6350 already has pieces of multi-unit governance—GSU is the missing structure | Establish why amendments are necessary | **CONCEPT LOCKED** |
 | 3 | The building blocks already exist in other AFT locals—we can adapt them to GSU | Establish comparator precedent without importing unrelated Local structures | **CONCEPT LOCKED** |
-| 4 | Keep Local 6350 leadership intact; add GSU as a democratically governed bargaining-unit chapter | Show the whole-system architecture | DRAFT |
+| 4 | One Local, two bargaining units: preserve Local leadership and add GSU self-governance | Show the whole-system architecture | **CONCEPT LOCKED** |
 | 5 | Creating GSU does not require redesigning Local 6350 | Reduce perceived risk | DRAFT |
 | 6 | Four elected officers give GSU clear accountability | Explain the officer model and liaison role | DRAFT |
 | 7 | A Representative Council gives every part of GSU an elected voice | Explain representation, seat logic, and committees/caucuses | DRAFT |
@@ -298,11 +298,11 @@ Do not put Chelsea's Executive Board seat arrangement on-screen. It is not part 
 
 ---
 
-# Slide 4 — Keep Local 6350 leadership intact; add GSU as a democratically governed bargaining-unit chapter
+# Slide 4 — One Local, two bargaining units: preserve Local leadership and add GSU self-governance
 
 ## Status
 
-DRAFT
+**CONCEPT LOCKED**
 
 ## Job
 
@@ -314,62 +314,90 @@ Show the proposed whole-system architecture in one picture.
 
 ## On-slide content
 
-**AFT LOCAL 6350**
+### AFT LOCAL 6350
 
-Existing Local leadership:
+**LOCAL-WIDE GOVERNANCE — UNCHANGED**  
+President • Vice-President • Treasurer • Secretary  
+Existing Executive Board structure preserved
 
-President | Vice-President | Treasurer | Secretary  
-Existing committee-chair / labor-council seats remain unchanged
+**BARGAINING-UNIT CHAPTERS**
 
-Bargaining-unit layer:
-
-**MAINTAINERS** — existing unit structure preserved
+**MAINTAINERS**  
+Existing unit governance preserved
 
 **GRADUATE STUDENT EMPLOYEES / GSU**  
-President | VP | Treasurer | Secretary  
+President • Vice President • Treasurer • Secretary  
 Representative Council
 
 The GSU President has a **liaison / coordination** relationship with existing Local leadership.
+
+Bottom statement:
+
+**ONE LOCAL • DISTINCT BARGAINING UNITS • DEMOCRATIC UNIT SELF-GOVERNANCE**
 
 ## Visual concept
 
 This is the deck's hero architecture slide.
 
+Use one large `AFT LOCAL 6350` outer container. Inside it, show two conceptual levels:
+
+1. an upper `LOCAL-WIDE GOVERNANCE — UNCHANGED` band; and
+2. a lower `BARGAINING-UNIT CHAPTERS` band with Maintainers and GSU side by side.
+
 Important visual semantics:
 
-- GSU is **inside** Local 6350.
-- Existing Local leadership remains separate and unchanged.
-- The GSU President's liaison line is secondary/dotted, not a hierarchy line implying a Local office.
-- The Representative Council stays inside GSU.
+- the outer container proves GSU remains inside the same Local;
+- Local-wide governance sits above both bargaining units rather than appearing as a peer branch;
+- Maintainers and GSU appear as distinct bargaining-unit chapters at the same conceptual level;
+- the GSU President's liaison line is secondary / dotted and points upward to existing Local leadership without implying a Local office or Executive Board seat;
+- the Representative Council remains entirely inside the GSU box;
+- do not diagram the Maintainers' internal governance beyond `Existing unit governance preserved`.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| KEEP LOCAL 6350 LEADERSHIP INTACT; ADD A DEMOCRATIC GSU CHAPTER |
+| ONE LOCAL, TWO BARGAINING UNITS                                  |
 |                                                                  |
-|                         [ AFT LOCAL 6350 ]                        |
-|                                |                                 |
-|            +-------------------+-------------------+             |
-|            |                                       |             |
-| [ EXISTING LOCAL LEADERSHIP ]              [ BARGAINING UNITS ] |
-| Pres | VP | Treas | Sec                    /                 \    |
-| committees / delegate              [ MAINTAINERS ]       [ GSU ] |
-|                                      existing        Pres VP T S |
-|                                                        |         |
-|                                              Representative      |
-|                                                  Council         |
+|  +------------------------------------------------------------+  |
+|  |                     AFT LOCAL 6350                         |  |
+|  |                                                            |  |
+|  |  LOCAL-WIDE GOVERNANCE — UNCHANGED                         |  |
+|  |  President • Vice-President • Treasurer • Secretary        |  |
+|  |  Existing Executive Board structure preserved              |  |
+|  |                          ▲                                 |  |
+|  |                          : liaison                         |  |
+|  |                          :                                 |  |
+|  |  --------------------------------------------------------  |  |
+|  |              BARGAINING-UNIT CHAPTERS                     |  |
+|  |                                                            |  |
+|  |  +------------------------+   +--------------------------+  |  |
+|  |  |     MAINTAINERS        |   | GRADUATE STUDENT        |  |  |
+|  |  | Existing unit          |   | EMPLOYEES / GSU         |  |  |
+|  |  | governance preserved   |   |                          |  |  |
+|  |  |                        |   | President               |  |  |
+|  |  |                        |   | Vice President          |  |  |
+|  |  |                        |   | Treasurer               |  |  |
+|  |  |                        |   | Secretary               |  |  |
+|  |  |                        |   |       ↓                  |  |  |
+|  |  |                        |   | Representative Council  |  |  |
+|  |  +------------------------+   +--------------------------+  |  |
+|  |                                      :                     |  |
+|  |                                      └─ GSU President      |  |
+|  |                                         liaison upward      |  |
+|  +------------------------------------------------------------+  |
 |                                                                  |
-| GSU PRESIDENT - - - liaison / coordination - - -> Local leaders |
+| ONE LOCAL • DISTINCT BARGAINING UNITS • DEMOCRATIC SELF-GOVERNANCE|
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
 - One Local, two bargaining units.
-- Existing Local officers and Executive Board remain unchanged.
-- GSU gets its own democratic internal structure.
-- The GSU President is the principal liaison to Local leadership, not a Local officer.
+- Local 6350 remains the umbrella and its existing Local-wide governance remains unchanged.
+- Maintainers retain their existing unit governance.
+- GSU receives its own elected officers and Representative Council for internal bargaining-unit affairs.
+- The GSU President coordinates upward with existing Local leadership but does not become a Local officer or Executive Board member.
 
 ---
 
