@@ -216,4 +216,106 @@ Inside panel:
 
 ---
 
-# Slide 2 — Formatting review pending
+# Slide 2 — Local 6350 already has pieces of multi-unit governance—GSU is the missing structure
+
+## Status
+
+**FORMATTING LOCKED**
+
+## Production job
+
+Make the existing constitutional mismatch legible as a two-sided comparison that converges on one result: Draft 1 formally defines the GSU chapter.
+
+## Header
+
+Use common content-slide chrome.
+
+Because the title is long, allow a two-line title at `40–42 px` if required to preserve clean wrapping. Do not reduce below `40 px` unless rendering proves necessary.
+
+## Main comparison region
+
+Treat each side as one grouped visual object rather than four disconnected article cards.
+
+### Left group — MAINTAINER-SPECIFIC
+
+- outer container: x `96`, y `270`, w `760`, h `410`
+- radius `18`
+- fill `#FFFFFF`
+- stroke `2 px #CBD5E1`
+- section-header bar: h `46`, fill `#EEF3F7`
+- section-header text: `MAINTAINER-SPECIFIC`, `20–22 px`, weight `700`, color `#0F2747`
+
+Internal article cards:
+
+1. `ARTICLE III — MEMBERSHIP`
+   - x approximately `120`, y approximately `340`, w approximately `712`, h `130–145`
+   - white or very light neutral fill
+   - explain: written for Maintainers; conflicts with adding another organized AFT unit
+2. `ARTICLE V — BARGAINING`
+   - same width / height
+   - y approximately `505`
+   - explain: committee composition is Custodial / Grounds / Power Plant / Trades
+
+Use `24 px` vertical gap between cards.
+
+### Right group — MULTI-UNIT PIECES ALREADY EXIST
+
+- outer container: x `1064`, y `270`, w `760`, h `410`
+- radius `18`
+- fill `#FFFFFF`
+- stroke `2 px #AFC0D3`
+- section-header bar: h `46`, fill `#EAF2FB`
+- section-header text: `MULTI-UNIT PIECES ALREADY EXIST`, `20–22 px`, weight `700`, color `#0F2747`
+
+Internal article cards:
+
+1. `ARTICLE IX — ELECTIONS`
+   - x approximately `1088`, y approximately `340`, w approximately `712`, h `130–145`
+   - explain: chapter-specific voting already exists, but chapters are not defined
+2. `ARTICLE XV — CONTRACTS`
+   - same width / height
+   - y approximately `505`
+   - explain: only members of the affected bargaining unit vote on that agreement
+
+## Convergence
+
+Two restrained diagonal connectors leave the lower inner edges of the grouped containers and converge on the central result box.
+
+- stroke `3 px #49627A`
+- no oversized arrowheads
+- connectors must terminate cleanly at the result box and never run through text
+
+## Result box
+
+- x `660`
+- y `735`
+- w `600`
+- h `120`
+- radius `18`
+- fill `#0F2747`
+- text centered
+- first line: `DRAFT 1`, approximately `22 px`, weight `700`, white
+- second line: `FORMAL GSU CHAPTER`, approximately `28 px`, weight `700`, white
+
+This is the strongest object below the title and should visually read as the synthesis / destination of both sides.
+
+## Bottom conclusion
+
+- centered around y `925`
+- text: `THE PIECES ALREADY EXIST. DRAFT 1 DEFINES HOW GSU FITS.`
+- font `22 px`, weight `700`
+- color `#0F2747`
+
+## Slide 2 QA constraints
+
+- both grouped columns must feel balanced in weight and height
+- left group should read as Maintainer-specific machinery; right group as existing multi-unit concepts
+- article cards must remain subordinate to their group header and the central result
+- result box must be visually stronger than any article card
+- connectors may not cross labels or body text
+- bottom conclusion must remain readable without competing with the result box
+- all text must fit within 1920 × 1080 without reducing body text below the deck default unnecessarily
+
+---
+
+# Slide 3 — Formatting review pending
