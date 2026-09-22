@@ -237,4 +237,92 @@ This boundary statement is strong but visually secondary to the GSU synthesis pa
 
 ---
 
-# Slide 4 — Formatting review pending
+# Slide 4 — One Local, two bargaining units: preserve Local leadership and add GSU self-governance
+
+## Status
+**FORMATTING LOCKED**
+
+## Header
+Use common chrome. Long title may use `40–42 px`, max 2 lines.
+
+## Production job
+Make the architecture unmistakable: Local 6350 is the enclosing organization; Local-wide governance remains unchanged; Maintainers and GSU are distinct bargaining-unit chapters; the GSU President has a liaison relationship upward, not a Local office or Executive Board seat.
+
+## Outer Local container
+- x `120`, y `255`, w `1680`, h `620`
+- radius `22`
+- fill `#FFFFFF`
+- stroke `2.5 px #AFC0D3`
+
+Attach `AFT LOCAL 6350` visually to the outer container itself rather than floating it as an independent peer object.
+
+### Local label
+- centered on / just inside the upper border
+- compact navy label / pill
+- approximately `24 px`, weight `700`
+- fill `#0F2747`, white text
+
+## Local-wide governance band
+- x `160`, y `295`, w `1600`, h `145`
+- radius `16`
+- fill `#EEF3F7`
+- no heavy internal border
+
+Inside:
+- heading `LOCAL-WIDE GOVERNANCE — UNCHANGED`, `22 px`, 700, `#0F2747`
+- primary line `President • Vice-President • Treasurer • Secretary`, `24 px`, 700
+- secondary line `Existing Executive Board structure preserved`, `20–22 px`, `#334155`
+
+## Divider / lower section label
+- divider around y `465`, `2 px #E2E8F0`
+- centered lower label around y `490`: `BARGAINING-UNIT CHAPTERS`, `22 px`, 700, `#0F2747`
+
+## Maintainers chapter box
+- x `200`, y `545`, w `620`, h `245`
+- radius `18`
+- fill `#FFFFFF`
+- stroke `2 px #CBD5E1`
+- title `MAINTAINERS`, `24 px`, 700
+- supporting line `Existing unit governance preserved`, `22 px`, `#334155`
+- do not diagram Maintainers internal governance further
+
+## GSU chapter box
+- x `1100`, y `545`, w `620`, h `245`
+- radius `18`
+- fill `#EAF2FB`
+- stroke `2.5 px #2B5F9E`
+
+Inside:
+- title `GRADUATE STUDENT EMPLOYEES / GSU`, `24 px`, 700, `#0F2747`
+- officer rows rather than a tall four-item list:
+  - `President • Vice President`
+  - `Treasurer • Secretary`
+- centered downward arrow
+- `Representative Council`, `22–24 px`, 700
+
+## Liaison relationship
+Draw the liaison specifically from the `President` position inside the GSU box upward to the existing Local-wide governance band.
+
+- stroke `3 px #49627A`
+- dashed `8 8`
+- small muted `liaison` annotation only if necessary
+- must not originate from the whole GSU box
+- must not terminate on the Executive Board text in a way that implies membership
+- visual weight must remain secondary to the chapter / Local containment structure
+
+## Bottom statement
+- centered around y `935`
+- `ONE LOCAL • DISTINCT BARGAINING UNITS • DEMOCRATIC UNIT SELF-GOVERNANCE`
+- `22 px`, 700, `#0F2747`
+
+## QA
+- outer container must immediately communicate that both units remain inside Local 6350
+- Local-wide governance must read as structurally above both bargaining-unit chapters without implying day-to-day control of each chapter
+- Maintainers and GSU boxes are peers inside the bargaining-unit section
+- liaison line reads as communication / coordination only
+- no visual cue may imply a GSU Local-wide officer or automatic Executive Board seat
+- GSU internal contents remain readable without crowding
+
+---
+
+# Slide 5 — Formatting review pending
