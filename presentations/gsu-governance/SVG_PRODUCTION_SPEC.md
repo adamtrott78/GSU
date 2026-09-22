@@ -386,4 +386,86 @@ Use the same row geometry and typography as the left panel.
 
 ---
 
-# Slide 6 — Formatting review pending
+# Slide 6 — Four elected officers give GSU clear accountability
+
+## Status
+**FORMATTING LOCKED**
+
+## Header
+Use common content-slide chrome. Standard `44 px` title.
+
+## Production job
+Make the four elected officer roles equally legible while keeping the President's external liaison function visually separate from the democratic relationship by which all four officers are elected.
+
+## Election badge
+- x `650`, y `245`, w `620`, h `54`
+- radius `27`
+- fill `#EAF2FB`
+- centered text `GSU MEMBERS ELECT ALL FOUR`
+- `22 px`, 700, `#0F2747`
+
+The badge sits above the card grid as a shared democratic relationship to all four offices.
+
+## Officer-card grid
+Four equal cards, each `780 × 210`, radius `18`, white fill.
+
+### President
+- x `120`, y `340`
+- stroke `2.5 px #2B5F9E`
+- title `PRESIDENT`, `24 px`, 700, `#0F2747`
+- responsibilities:
+  - `chief GSU representative`
+  - `chairs membership + Council meetings`
+  - `principal Local liaison`
+
+### Vice President
+- x `1020`, y `340`
+- stroke `2 px #CBD5E1`
+- title `VICE PRESIDENT`
+- responsibilities:
+  - `succeeds President`
+  - `coordinates Council + committees`
+  - `supports organizing + contract enforcement`
+
+### Treasurer
+- x `120`, y `590`
+- stroke `2 px #CBD5E1`
+- title `TREASURER`
+- responsibilities:
+  - `tracks GSU allocation / budget`
+  - `coordinates with Local Treasurer`
+  - `reports chapter finances`
+
+### Secretary
+- x `1020`, y `590`
+- stroke `2 px #CBD5E1`
+- title `SECRETARY`
+- responsibilities:
+  - `minutes + meeting notices`
+  - `election records`
+  - `governance + communications records`
+
+All non-President role titles use `24 px`, 700, `#0F2747`; body text `21–22 px`, `#334155`. Maximum three responsibility lines per card with generous vertical spacing.
+
+The President's slightly stronger border indicates the external liaison function only; it must not imply greater democratic legitimacy or a superior institutional tier.
+
+## Liaison footer
+Keep the Local relationship entirely outside the 2×2 officer grid.
+
+- centered near y `885`
+- visual semantics: `PRESIDENT - - - principal liaison - - -> LOCAL 6350 LEADERSHIP`
+- connector `3 px #49627A`, dashed `8 8`
+- annotation `principal liaison`, `18 px`, muted slate
+- `LOCAL 6350 LEADERSHIP` may sit in a compact neutral/slate endpoint box
+- no line from `GSU MEMBERS ELECT ALL FOUR` to Local leadership
+
+## QA
+- four cards have equal size and visual weight except the President's restrained border emphasis
+- election badge clearly applies to all four offices
+- liaison footer is secondary and outside the democratic election hierarchy
+- no visual relationship may imply the President is a Local-wide officer or Local Executive Board member
+- responsibilities remain readable without wrapping beyond three short lines
+
+---
+
+# Slide 7 — Formatting review pending
