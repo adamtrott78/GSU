@@ -50,7 +50,7 @@ The emotional arc is:
 | 2 | Local 6350 already has pieces of multi-unit governance—GSU is the missing structure | Establish why amendments are necessary | **CONCEPT LOCKED** |
 | 3 | The building blocks already exist in other AFT locals—we can adapt them to GSU | Establish comparator precedent without importing unrelated Local structures | **CONCEPT LOCKED** |
 | 4 | One Local, two bargaining units: preserve Local leadership and add GSU self-governance | Show the whole-system architecture | **CONCEPT LOCKED** |
-| 5 | Creating GSU does not require redesigning Local 6350 | Reduce perceived risk | DRAFT |
+| 5 | Draft 1 adds GSU governance while preserving Local 6350 leadership | Show the package is additive and narrowly scoped | **CONCEPT LOCKED** |
 | 6 | Four elected officers give GSU clear accountability | Explain the officer model and liaison role | DRAFT |
 | 7 | A Representative Council gives every part of GSU an elected voice | Explain representation, seat logic, and committees/caucuses | DRAFT |
 | 8 | Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps | Explain term/eligibility/vacancy/continuity rules | DRAFT |
@@ -401,15 +401,15 @@ Important visual semantics:
 
 ---
 
-# Slide 5 — Creating GSU does not require redesigning Local 6350
+# Slide 5 — Draft 1 adds GSU governance while preserving Local 6350 leadership
 
 ## Status
 
-DRAFT
+**CONCEPT LOCKED**
 
 ## Job
 
-Reassure the room immediately after showing the architecture that the proposal is narrowly scoped.
+Show that the amendment package is additive and narrowly scoped rather than a redesign of broader Local governance.
 
 ## Audience takeaway
 
@@ -418,48 +418,77 @@ Reassure the room immediately after showing the architecture that the proposal i
 ## On-slide content
 
 ### PRESERVED
-- Local President / Vice-President / Treasurer / Secretary;
-- existing Executive Board composition;
-- committee-chair seats;
-- chief labor-council delegate;
-- Maintainers bargaining structure;
-- Local treasury controls;
-- Article XIII amendment process;
-- existing Local 6350 name in Draft 1.
+
+**LOCAL LEADERSHIP**  
+President • Vice-President • Treasurer • Secretary
+
+**EXECUTIVE BOARD**  
+Existing composition and committee-chair seats
+
+**MAINTAINERS GOVERNANCE**  
+Existing bargaining-unit structure
+
+**LOCAL FINANCES**  
+Treasury and financial controls
+
+**LOCAL CONSTITUTION**  
+Current name and amendment process
 
 ### ADDED / CLARIFIED
-- Graduate Student Employees chapter;
-- four elected GSU officers;
-- defined GSU-President liaison role;
-- GSU Representative Council;
-- GSU elections and vacancy rules;
-- GSU bargaining committee;
-- chapter bylaw authority;
-- graduate-worker dues / continuity provisions.
+
+**GSU CHAPTER**  
+Graduate Student Employees formally defined
+
+**GSU LEADERSHIP**  
+President • Vice President • Treasurer • Secretary
+
+**REPRESENTATION**  
+Representative Council + chapter elections
+
+**GSU BARGAINING**  
+GSU-selected bargaining team
+
+**GRAD-WORKER RULES**  
+Terms • vacancies • dues • appointment continuity
 
 Bottom statement:
 
-**Add a GSU governance layer. Do not rebuild the Local.**
+**ADD A GSU GOVERNANCE LAYER — DO NOT REBUILD THE LOCAL**
 
 ## Visual concept
 
-Balanced `PRESERVED` vs `ADDED / CLARIFIED` composition with a stable-foundation metaphor.
+Use two large matched panels rather than long bullet lists:
+
+- left panel: `PRESERVED`
+- right panel: `ADDED / CLARIFIED`
+
+Each panel contains five concise grouped rows. Align the rows for fast side-by-side scanning, but do not imply that left and right items are direct replacements for one another.
+
+The bottom statement should be one of the strongest visual elements on the slide.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| CREATING GSU DOES NOT REQUIRE REDESIGNING LOCAL 6350             |
+| DRAFT 1 ADDS GSU GOVERNANCE WHILE PRESERVING LOCAL 6350          |
+| LEADERSHIP                                                       |
 |                                                                  |
-|  PRESERVED                         ADDED / CLARIFIED              |
-|  -----------------------           ---------------------------    |
-|  Local 4 officers                  GSU chapter                    |
-|  Exec Board composition            GSU 4 officers                |
-|  committee-chair seats             President liaison role        |
-|  labor delegate                    Representative Council        |
-|  Maintainers bargaining            GSU election/vacancy rules    |
-|  treasury controls                 GSU bargaining team           |
-|  Article XIII / current name       bylaws / dues / continuity    |
+|         PRESERVED                    ADDED / CLARIFIED            |
+|                                                                  |
+|  LOCAL LEADERSHIP                 GSU CHAPTER                     |
+|  Pres • VP • Treas • Sec          formally defined               |
+|                                                                  |
+|  EXECUTIVE BOARD                  GSU LEADERSHIP                  |
+|  existing composition             Pres • VP • Treas • Sec        |
+|                                                                  |
+|  MAINTAINERS GOVERNANCE           REPRESENTATION                  |
+|  existing structure               Representative Council         |
+|                                                                  |
+|  LOCAL FINANCES                   GSU BARGAINING                  |
+|  treasury controls                GSU-selected team               |
+|                                                                  |
+|  LOCAL CONSTITUTION               GRAD-WORKER RULES               |
+|  name + amendment process         terms • dues • continuity       |
 |                                                                  |
 |       ADD A GSU GOVERNANCE LAYER — DO NOT REBUILD THE LOCAL      |
 +------------------------------------------------------------------+
@@ -467,9 +496,11 @@ Balanced `PRESERVED` vs `ADDED / CLARIFIED` composition with a stable-foundation
 
 ## Talking points
 
-- This is a targeted amendment package.
-- We are leaving unrelated Maintainers and Local-wide governance alone.
-- Keeping scope narrow reduces political and drafting risk.
+- Draft 1 is additive rather than a rewrite of the Local.
+- Existing Local leadership, Executive Board structure, Maintainers governance, Local financial controls, and the constitutional framework remain in place.
+- The new material is the governance machinery GSU does not currently have.
+- Drafting principle: change what GSU requires and leave everything else alone.
+- Narrow scope reduces unintended consequences elsewhere in Local 6350.
 
 ---
 
