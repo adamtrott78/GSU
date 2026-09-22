@@ -468,4 +468,102 @@ Keep the Local relationship entirely outside the 2×2 officer grid.
 
 ---
 
-# Slide 7 — Formatting review pending
+# Slide 7 — A hybrid Representative Council balances stable constituencies with cross-cutting interests
+
+## Status
+**FORMATTING LOCKED**
+
+## Header
+Use common content-slide chrome. Because the title is long, use `40–42 px`, max 2 lines.
+
+## Production job
+Show the representation logic in one clean hierarchy: define the Council, show who sits on it, make the proposed college/school seat formula instantly understandable, and visually distinguish cross-cutting caucuses from functional committees.
+
+## Representative Council node
+- x `560`, y `245`, w `800`, h `78`
+- radius `18`
+- fill `#0F2747`
+- centered white text `REPRESENTATIVE COUNCIL`
+- `26 px`, 700
+
+## Council composition band
+- x `330`, y `350`, w `1260`, h `64`
+- radius `16`
+- fill `#EAF2FB`
+- centered text `4 GSU OFFICERS + COLLEGE / SCHOOL REPS + 2 AT-LARGE`
+- `23–24 px`, 700, `#0F2747`
+
+Use a restrained downward connector from the Council node to the composition band and then into the formula panel.
+
+## Proposed seat-formula panel
+- x `420`, y `455`, w `1080`, h `245`
+- radius `20`
+- fill `#FFFFFF`
+- stroke `2.5 px #F5B041`
+
+### Proposed label
+- small amber pill attached near upper-left interior
+- text `PROPOSED SEAT FORMULA`
+- `18–20 px`, 700, `#B45309`
+- fill `#FFF4DB`
+
+### Formula columns
+Three equal columns with clear vertical separators or generous whitespace:
+
+1. `5–54` above `1 SEAT`
+2. `55–104` above `2 SEATS`
+3. `105–154` above `3 SEATS`
+
+Ranges: `22–24 px`, 700, `#334155`. Seat counts: approximately `32 px`, 700, `#0F2747` and visually dominant within the panel.
+
+Supporting rule below the three columns:
+- `1 guaranteed seat once a college / school reaches 5 members`
+- `+1 additional seat per additional 50 members`
+- `20–22 px`, centered, `#334155`
+
+## Bottom representation layer
+The bottom must explicitly separate cross-cutting constituencies from organizational functions.
+
+### CROSS-CUTTING CAUCUSES
+- x `180`, y `755`, w `1120`, h `130`
+- radius `18`
+- fill `#FFFFFF`
+- stroke `2 px #CBD5E1`
+- header `CROSS-CUTTING CAUCUSES`, `20–22 px`, 700
+- five compact pill labels / grouped labels:
+  - `RA / Research`
+  - `TA / Instructional`
+  - `Master's`
+  - `PhD`
+  - `International`
+- pills use soft-blue or neutral treatment without looking like voting districts
+
+### FUNCTIONAL COMMITTEES
+- x `1340`, y `755`, w `400`, h `130`
+- radius `18`
+- fill `#EEF3F7`
+- no heavy border
+- header `FUNCTIONAL COMMITTEES`, `20–22 px`, 700
+- stacked or compact labels:
+  - `Organizing`
+  - `Grievance`
+  - `Communications`
+
+The visual distinction must make the semantics obvious: caucuses represent overlapping interests / constituencies; committees perform organizational functions.
+
+## Bottom conclusion
+- centered around y `945`
+- `ELECT BY STABLE CONSTITUENCY. ORGANIZE BY OVERLAPPING INTEREST.`
+- `22 px`, 700, `#0F2747`
+
+## QA
+- the seat formula is the main visual after the title
+- `PROPOSED` attaches specifically to the numerical formula, not to the entire Council concept
+- seat counts are readable instantly
+- caucuses and functional committees are visually distinct categories
+- pills must not imply additional elected Representative Council districts
+- bottom conclusion must remain legible and visually clean
+
+---
+
+# Slide 8 — Formatting review pending
