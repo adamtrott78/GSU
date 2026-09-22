@@ -755,4 +755,96 @@ Centered around y `995`:
 
 ---
 
-# Slide 10 — Formatting review pending
+# Slide 10 — Five decision clusters remain before Draft 1 can move forward
+
+## Status
+**FORMATTING LOCKED**
+
+## Header
+Use common content-slide chrome. Standard `44 px` title.
+
+## Production job
+Present the remaining leadership choices as a live decision dashboard that can be scanned and discussed quickly. The visual should collapse the eleven detailed decision points into five coherent discussion clusters without implying that every underlying item is equally uncertain.
+
+## Framing line
+- centered around y `220`
+- text `11 DETAILED DECISIONS → 5 DISCUSSION CLUSTERS`
+- `20 px`, 700, `#64748B`
+- keep visually restrained; this is explanatory metadata, not a headline
+
+## Decision-card grid
+All cards:
+- radius `18`
+- fill `#FFFFFF`
+- stroke `2 px #CBD5E1`
+- generous `24–28 px` internal padding
+- number chip in upper-left using `#EAF2FB` or medium-blue accent treatment
+- number approximately `28 px`, 700, `#2B5F9E`
+- title `20–22 px`, 700, `#0F2747`
+- bullets `19–20 px`, `#334155`
+- maximum 4 bullets per card
+
+### Top row
+Each card `536 × 245`, y `260`.
+
+#### 01 — OFFICERS & LOCAL RELATIONSHIP
+- x `120`
+- bullets:
+  - `Four elected GSU officers?`
+  - `President = principal Local liaison?`
+  - `No automatic Local EB seat?`
+
+#### 02 — REPRESENTATION
+- x `692`
+- bullets:
+  - `Separate Representative Council?`
+  - `College / school + 2 at-large?`
+  - `Proposed seat thresholds?`
+  - `Cross-cutting caucuses?`
+
+#### 03 — TERMS & CONTINUITY
+- x `1264`
+- bullets:
+  - `One-year terms?`
+  - `No one-year waiting period?`
+  - `Summer appointment-gap continuity?`
+- attach a small amber `PROPOSED` pill specifically to the summer-continuity line, not to the entire card
+
+### Bottom row
+Each card `822 × 245`, y `545`.
+
+#### 04 — BARGAINING & RATIFICATION
+- x `120`
+- bullets:
+  - `Bargaining-team selection process?`
+  - `Member-driven priorities?`
+  - `Ratification coordination with Local?`
+
+#### 05 — VACANCIES & FIRST ELECTION
+- x `978`
+- bullets:
+  - `VP succeeds President?`
+  - `>90-day vacancies → voters?`
+  - `Initial election after adoption?`
+  - `Initial term ends June 30, 2027?`
+
+## Action bar
+- x `240`, y `850`, w `1440`, h `82`
+- radius `16`
+- fill `#0F2747`
+- centered white text `FOR EACH CLUSTER: APPROVE • MODIFY • REMOVE`
+- `24 px`, 700
+
+This is the strongest object on the slide after the title.
+
+## QA
+- cards must scan left-to-right / top-to-bottom in numbered order
+- card density must remain balanced; no card may shrink body text below `19 px`
+- amber `PROPOSED` treatment applies only to the summer appointment-gap continuity item
+- do not mark all five clusters as equally unresolved in substance
+- action bar must be immediately visible from the back of the room
+- the slide should feel actionable, not like a policy summary
+
+---
+
+# Slide 11 — Formatting review pending
