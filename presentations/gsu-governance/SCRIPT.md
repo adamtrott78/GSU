@@ -1,6 +1,6 @@
 # GSU Governance Presentation Script
 
-**Status:** STAGE 1 — SLIDE-BY-SLIDE CONCEPT REVIEW  
+**Status:** STAGE 1 COMPLETE — ALL 11 SLIDE NARRATIVES LOCKED  
 **Meeting:** September 22, 2026  
 **Target spoken length:** approximately 10–14 minutes before discussion
 
@@ -200,7 +200,7 @@ Second, there is no one-year waiting period before someone can run for GSU offic
 
 Third, the vacancy rules are designed around short terms. If the President leaves office, the Vice President succeeds them. For other officer vacancies with more than ninety days remaining, we hold a special election. Representative vacancies with more than ninety days remaining normally go back to the affected constituency. Near the end of the term, the Council can make a temporary appointment rather than running an unnecessary election.
 
-Then there's the summer issue. A graduate worker can be fully covered in the spring, have no covered UMassD appointment over the summer, and return to a covered position in the fall.
+Then there's the summer issue. A graduate worker can be fully covered in the bargaining unit in spring, have no covered UMassD appointment over the summer, and return to a covered position in the fall.
 
 Draft 1 says that temporary gap by itself does not terminate membership or eligibility to keep serving in elected office when the person is expected to return to a covered appointment in the immediately following academic term.
 
@@ -276,24 +276,28 @@ There is also an optional discussion about the Local's name. Draft 1 keeps the e
 
 ---
 
-# Slide 11 — Tuesday decides what we recommend; Local 6350 members decide what gets adopted
+# Slide 11 — Today we decide what to recommend; Local 6350 members decide what to adopt
+
+**Status:** CONCEPT LOCKED
 
 ## Script
 
-"What I am asking this group for is approval in principle, not final constitutional adoption.
+"And just to be completely clear about what approval today would and would not do: I'm asking this group for approval in principle, not final constitutional adoption.
 
-The outcome I would like is: we approve this structure, subject to whatever changes we record today, and authorize the revised package to go to the Local 6350 President for informal review.
+The outcome I'm looking for is that we approve the governance structure, subject to whatever changes we record today, and authorize me to revise the package and send it to the Local 6350 President for informal review.
 
-After this meeting, I incorporate the changes into the governance proposal, chapter bylaws, constitutional amendments, and Word redline.
+After this meeting, those changes go into the governance proposal, chapter bylaws, constitutional amendments, and Word redline.
 
-Then the Local President reviews the clean package.
+Then we get informal Local review and make any necessary corrections before the proposal goes to the membership.
 
-If October 21 stays the target vote and we use the constitution's distribution route, the final proposed amendments need to be presented to all members by October 6 because Article XIII requires at least fifteen days.
+If October 21 remains the target vote and we use the fifteen-day distribution route, the final amendments need to go to all members by October 6.
 
-Then the actual constitutional decision happens at the Local 6350 regular meeting, where adoption requires a two-thirds vote of the members present.
+Then the actual constitutional decision happens at the Local 6350 regular meeting. Adoption requires a two-thirds vote of the members who are present.
 
-So Tuesday decides what GSU leadership recommends. Local 6350 members still decide what actually gets adopted."
+After adoption, the amended governing documents are submitted as required.
+
+So today we decide what GSU leadership recommends. We do not amend the constitution today. Local 6350 members make that decision."
 
 ## Closing line
 
-"If everyone is good with that framing, I want to go back to the five decision groups and work through them one at a time."
+"So with that process clear, let's go back to the five decision clusters and actually make the decisions."
