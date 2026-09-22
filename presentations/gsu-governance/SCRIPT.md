@@ -130,19 +130,23 @@ That keeps the proposal easier to understand and reduces the chance that we acci
 
 # Slide 6 — Four elected officers give GSU clear accountability
 
+**Status:** CONCEPT LOCKED
+
 ## Script
 
-"I am proposing the standard four offices: President, Vice President, Treasurer, and Secretary.
+"Inside GSU, I'm proposing four elected officers: President, Vice President, Treasurer, and Secretary.
 
-The President is the chief representative, chairs our meetings, works on bargaining and grievances, and serves as the principal liaison to Local 6350 leadership.
+They're intentionally conventional roles. The goal is to make it immediately obvious who is responsible for what without creating positions we don't actually need.
+
+The President is the chief representative, chairs membership and Council meetings, works on bargaining and grievances, and serves as the principal liaison to Local 6350 leadership.
 
 The Vice President is the succession officer and helps coordinate the Council, committees, organizing, and contract enforcement.
 
-The Treasurer tracks whatever budget or allocation GSU receives and works with the Local Treasurer. Local financial controls still apply.
+The Treasurer tracks the GSU allocation and budget, reports on chapter finances, and coordinates with the Local Treasurer. Local financial controls still apply—we're not creating a separate GSU treasury outside the Local.
 
-The Secretary owns minutes, notices, election records, and governance records.
+The Secretary handles minutes, notices, election records, and the governance records we need to operate consistently.
 
-The point is to keep responsibility obvious. We do not need a fifth liaison office just to talk to the Local; that function can sit with the President."
+So the idea is four clearly defined offices, all elected by GSU members, with no redundant fifth position just to communicate with the Local."
 
 ## Transition
 
