@@ -661,4 +661,98 @@ At the bottom of the lower panel, centered around y `825`:
 
 ---
 
-# Slide 9 — Formatting review pending
+# Slide 9 — GSU selects its bargaining team; only the GSU bargaining unit ratifies its agreement
+
+## Status
+**FORMATTING LOCKED**
+
+## Header
+Use common content-slide chrome. Use `40 px` title, max 2 lines.
+
+## Production job
+Show a democratic bargaining chain from member input to unit ratification while making the Local 6350 relationship read as an umbrella / constraint context, not a process step or source of team-selection authority.
+
+## Local 6350 umbrella band
+- x `240`, y `245`, w `1440`, h `64`
+- radius `16`
+- fill `#EEF3F7`
+- no heavy border
+- centered header `LOCAL 6350 UMBRELLA`, `20–22 px`, 700, `#0F2747`
+- supporting text `legal • affiliation • administrative obligations`, `18–20 px`, `#475569`
+
+Do **not** draw a downward arrow from this band into the GSU bargaining flow. Its position above the flow indicates governing context only.
+
+## Democratic bargaining chain
+Center the main chain slightly left to preserve room for the unit-boundary callout.
+
+Standard primary boxes:
+- x `360`
+- w `1000`
+- radius `16–18`
+- fill `#FFFFFF` or `#EAF2FB` as specified
+- stroke `2 px #CBD5E1`
+- vertical connectors `3 px #49627A` with simple arrowheads
+
+### GSU MEMBERS
+- y `345`, h `78`
+- fill `#EAF2FB`
+- title `GSU MEMBERS`, `23–24 px`, 700
+- subline `priorities • surveys • listening sessions • membership meetings`, `19–20 px`, `#334155`
+
+### REPRESENTATIVE COUNCIL
+- y `455`, h `78`
+- title `REPRESENTATIVE COUNCIL`, `23–24 px`, 700
+- subline `recommends team size • representation requirements • selection process`, `19–20 px`
+
+### GSU BARGAINING COMMITTEE
+- y `565`, h `96`
+- stroke `2.5 px #2B5F9E`
+- title `GSU BARGAINING COMMITTEE`, `23–24 px`, 700
+- main line `President + Vice President ex officio + approved additional members`, `19–20 px`
+- secondary line `Final team structure normally approved by GSU membership`, `18–19 px`, `#475569`
+
+### NEGOTIATIONS
+- y `700`, h `58`
+- fill `#0F2747`
+- centered white `NEGOTIATIONS`, `22–24 px`, 700
+
+### TENTATIVE AGREEMENT
+- y `795`, h `70`
+- fill `#FFFFFF`
+- title `TENTATIVE AGREEMENT`, `22–24 px`, 700
+- subline `written summary to members`, `18–20 px`, `#475569`
+
+### GSU BARGAINING-UNIT VOTE
+- y `900`, h `70`
+- fill `#0F2747`
+- centered white `GSU BARGAINING-UNIT VOTE`, `22–24 px`, 700
+
+## Unit-boundary callout
+- x `1420`, y `515`, w `360`, h `145`
+- radius `18`
+- fill `#EAF2FB`
+- stroke `2 px #2B5F9E`
+- title `SEPARATE UNITS, SEPARATE BARGAINING TEAMS`, `19–20 px`, 700, `#0F2747`, max 2–3 balanced lines
+- body `Maintainers team ≠ GSU team`, `19–20 px`, `#334155`
+
+No arrow connects this callout to the bargaining chain. It communicates a boundary rule, not a stage in the process.
+
+## Bottom constitutional anchor
+Centered around y `995`:
+
+`ONLY THE BARGAINING UNIT COVERED BY THE AGREEMENT VOTES`
+
+- `22 px`, 700, `#0F2747`
+- no oversized container required; optional thin top rule if rendering benefits from separation
+
+## QA
+- the main reading order is members → Council → bargaining committee → negotiations → tentative agreement → unit vote
+- the Local umbrella band never appears to choose the team or set GSU priorities
+- no arrow from the Local 6350 umbrella band into the bargaining flow
+- unit-boundary callout remains clearly separate from the process chain
+- final vote box is visually strong and easy to identify
+- bottom statement reinforces, but does not compete with, the final vote stage
+
+---
+
+# Slide 10 — Formatting review pending
