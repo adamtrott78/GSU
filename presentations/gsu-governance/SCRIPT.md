@@ -106,17 +106,21 @@ The basic principle is one Local, distinct bargaining units, and democratic self
 
 ---
 
-# Slide 5 — Creating GSU does not require redesigning Local 6350
+# Slide 5 — Draft 1 adds GSU governance while preserving Local 6350 leadership
+
+**Status:** CONCEPT LOCKED
 
 ## Script
 
-"This is a targeted amendment package, not a rewrite of the Local.
+"This is the part I want to make really explicit: Draft 1 is an additive amendment package, not a redesign of the Local.
 
-We leave the Local President, Vice-President, Treasurer, and Secretary intact. We preserve the existing Executive Board composition, committee-chair seats, labor-council delegate, Local treasury controls, and the Maintainers bargaining structure.
+The existing Local leadership stays in place. The Executive Board structure stays in place. The Maintainers keep their bargaining-unit governance. Local treasury controls and the existing constitutional amendment process stay in place.
 
-What we add is the stuff that does not exist yet: a defined Graduate Student Employees chapter, four GSU officers, the Representative Council, GSU election and vacancy rules, our bargaining committee, and the graduate-worker-specific rules that make annual governance workable.
+What we're adding is the governance machinery GSU doesn't currently have: a formally defined chapter, elected officers, a Representative Council, our own bargaining team, and the rules needed for graduate-worker elections, vacancies, dues, and appointment gaps.
 
-That narrow scope is intentional. It makes the amendments easier to understand, easier for the Maintainers to evaluate, and much less likely to create unintended consequences in parts of the union we are not trying to redesign."
+So the basic drafting philosophy is simple: change what GSU requires, and leave everything else alone.
+
+That keeps the proposal easier to understand and reduces the chance that we accidentally create consequences somewhere else in Local 6350."
 
 ## Transition
 
