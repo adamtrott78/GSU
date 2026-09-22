@@ -54,7 +54,7 @@ The emotional arc is:
 | 6 | Four elected officers give GSU clear accountability | Explain the officer model and liaison role | **CONCEPT LOCKED** |
 | 7 | A hybrid Representative Council balances stable constituencies with cross-cutting interests | Explain representation, seat logic, and committees/caucuses | **CONCEPT LOCKED** |
 | 8 | Graduate-worker turnover requires rules built for short appointments | Explain term/eligibility/vacancy/continuity rules | **CONCEPT LOCKED** |
-| 9 | GSU selects its bargaining team; only GSU members ratify its contract | Explain bargaining and ratification autonomy | DRAFT |
+| 9 | GSU selects its bargaining team; only the GSU bargaining unit ratifies its agreement | Explain bargaining and ratification autonomy | **CONCEPT LOCKED** |
 | 10 | Five decisions determine whether Draft 1 moves forward | Consolidate remaining governance choices | DRAFT |
 | 11 | Tuesday decides what we recommend; Local 6350 members decide what gets adopted | Close with requested action and timeline | DRAFT |
 
@@ -767,11 +767,11 @@ The summer segment and `SUMMER CONTINUITY — PROPOSED` box receive the stronges
 
 ---
 
-# Slide 9 — GSU selects its bargaining team; only GSU members ratify its contract
+# Slide 9 — GSU selects its bargaining team; only the GSU bargaining unit ratifies its agreement
 
 ## Status
 
-DRAFT
+**CONCEPT LOCKED**
 
 ## Job
 
@@ -779,53 +779,107 @@ Explain unit-specific bargaining authority while showing Local 6350 remains the 
 
 ## Audience takeaway
 
-> Each bargaining unit uses its own bargaining team, while Local-wide legal/administrative coordination remains shared and only the affected unit votes on its agreement.
+> Graduate workers set bargaining priorities, GSU selects its own bargaining team, the team negotiates subject to Local-wide obligations, and only eligible members of the Graduate Student Employees bargaining unit vote on ratification.
 
 ## On-slide content
 
-### MAINTAINERS
-Maintainers bargaining team -> Maintainers agreement -> Maintainers vote
+### LOCAL 6350 UMBRELLA
+Legal • affiliation • administrative obligations
 
-### GSU
-GSU-selected bargaining team -> Graduate Student Employees agreement -> GSU vote
+### GSU BARGAINING PROCESS
 
-Shared layer:
+**GSU MEMBERS**  
+Priorities • surveys • listening sessions • membership meetings
 
-**LOCAL 6350** — legal / administrative coordination; common issues when genuinely shared
+↓
+
+**REPRESENTATIVE COUNCIL**  
+Recommends team size • representation requirements • selection process
+
+↓
+
+**GSU BARGAINING COMMITTEE**  
+President + Vice President ex officio + approved additional members  
+Final team structure normally approved by GSU membership
+
+↓
+
+**NEGOTIATIONS**
+
+↓
+
+**TENTATIVE AGREEMENT**  
+Written summary to members
+
+↓
+
+**GSU BARGAINING-UNIT VOTE**
+
+Side callout:
+
+**SEPARATE UNITS, SEPARATE BARGAINING TEAMS**  
+Maintainers team ≠ GSU team
 
 Bottom statement:
 
-**Article XV already protects the key principle: only the bargaining unit covered by an agreement votes on ratification.**
+**ONLY THE BARGAINING UNIT COVERED BY THE AGREEMENT VOTES**
 
 ## Visual concept
 
-Two parallel pipelines beneath a common Local 6350 coordination band.
+Make the GSU democratic bargaining chain the hero visual rather than repeating the two-unit architecture from Slide 4.
+
+Reading order:
+
+`GSU MEMBERS -> REPRESENTATIVE COUNCIL -> GSU BARGAINING COMMITTEE -> NEGOTIATIONS -> TENTATIVE AGREEMENT -> GSU BARGAINING-UNIT VOTE`
+
+Place a restrained `LOCAL 6350 UMBRELLA` band above the process to show that bargaining remains subject to the Local Constitution and legal / affiliation obligations without implying that Local-wide leadership chooses GSU's bargaining priorities.
+
+Use a small side callout for the cross-unit boundary: `SEPARATE UNITS, SEPARATE BARGAINING TEAMS` / `Maintainers team ≠ GSU team`.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| GSU SELECTS ITS BARGAINING TEAM; ONLY GSU MEMBERS RATIFY ITS CBA |
+| GSU SELECTS ITS BARGAINING TEAM; ONLY THE GSU BARGAINING UNIT    |
+| RATIFIES ITS AGREEMENT                                           |
 |                                                                  |
-|                  [ LOCAL 6350 COORDINATION ]                     |
-|                    /                      \                       |
-|          MAINTAINERS                       GSU                    |
-|        [ bargaining ]                 [ bargaining ]              |
-|             ↓                              ↓                      |
-|       Maintainers CBA                    GSU CBA                  |
-|             ↓                              ↓                      |
-|      Maintainers vote                   GSU vote                  |
+|                  [ LOCAL 6350 UMBRELLA ]                         |
+|          legal • affiliation • administrative obligations        |
+|                              |                                   |
+|                              v                                   |
+|                    GSU BARGAINING PROCESS                        |
 |                                                                  |
-| Article XV: only the affected bargaining unit votes              |
+|  GSU MEMBERS                                                     |
+|  priorities • surveys • meetings                                 |
+|       |                                                          |
+|       v                                                          |
+|  REPRESENTATIVE COUNCIL                                          |
+|  recommends team size / representation / selection process       |
+|       |                                                          |
+|       v                                                          |
+|  GSU BARGAINING COMMITTEE                                        |
+|  Pres + VP + approved additional members                         |
+|       |                                                          |
+|       v                                                          |
+|  NEGOTIATIONS -> TENTATIVE AGREEMENT -> GSU UNIT VOTE            |
+|                                                                  |
+|  [ SEPARATE UNITS, SEPARATE BARGAINING TEAMS ]                  |
+|             Maintainers team ≠ GSU team                           |
+|                                                                  |
+|     ONLY THE UNIT COVERED BY THE AGREEMENT VOTES ON RATIFICATION |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- Existing bargaining committee is Maintainer-specific.
-- Draft 1 makes GSU's team separately selected by GSU.
-- Local 6350 still coordinates shared obligations.
-- Unit-only ratification is already part of the existing constitution.
+- The current Local bargaining committee is Maintainer-specific; Draft 1 gives GSU its own bargaining committee.
+- The President and Vice President serve ex officio, while the Representative Council recommends team size, representation requirements, and the process for selecting additional members.
+- The final bargaining-team structure normally goes to GSU membership for approval.
+- Member input drives bargaining priorities through surveys, listening sessions, constituency meetings, and membership meetings.
+- The GSU bargaining committee negotiates subject to the Local Constitution and the Local's legal / affiliation obligations.
+- Another chapter's bargaining committee cannot determine GSU proposals or bind the Graduate Student Employees unit without authorization.
+- A tentative agreement is summarized for members before ratification; the bargaining committee cannot ratify it by itself.
+- Only eligible members of the Graduate Student Employees bargaining unit vote on ratification.
 
 ---
 
