@@ -47,9 +47,6 @@ If Local leadership later wants a guaranteed GSU Executive Board seat, that shou
 ---
 
 ## Decision 2 — One-year GSU terms
----
-
-## Decision 3 — One-year GSU terms
 
 ### Proposal
 
@@ -75,7 +72,7 @@ Notes:
 
 Any GSU member in good standing may run for GSU office or Representative Council.
 
-The existing Local one-year membership requirement does not apply to GSU chapter office, .
+The existing Local one-year membership requirement does not apply to GSU chapter office.
 
 ### Recommendation
 
@@ -168,7 +165,7 @@ Notes:
 
 ---
 
-## Decision 7 — GSU controls its own bargaining team
+## Decision 7 — GSU selects its own bargaining team
 
 ### Proposal
 
@@ -176,7 +173,7 @@ The Local Constitution authorizes each bargaining unit to select its own bargain
 
 GSU selects its bargaining team and develops its bargaining proposals through its own democratic process.
 
-Only GSU members vote on ratification of a GSU contract, preserving current Article XV.
+Only eligible members of the Graduate Student Employees bargaining unit vote on ratification of an agreement covering that unit, preserving current Article XV.
 
 ### Recommendation
 
@@ -277,7 +274,7 @@ Only members of the Graduate Student Employees bargaining unit vote on the agree
 
 ### Why
 
-This gives GSU direct control and responsibility over communication with its own bargaining unit while preserving Local 6350's umbrella legal and administrative role.
+This gives GSU elected leadership direct participation and responsibility for communication with its own bargaining unit while preserving Local 6350's umbrella legal and administrative role.
 
 **Leadership decision:** APPROVE / MODIFY / REJECT
 
