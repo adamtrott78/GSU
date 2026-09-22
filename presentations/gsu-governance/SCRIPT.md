@@ -185,29 +185,32 @@ The basic idea is: elect by stable constituency, organize by overlapping interes
 "Graduate-worker turnover also means some of the Local's normal timing and eligibility rules need to work differently inside GSU."
 
 ---
-# Slide 8 — Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps
+
+# Slide 8 — Graduate-worker turnover requires rules built for short appointments
+
+**Status:** CONCEPT LOCKED
 
 ## Script
 
-"This is probably the most graduate-worker-specific part of the draft.
+"This is probably the part of the draft that is most specific to graduate employment.
 
-First, one-year terms. Local-wide officers currently serve three-year terms. That does not map well to graduate programs, changing funding, and people graduating.
+First, terms are one year, normally July 1 through June 30. The Local-wide officers serve three-year terms, but that doesn't map well to graduate programs, changing funding, and people graduating.
 
-Second, no one-year waiting period before someone can run for GSU chapter office. The GSU itself has not even existed for a year, so applying that rule to GSU would make the first election impossible.
+Second, there is no one-year waiting period before someone can run for GSU office or a Representative Council seat. Any GSU member in good standing can run. Otherwise, our initial election would be impossible—the GSU itself hasn't even existed for a year.
 
-Third, if a meaningful vacancy happens in the middle of a short term, the default should be a special election rather than letting an appointed person serve most of that term.
+Third, the vacancy rules are designed around short terms. If the President leaves office, the Vice President succeeds them. For other officer vacancies with more than ninety days remaining, we hold a special election. Representative vacancies with more than ninety days remaining normally go back to the affected constituency. Near the end of the term, the Council can make a temporary appointment rather than running an unnecessary election.
 
-Then there is the summer issue. Someone can be fully active in the bargaining unit in spring, have no covered UMassD appointment during the summer, and return to a covered position in fall.
+Then there's the summer issue. A graduate worker can be fully covered in the spring, have no covered UMassD appointment over the summer, and return to a covered position in the fall.
 
-Draft 1 says that ordinary temporary gap does not automatically remove someone from office if they are expected to return in the next academic term.
+Draft 1 says that temporary gap by itself does not terminate membership or eligibility to keep serving in elected office when the person is expected to return to a covered appointment in the immediately following academic term.
 
-It would not protect someone who graduates, permanently leaves UMassD, or is not expected to return to a covered job.
+It does not cover graduation, permanently leaving UMass Dartmouth, or someone who isn't expected to return.
 
-I think that rule is necessary, but this is one of the points I want us to explicitly confirm today because it will affect real people."
+That continuity rule is still explicitly proposed, and I want us to confirm it because this is exactly the kind of situation our governance rules need to handle."
 
 ## Transition
 
-"The other major structural question is bargaining — who builds the team and who gets to vote on the agreement."
+"The other major structural question is bargaining—who builds the team and who gets to vote on the agreement."
 
 ---
 
