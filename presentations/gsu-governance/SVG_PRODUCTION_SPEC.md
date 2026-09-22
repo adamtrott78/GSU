@@ -566,4 +566,99 @@ The visual distinction must make the semantics obvious: caucuses represent overl
 
 ---
 
-# Slide 8 — Formatting review pending
+# Slide 8 — Graduate-worker turnover requires rules built for short appointments
+
+## Status
+**FORMATTING LOCKED**
+
+## Header
+Use common content-slide chrome. Because the title is long, use `40–42 px`, max 2 lines.
+
+## Production job
+Keep the ordinary term / eligibility / vacancy rules compact, then make the summer appointment-gap question the slide's focal point.
+
+## Top rule cards
+Three compact cards across the top, each radius `18`, white fill, stroke `2 px #CBD5E1`.
+
+### 1-YEAR TERMS
+- x `120`, y `255`, w `520`, h `175`
+- title `1-YEAR TERMS`, `22–24 px`, 700, `#0F2747`
+- content:
+  - `July 1 → June 30`
+  - `Officers + Representative Council`
+
+### OPEN ELIGIBILITY
+- x `700`, y `255`, w `520`, h `175`
+- title `OPEN ELIGIBILITY`, `22–24 px`, 700
+- content:
+  - `No one-year waiting period`
+  - `Any GSU member in good standing may run`
+
+### VACANCIES
+- x `1280`, y `255`, w `520`, h `175`
+- title `VACANCIES`, `22–24 px`, 700
+- compressed content:
+  - `President → Vice President`
+  - `>90 days → election`
+  - `≤90 days → temporary appointment option`
+
+Body text `20–22 px`; keep each card to three short lines maximum.
+
+## Lower timeline panel
+- x `120`, y `485`, w `1680`, h `390`
+- radius `22`
+- fill `#FFFFFF`
+- stroke `2 px #CBD5E1`
+
+The academic-term timeline is the hero visual.
+
+### Timeline
+Place around y `590` with evenly spaced nodes:
+
+`SPRING ELECTION → JULY 1 → SUMMER GAP? → FALL RETURN → JUNE 30`
+
+- standard baseline / connectors: `3–4 px #49627A`
+- normal nodes: blue / slate, simple circles
+- labels: `20–22 px`, 700 for primary label; optional `18 px` annotation only where needed
+- the `SUMMER GAP?` node is larger and uses amber styling (`#FFF4DB` / `#F5B041`) so it is the visual focal point of the timeline
+
+## Summer continuity callout
+Directly beneath `SUMMER GAP?`:
+
+- x `500`, y `660`, w `920`, h `130`
+- radius `18`
+- fill `#FFF4DB`
+- stroke `2.5 px #F5B041`
+- short amber connector downward from the summer node
+
+Header:
+- `SUMMER CONTINUITY — PROPOSED`
+- `20–22 px`, 700, `#B45309`
+
+Body:
+- `Temporary gap alone does not end membership or elected-office eligibility when return to a covered appointment is expected next academic term.`
+- `20–22 px`, `#334155`
+- maximum 3 balanced lines
+
+`PROPOSED` must attach specifically to this continuity rule; the three upper rule cards are not visually marked proposed.
+
+## Caveat strip
+At the bottom of the lower panel, centered around y `825`:
+
+`NOT graduation • NOT permanent departure • NOT no expected return`
+
+- `20–22 px`, `#334155`
+- make each `NOT` weight `700`
+- no red warning box; the amber continuity treatment already provides sufficient distinction
+
+## QA
+- top cards remain subordinate to the lower timeline
+- timeline reads left-to-right instantly
+- summer node and continuity callout are the strongest visual elements below the title
+- amber appears only on the unresolved summer-continuity rule
+- caveat line must remain readable but secondary
+- no card or callout text below `20 px`
+
+---
+
+# Slide 9 — Formatting review pending
