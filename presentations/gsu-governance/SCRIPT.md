@@ -244,25 +244,31 @@ So the democratic chain is pretty simple: graduate workers set the priorities, G
 
 ---
 
-# Slide 10 — Five decisions determine whether Draft 1 moves forward
+# Slide 10 — Five decision clusters remain before Draft 1 can move forward
+
+**Status:** CONCEPT LOCKED
 
 ## Script
 
-"The detailed decision sheet breaks this into individual line items, but I think the live discussion really comes down to five clusters.
+"At this point, we've covered every major part of the structure.
 
-First: officers. Do we want the four-officer structure, with the GSU President serving as the main liaison to Local leadership?
+The detailed decision sheet breaks this into eleven individual decisions, but I don't think we need to discuss eleven disconnected items. They naturally fall into five clusters.
 
-Second: representation. Do we want the Representative Council, the hybrid college or school seat formula, two at-large seats, and committees for overlapping groups like RA/TA and Master's/PhD?
+First, officers and the Local relationship: four elected GSU officers, with the President as our principal liaison and no automatic Local Executive Board seat.
 
-Third: terms and continuity. Are we comfortable with one-year terms, no one-year waiting period for GSU office, and the summer appointment-gap rule?
+Second, representation: the Representative Council, college or school seats, two at-large seats, the proposed proportional formula, and caucuses or committees for overlapping groups.
 
-Fourth: bargaining. Do we want GSU to select its own bargaining team and have elected GSU leadership directly involved in administering ratification with the Local?
+Third, terms and continuity: one-year terms, open eligibility without a one-year waiting period, and the summer appointment-gap rule.
 
-Fifth: vacancies and transition. Do we prefer special elections for meaningful vacancies, and do we want the first constitutional GSU election to happen after the amendments take effect rather than waiting for the Local's ordinary election cycle?
+Fourth, bargaining and ratification: how GSU selects its bargaining team, how members shape bargaining priorities, and how GSU leadership coordinates the ratification process with the Local.
 
-I would like to go through these one cluster at a time. If a cluster works, we approve it as proposed. If not, we write down the exact modification.
+Fifth, vacancies and the first election: Presidential succession, the ninety-day special-election rule, and how we conduct the first constitutional election after the amendments take effect.
 
-There is also one optional discussion: the Local's name. Draft 1 keeps the existing name. We can discuss whether we eventually want a broader umbrella name, but that is not required for this package to work."
+For each cluster, I want us to do one of three things: approve it as proposed, identify the exact modification we want, or remove something from Draft 1.
+
+We shouldn't reopen factual or procedural questions we've already resolved unless somebody identifies a specific problem.
+
+There is also an optional discussion about the Local's name. Draft 1 keeps the existing name, so that does not need to be resolved for this package to move forward."
 
 ## Transition
 
