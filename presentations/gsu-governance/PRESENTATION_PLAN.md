@@ -51,7 +51,7 @@ The emotional arc is:
 | 3 | The building blocks already exist in other AFT locals—we can adapt them to GSU | Establish comparator precedent without importing unrelated Local structures | **CONCEPT LOCKED** |
 | 4 | One Local, two bargaining units: preserve Local leadership and add GSU self-governance | Show the whole-system architecture | **CONCEPT LOCKED** |
 | 5 | Draft 1 adds GSU governance while preserving Local 6350 leadership | Show the package is additive and narrowly scoped | **CONCEPT LOCKED** |
-| 6 | Four elected officers give GSU clear accountability | Explain the officer model and liaison role | DRAFT |
+| 6 | Four elected officers give GSU clear accountability | Explain the officer model and liaison role | **CONCEPT LOCKED** |
 | 7 | A Representative Council gives every part of GSU an elected voice | Explain representation, seat logic, and committees/caucuses | DRAFT |
 | 8 | Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps | Explain term/eligibility/vacancy/continuity rules | DRAFT |
 | 9 | GSU selects its bargaining team; only GSU members ratify its contract | Explain bargaining and ratification autonomy | DRAFT |
@@ -508,46 +508,51 @@ The bottom statement should be one of the strongest visual elements on the slide
 
 ## Status
 
-DRAFT
+**CONCEPT LOCKED**
 
 ## Job
 
-Explain why the traditional four-officer structure works and what each office owns.
+Explain what each of the four elected GSU officers owns and make the accountability structure immediately legible.
 
 ## Audience takeaway
 
-> President, Vice President, Treasurer, and Secretary cover the core executive responsibilities without creating redundant positions.
+> President, Vice President, Treasurer, and Secretary cover the core executive responsibilities without creating redundant positions; all four are elected by GSU members.
 
 ## On-slide content
 
+**GSU MEMBERS ELECT ALL FOUR**
+
 ### PRESIDENT
 - chief GSU representative;
-- chairs membership / Council meetings;
-- principal liaison to Local leadership;
-- bargaining / grievance leadership.
+- chairs membership + Council meetings;
+- principal Local 6350 liaison.
 
 ### VICE PRESIDENT
 - succeeds President;
-- Council / committee coordination;
-- organizing / contract enforcement.
+- coordinates Council + committees;
+- supports organizing + contract enforcement.
 
 ### TREASURER
-- tracks GSU budget / allocation;
+- tracks GSU allocation / budget;
 - coordinates with Local Treasurer;
-- financial reporting.
+- reports chapter finances.
 
 ### SECRETARY
-- minutes / notices;
+- minutes + meeting notices;
 - election records;
-- governance / communications records.
+- governance + communications records.
 
-Footer visual:
+Separate liaison relationship:
 
-`GSU MEMBERS -> elect -> PRESIDENT -> liaison -> EXISTING LOCAL 6350 LEADERSHIP`
+`PRESIDENT - - - principal liaison - - -> LOCAL 6350 LEADERSHIP`
 
 ## Visual concept
 
-2x2 officer-card grid. The liaison arrow connects to a generic `Local 6350 leadership` label, not an Executive Board badge.
+Use a 2x2 officer-card grid. Above the grid, make the democratic relationship explicit with `GSU MEMBERS ELECT ALL FOUR`.
+
+The President-to-Local liaison is a separate secondary relationship and must not visually imply that members elect only the President or that the President becomes a Local officer.
+
+Do not add bargaining detail to the President card; retain that nuance in narration and let Slide 9 own the bargaining architecture.
 
 ## Rough mockup
 
@@ -555,23 +560,33 @@ Footer visual:
 +------------------------------------------------------------------+
 | FOUR ELECTED OFFICERS GIVE GSU CLEAR ACCOUNTABILITY              |
 |                                                                  |
-|  [ PRESIDENT ]                 [ VICE PRESIDENT ]                 |
-|  lead / meetings               succession                        |
-|  bargaining / Local            committees / organizing           |
+|               GSU MEMBERS ELECT ALL FOUR                         |
 |                                                                  |
-|  [ TREASURER ]                 [ SECRETARY ]                      |
-|  budget / reporting            records / notices                 |
-|  Local coordination            elections / minutes               |
+|  +-------------------------+   +-------------------------+        |
+|  | PRESIDENT               |   | VICE PRESIDENT          |        |
+|  | chief representative    |   | succeeds President      |        |
+|  | chairs meetings         |   | Council / committees    |        |
+|  | principal Local liaison |   | organizing / enforcement|        |
+|  +-------------------------+   +-------------------------+        |
 |                                                                  |
-| MEMBERS -> elect President -> liaison -> LOCAL 6350 LEADERSHIP   |
+|  +-------------------------+   +-------------------------+        |
+|  | TREASURER               |   | SECRETARY               |        |
+|  | allocation / budget     |   | minutes / notices       |        |
+|  | Local Treasurer coord.  |   | election records        |        |
+|  | financial reporting     |   | governance records      |        |
+|  +-------------------------+   +-------------------------+        |
+|                                                                  |
+|  PRESIDENT - - - principal liaison - - -> LOCAL 6350 LEADERSHIP  |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- Deliberately conventional four-office structure.
+- The four offices are deliberately conventional so responsibility is obvious.
+- All four are elected GSU offices.
 - The President handles the Local liaison role without becoming a Local officer.
-- Detailed duties live in the bylaws; this slide is the accountability map.
+- The Treasurer coordinates with the Local Treasurer; GSU does not create an independent treasury outside Local controls.
+- Detailed duties remain in the bylaws; this slide is the accountability map.
 
 ---
 
