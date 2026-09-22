@@ -325,4 +325,65 @@ Draw the liaison specifically from the `President` position inside the GSU box u
 
 ---
 
-# Slide 5 — Formatting review pending
+# Slide 5 — Draft 1 adds GSU governance while preserving Local 6350 leadership
+
+## Status
+**FORMATTING LOCKED**
+
+## Header
+Use common content-slide chrome. Standard `44 px` title if it fits cleanly; reduce to `42 px` only if necessary.
+
+## Production job
+Make the package scope instantly legible: left = broader Local structures preserved; right = GSU-specific governance added or clarified. The rows are parallel for scanning only and must not imply one-for-one replacement.
+
+## Left panel — PRESERVED
+- x `96`, y `270`, w `840`, h `550`
+- radius `18`
+- fill `#FFFFFF`
+- stroke `2 px #CBD5E1`
+- header bar h `56`, fill `#EEF3F7`
+- header `PRESERVED`, `22–24 px`, 700, `#0F2747`
+
+Five horizontal rows separated by `2 px #E2E8F0` rules:
+1. `LOCAL LEADERSHIP` — `Pres • VP • Treas • Sec`
+2. `EXECUTIVE BOARD` — `existing composition`
+3. `MAINTAINERS GOVERNANCE` — `existing structure`
+4. `LOCAL FINANCES` — `treasury controls`
+5. `LOCAL CONSTITUTION` — `name + amendment process`
+
+Row heading: `20–22 px`, 700. Supporting line: `20 px`, 400, `#334155`.
+
+## Right panel — ADDED / CLARIFIED
+- x `984`, y `270`, w `840`, h `550`
+- radius `18`
+- fill `#FFFFFF`
+- stroke `2 px #AFC0D3`
+- header bar h `56`, fill `#EAF2FB`
+- header `ADDED / CLARIFIED`, `22–24 px`, 700, `#0F2747`
+
+Five horizontal rows separated by `2 px #E2E8F0` rules:
+1. `GSU CHAPTER` — `formally defined`
+2. `GSU LEADERSHIP` — `Pres • VP • Treas • Sec`
+3. `REPRESENTATION` — `Representative Council`
+4. `GSU BARGAINING` — `GSU-selected team`
+5. `GRAD-WORKER RULES` — `terms • dues • continuity`
+
+Use the same row geometry and typography as the left panel.
+
+## Bottom conclusion strip
+- x `270`, y `875`, w `1380`, h `72`
+- radius `14`
+- fill `#0F2747`
+- centered white text: `ADD A GSU GOVERNANCE LAYER — DO NOT REBUILD THE LOCAL`
+- `22 px`, 700
+
+## QA
+- panels must have equal visual weight
+- rows align for scanning but have no arrows or connector semantics between left/right
+- bottom conclusion is the strongest object after the title
+- no row heading or supporting line should wrap unnecessarily
+- keep all body text at or above `20 px`
+
+---
+
+# Slide 6 — Formatting review pending
