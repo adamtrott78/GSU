@@ -1,6 +1,6 @@
 # GSU Governance Presentation Plan
 
-**Status:** STAGE 1 — SLIDE-BY-SLIDE CONCEPT REVIEW  
+**Status:** STAGE 1 COMPLETE — ALL 11 SLIDE CONCEPTS LOCKED  
 **Meeting:** September 22, 2026  
 **Audience:** GSU leadership / organizing leadership  
 **Purpose:** Obtain leadership approval in principle, or precise modifications, for the frozen Draft 1 governance structure before the amendment package is revised and sent to the Local 6350 President for informal review.
@@ -56,7 +56,7 @@ The emotional arc is:
 | 8 | Graduate-worker turnover requires rules built for short appointments | Explain term/eligibility/vacancy/continuity rules | **CONCEPT LOCKED** |
 | 9 | GSU selects its bargaining team; only the GSU bargaining unit ratifies its agreement | Explain bargaining and ratification autonomy | **CONCEPT LOCKED** |
 | 10 | Five decision clusters remain before Draft 1 can move forward | Consolidate remaining governance choices | **CONCEPT LOCKED** |
-| 11 | Tuesday decides what we recommend; Local 6350 members decide what gets adopted | Close with requested action and timeline | DRAFT |
+| 11 | Today we decide what to recommend; Local 6350 members decide what to adopt | Close with requested action and timeline | **CONCEPT LOCKED** |
 
 Target presentation time: **10–14 minutes before discussion.**
 
@@ -983,11 +983,11 @@ Do not put the optional Local-name discussion on the main visual; mention it onl
 
 ---
 
-# Slide 11 — Tuesday decides what we recommend; Local 6350 members decide what gets adopted
+# Slide 11 — Today we decide what to recommend; Local 6350 members decide what to adopt
 
 ## Status
 
-DRAFT
+**CONCEPT LOCKED**
 
 ## Job
 
@@ -995,71 +995,91 @@ Close with the exact requested action and make the formal adoption path unmistak
 
 ## Audience takeaway
 
-> Tuesday advances a recommendation; it does not amend the constitution. Local 6350 members make the formal constitutional decision later.
+> Today advances a recommendation; it does not amend the constitution. Local 6350 members make the formal constitutional decision later.
 
 ## On-slide content
 
-### Requested Tuesday outcome
+### REQUESTED OUTCOME
 
-> **Approve the proposed governance structure in principle, subject to the modifications recorded today, and authorize preparation of the revised package for Local 6350 President review.**
+> **Approve the proposed governance structure in principle, subject to the modifications recorded today, and authorize preparation of the revised package for informal review by the Local 6350 President.**
+
+Decision-status badge:
+
+**TODAY'S ACTION ≠ CONSTITUTIONAL ADOPTION**
 
 ### Timeline
 
-**SEPT 22** GSU leadership design review  
--> **REVISE DRAFT 1**  
--> **LOCAL PRESIDENT** informal review  
--> **BY OCT 6** final amendments distributed if using the 15-day route  
--> **OCT 21** Local 6350 regular meeting — **2/3 of members present required**  
--> **POST-ADOPTION** submit amended governing documents as required
+**SEPT 22** — GSU leadership design review  
+-> **REVISE PACKAGE** — record today's changes  
+-> **LOCAL REVIEW** — Local President / AFT as appropriate; informal review  
+-> **BY OCT 6** — distribute final amendments **if using the planned 15-day route**  
+-> **OCT 21** — Local 6350 regular meeting; **2/3 vote of members present to adopt**  
+-> **POST-ADOPTION** — submit amended governing documents as required
 
 Bottom statement:
 
-**Today decides what we recommend. Local 6350 members decide what gets adopted.**
+**LEADERSHIP RECOMMENDS • LOCAL MEMBERS ADOPT**
 
 ## Visual concept
 
-Clean action slide with a prominent requested-outcome box and horizontal process timeline.
+This is the final prepared slide and should feel like a conclusion rather than another governance explainer.
+
+Give the requested-outcome box the upper third of the slide. Place the `TODAY'S ACTION ≠ CONSTITUTIONAL ADOPTION` badge directly beneath it. Use one clean horizontal process timeline across the lower half.
+
+The timeline must visually distinguish:
+
+- today's internal GSU leadership recommendation;
+- informal Local / AFT review;
+- the planned Article XIII 15-day distribution route;
+- the actual Local 6350 membership vote; and
+- post-adoption submission.
+
+Do not phrase the October 21 threshold as `2/3 of members present required`; that could be mistaken for a quorum rule. The precise concept is **a two-thirds vote of the members present to adopt**.
+
+The October 6 date is conditional on using the planned 15-day distribution route; Article XIII also permits the preceding-regular-meeting reading route.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| TUESDAY DECIDES WHAT WE RECOMMEND; LOCAL MEMBERS DECIDE ADOPTION |
+| TODAY WE DECIDE WHAT TO RECOMMEND; LOCAL 6350 MEMBERS            |
+| DECIDE WHAT TO ADOPT                                             |
 |                                                                  |
-| [ REQUESTED OUTCOME ]                                            |
-| Approve in principle + record modifications + authorize revised  |
-| package for Local President review                               |
+|  +------------------------------------------------------------+  |
+|  | REQUESTED OUTCOME                                          |  |
+|  | Approve the governance structure in principle, record      |  |
+|  | today's modifications, and authorize a revised package     |  |
+|  | for informal Local President review.                       |  |
+|  +------------------------------------------------------------+  |
 |                                                                  |
-| SEPT 22       REVISE       LOCAL PRES.      BY OCT 6    OCT 21   |
-| leadership -> Draft 1 -> informal review -> distribute -> vote   |
-|                                                     2/3 present  |
-|                                                         ↓        |
-|                                                 post-adoption     |
-|                                                 submission        |
+|             TODAY'S ACTION ≠ CONSTITUTIONAL ADOPTION             |
 |                                                                  |
-| Today decides what we recommend. Local members decide adoption.  |
+|  SEPT 22       REVISE       LOCAL REVIEW      BY OCT 6   OCT 21 |
+|  leadership -> package ----> informal --------> distribute -> vote|
+|   review                     President/AFT      15-day       2/3  |
+|                                               route       present |
+|                                                             |    |
+|                                                             v    |
+|                                                     POST-ADOPTION|
+|                                                       submission |
+|                                                                  |
+|            LEADERSHIP RECOMMENDS • LOCAL MEMBERS ADOPT           |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- Tuesday is the design-review checkpoint.
-- Leadership approval in principle does not adopt anything.
-- Changes get incorporated before the package goes to the Local President.
-- If the October 21 vote remains the target and the 15-day distribution route is used, distribution must occur by October 6.
-- Formal adoption remains a Local 6350 membership decision under Article XIII.
+- Today's meeting is the GSU leadership design-review checkpoint, not the constitutional vote.
+- Approval in principle authorizes revision of the package and informal review by the Local President; it does not amend the constitution.
+- After today's changes are incorporated, obtain informal Local / AFT review as appropriate before membership distribution.
+- If October 21 remains the target and the planned 15-day distribution route is used, the final amendments must go to all members by October 6.
+- At the October 21 regular meeting, adoption requires a two-thirds vote of the members present.
+- After adoption, submit the amended governing documents as required.
 
 ---
 
-# Stage 1 slide-by-slide review questions
+# Stage 1 completion
 
-For each slide, review:
+All eleven slide concepts, visual jobs, on-slide content plans, and narration are now **CONCEPT LOCKED**.
 
-1. Is the **single intellectual job** correct?
-2. Is the **title** the conclusion we want the room to remember?
-3. Is the **visual** the clearest way to communicate that conclusion?
-4. Is any on-screen text unnecessary or missing?
-5. Does the **script** add useful rationale without repeating the slide?
-6. Is any governance claim stronger than the frozen bylaws actually support?
-
-Do not begin `SVG_PRODUCTION_SPEC.md` until all eleven slide concepts, visual jobs, and scripts are concept-locked.
+Stage 2 may now begin: create `SVG_PRODUCTION_SPEC.md` with the exact deck-wide visual system and per-slide production instructions—canvas geometry, typography, palette, spacing, object hierarchy, line weights, cards, arrows/connectors, timeline construction, and slide-specific coordinates/assets—before producing any SVG slides.
