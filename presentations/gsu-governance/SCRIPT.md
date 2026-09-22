@@ -154,21 +154,29 @@ So the idea is four clearly defined offices, all elected by GSU members, with no
 
 ---
 
-# Slide 7 — A Representative Council gives every part of GSU an elected voice
+# Slide 7 — A hybrid Representative Council balances stable constituencies with cross-cutting interests
+
+**Status:** CONCEPT LOCKED
 
 ## Script
 
-"This is where the Representative Council comes in.
+"The four officers give us executive accountability, but they aren't enough by themselves to represent the whole graduate workforce.
 
-The Council would contain the four GSU officers, elected college or school representatives, and two at-large representatives elected by the whole GSU membership.
+That's what the Representative Council is for.
 
-The draft uses a hybrid seat formula. A qualifying college gets one guaranteed seat, and larger colleges gain additional seats as membership grows. Right now the proposal is one additional seat for each additional fifty members.
+The Council would contain the four GSU officers, elected college or school representatives, and two at-large representatives elected by the entire GSU membership.
 
-That number is absolutely a proposal, not a sacred number. The principle is what matters: small units should not disappear, but a very large college should not have exactly the same representation as a tiny one.
+For the college and school seats, Draft 1 uses a hybrid formula. Once a constituency has at least five members, it gets one guaranteed representative. Then it gains another seat for each additional fifty members.
 
-I also think college or school is the right primary electoral district because it is relatively stable.
+So 5 through 54 members gets one seat, 55 through 104 gets two, 105 through 154 gets three, and so on.
 
-RA versus TA, Master's versus PhD, international status — those overlap, and some can change from semester to semester. So those groups get formal committees or caucuses rather than overlapping voting districts.
+That formula is absolutely proposed, not settled. The principle is what matters: a small college should still have a voice, but a much larger college shouldn't have exactly the same representation as a tiny one.
+
+If we don't have reliable membership counts ready for the first election, the fallback is one representative per recognized college or school, and then we reapportion once the counts are available.
+
+College or school works well as the electoral district because it's relatively stable. RA versus TA, Master's versus PhD, and international status all overlap, and some can change semester to semester.
+
+So rather than creating overlapping voting districts, those interests can organize through formal caucuses or committees. Functional work like organizing, grievances, or communications can also happen through committees without becoming separate electoral constituencies.
 
 The basic idea is: elect by stable constituency, organize by overlapping interest."
 
@@ -177,7 +185,6 @@ The basic idea is: elect by stable constituency, organize by overlapping interes
 "Graduate-worker turnover also means some of the Local's normal timing and eligibility rules need to work differently inside GSU."
 
 ---
-
 # Slide 8 — Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps
 
 ## Script
