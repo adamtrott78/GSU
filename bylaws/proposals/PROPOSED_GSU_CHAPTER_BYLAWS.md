@@ -83,11 +83,10 @@ The President shall:
 a. serve as chief elected representative of GSU;  
 b. preside at GSU membership and Representative Council meetings;  
 c. prepare meeting agendas with the Secretary and Vice President;  
-d. serve ex officio as principal GSU liaison to Local 6350 if authorized by the Local Constitution;  
-e. represent GSU on the Local 6350 Executive Board;  
-f. serve as primary liaison to Local-wide officers, AFT representatives, and University counterparts where appropriate;  
-g. participate in bargaining and contract administration;  
-h. communicate Local Executive Board actions relevant to GSU;  
+d. serve as principal GSU liaison to the existing Local 6350 leadership;  
+e. serve as primary liaison to AFT representatives and University counterparts where appropriate;  
+f. participate in bargaining and contract administration; and  
+g. communicate Local Executive Board actions relevant to GSU.  
 i. ensure that decisions of the GSU membership and Representative Council are carried out; and  
 j. perform other duties consistent with these bylaws.
 
@@ -686,11 +685,10 @@ Interim status does not convert an unelected position into an elected constituti
 
 Local 6350  
 → Local President / Vice-President / Treasurer / Secretary  
-→ GSU President (held by elected GSU President)  
-→ Local Executive Board
+→ existing Local Executive Board structure
 
 Graduate Student Employees Chapter / GSU  
-→ President  
+→ President (principal liaison to existing Local leadership)  
 → Vice President  
 → Treasurer  
 → Secretary  
@@ -698,6 +696,8 @@ Graduate Student Employees Chapter / GSU
 → academic college/school representatives  
 → two at-large representatives  
 → committees/caucuses
+
+Holding GSU office or a Representative Council seat does not by itself confer membership on the Local 6350 Executive Board.
 
 ---
 
