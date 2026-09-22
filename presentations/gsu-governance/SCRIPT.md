@@ -214,23 +214,29 @@ That continuity rule is still explicitly proposed, and I want us to confirm it b
 
 ---
 
-# Slide 9 — GSU selects its bargaining team; only GSU members ratify its contract
+# Slide 9 — GSU selects its bargaining team; only the GSU bargaining unit ratifies its agreement
+
+**Status:** CONCEPT LOCKED
 
 ## Script
 
-"The current bargaining committee is built around Maintainers classifications. That is fine for the Maintainers, but it should not automatically become the bargaining committee for graduate workers.
+"The last major structural piece is bargaining.
 
-So Draft 1 makes the existing committee explicitly the Maintainers bargaining committee and gives GSU authority to select its own bargaining team under the GSU bylaws.
+Right now the Local's bargaining committee is written around Maintainers classifications. That makes sense for their unit, but it should not determine bargaining priorities for graduate workers.
 
-That team develops graduate-worker proposals with input from graduate workers and negotiates the Graduate Student Employees agreement.
+So Draft 1 gives GSU its own bargaining committee.
 
-Local 6350 still sits above both bargaining units and handles shared legal and administrative obligations or issues that genuinely affect both units.
+And importantly, this isn't just four officers choosing whoever they want. The President and Vice President serve on the team, the Representative Council recommends its size, representation requirements, and selection process, and the final team structure normally goes to the GSU membership for approval.
 
-For ratification, the existing constitution already gives us the key rule we want: only members of the bargaining unit covered by the agreement vote on that agreement.
+From there, the bargaining committee is responsible for creating real ways for graduate workers to set priorities—surveys, listening sessions, constituency meetings, and membership meetings—and then representing the Graduate Student Employees unit in negotiations.
 
-So GSU members vote on the GSU contract. Maintainers vote on the Maintainers contract.
+Local 6350 is still the umbrella. Bargaining remains subject to the Local Constitution and the Local's legal and affiliation obligations.
 
-The proposal also has elected GSU leadership participate directly in administering and communicating our ratification process in coordination with the Local officers."
+But another bargaining unit's committee cannot decide our proposals or bind the Graduate Student Employees unit without our authorization.
+
+And at the end of bargaining, the bargaining committee cannot ratify an agreement itself. Members receive a written summary of the tentative agreement, and only eligible members of the Graduate Student Employees bargaining unit vote on ratification.
+
+So the democratic chain is pretty simple: graduate workers set the priorities, GSU selects the team, the team negotiates, and graduate workers decide whether the agreement is accepted."
 
 ## Transition
 
