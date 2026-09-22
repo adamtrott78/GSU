@@ -53,7 +53,7 @@ The emotional arc is:
 | 5 | Draft 1 adds GSU governance while preserving Local 6350 leadership | Show the package is additive and narrowly scoped | **CONCEPT LOCKED** |
 | 6 | Four elected officers give GSU clear accountability | Explain the officer model and liaison role | **CONCEPT LOCKED** |
 | 7 | A hybrid Representative Council balances stable constituencies with cross-cutting interests | Explain representation, seat logic, and committees/caucuses | **CONCEPT LOCKED** |
-| 8 | Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps | Explain term/eligibility/vacancy/continuity rules | DRAFT |
+| 8 | Graduate-worker turnover requires rules built for short appointments | Explain term/eligibility/vacancy/continuity rules | **CONCEPT LOCKED** |
 | 9 | GSU selects its bargaining team; only GSU members ratify its contract | Explain bargaining and ratification autonomy | DRAFT |
 | 10 | Five decisions determine whether Draft 1 moves forward | Consolidate remaining governance choices | DRAFT |
 | 11 | Tuesday decides what we recommend; Local 6350 members decide what gets adopted | Close with requested action and timeline | DRAFT |
@@ -684,15 +684,16 @@ Do not mix constituency caucuses with functional committees as though they are e
 - If reliable membership counts are unavailable for the first election, the proposed fallback is one representative per recognized college / school, followed by reapportionment once counts are available.
 
 ---
-# Slide 8 — Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps
+
+# Slide 8 — Graduate-worker turnover requires rules built for short appointments
 
 ## Status
 
-DRAFT
+**CONCEPT LOCKED**
 
 ## Job
 
-Make the graduate-worker-specific rules intuitive and surface the summer-gap decision clearly.
+Make the graduate-worker-specific term, eligibility, vacancy, and appointment-gap rules intuitive while surfacing the summer continuity decision clearly.
 
 ## Audience takeaway
 
@@ -700,48 +701,69 @@ Make the graduate-worker-specific rules intuitive and surface the summer-gap dec
 
 ## On-slide content
 
-**1-YEAR TERMS** — Officers and Council  
-**NO 1-YEAR WAIT** — Any eligible GSU member in good standing may run  
-**SPECIAL ELECTIONS** — Meaningful mid-term vacancies go back to voters  
-**SUMMER CONTINUITY — PROPOSED** — An ordinary appointment gap does not end office when a covered fall return is expected
+### 1-YEAR TERMS
+July 1 -> June 30  
+Officers + Representative Council
 
-Small caveat:
+### OPEN ELIGIBILITY
+No one-year waiting period  
+Any GSU member in good standing may run
 
-Does not cover graduation, permanent departure, or no expected return to a covered appointment.
+### VACANCIES
+President -> Vice President  
+Other officer vacancies with >90 days remaining -> special election  
+Representative vacancies with >90 days remaining -> election by the affected electorate  
+90 days or fewer -> temporary Council appointment may be used
+
+### SUMMER CONTINUITY — PROPOSED
+A temporary appointment gap alone does not end GSU membership or elected-office eligibility when return to a covered appointment is expected in the immediately following academic term.
+
+Caveat:
+
+**Not graduation • not permanent departure • not no expected return**
 
 ## Visual concept
 
-Academic-year timeline:
+Use three compact rule cards across the top for terms, eligibility, and vacancies. Beneath them, use an academic-year timeline:
 
 `SPRING ELECTION -> JULY 1 -> SUMMER GAP? -> FALL RETURN -> JUNE 30`
 
-The summer segment receives the strongest emphasis because leadership must explicitly confirm it.
+The summer segment and `SUMMER CONTINUITY — PROPOSED` box receive the strongest emphasis because leadership must explicitly confirm that rule.
+
+`PROPOSED` should visually attach only to summer continuity; the other three rules are part of the current Draft 1 structure being presented for approval.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| GRADUATE-WORKER TURNOVER DEMANDS DIFFERENT RULES                 |
+| GRADUATE-WORKER TURNOVER REQUIRES RULES BUILT FOR SHORT          |
+| APPOINTMENTS                                                     |
 |                                                                  |
-| [1-YEAR TERMS] [NO 1-YEAR WAIT] [SPECIAL ELECTIONS]              |
+| [ 1-YEAR TERMS ]       [ OPEN ELIGIBILITY ]      [ VACANCIES ]   |
+| July 1 – June 30       no 1-year wait            President -> VP |
+| officers + Council     member in good standing   >90 days -> vote|
+|                                                  <=90 -> temp.    |
 |                                                                  |
-| SPRING         JULY          SUMMER             FALL             |
-| election ----> term -----> [ NO APPT? ] -----> covered return    |
-|                               |                                  |
-|                               v                                  |
-|                 [ SUMMER CONTINUITY — PROPOSED ]                 |
-|                  office continues if return expected             |
+|   SPRING             JUL 1          SUMMER          FALL          |
+|   election  -------> term starts -> [ GAP? ] ----> covered return|
+|                                      |                           |
+|                                      v                           |
+|                     [ SUMMER CONTINUITY — PROPOSED ]             |
 |                                                                  |
-| Not graduation • not permanent departure • not no-return         |
+| Temporary gap alone does not end membership or elected-office    |
+| eligibility when a covered return is expected next academic term |
+|                                                                  |
+| Not graduation • not permanent departure • not no expected return|
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- Three-year Local terms and a one-year waiting period do not map well to graduate-worker turnover.
-- One-year terms and special elections preserve democratic accountability.
-- GSU has not existed long enough for a one-year waiting period to work for initial chapter office.
-- Summer continuity is a real operational issue and must be explicitly confirmed Tuesday.
+- GSU uses one-year terms, normally July 1 through June 30, because graduate-worker turnover makes the Local's three-year term poorly suited to the chapter.
+- Any GSU member in good standing may run; the Local-wide one-year prior-membership rule does not apply to GSU chapter office.
+- Presidential vacancies are filled by Vice-President succession; other longer vacancies return to the appropriate electorate, while short end-of-term gaps can be filled temporarily.
+- Summer continuity is a real operational issue and remains the specific rule leadership should explicitly confirm.
+- The continuity rule does not cover graduation, permanent departure, or a member who is not expected to return to a covered appointment.
 
 ---
 
