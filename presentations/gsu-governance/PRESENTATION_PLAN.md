@@ -55,7 +55,7 @@ The emotional arc is:
 | 7 | A hybrid Representative Council balances stable constituencies with cross-cutting interests | Explain representation, seat logic, and committees/caucuses | **CONCEPT LOCKED** |
 | 8 | Graduate-worker turnover requires rules built for short appointments | Explain term/eligibility/vacancy/continuity rules | **CONCEPT LOCKED** |
 | 9 | GSU selects its bargaining team; only the GSU bargaining unit ratifies its agreement | Explain bargaining and ratification autonomy | **CONCEPT LOCKED** |
-| 10 | Five decisions determine whether Draft 1 moves forward | Consolidate remaining governance choices | DRAFT |
+| 10 | Five decision clusters remain before Draft 1 can move forward | Consolidate remaining governance choices | **CONCEPT LOCKED** |
 | 11 | Tuesday decides what we recommend; Local 6350 members decide what gets adopted | Close with requested action and timeline | DRAFT |
 
 Target presentation time: **10–14 minutes before discussion.**
@@ -883,11 +883,11 @@ Use a small side callout for the cross-unit boundary: `SEPARATE UNITS, SEPARATE 
 
 ---
 
-# Slide 10 — Five decisions determine whether Draft 1 moves forward
+# Slide 10 — Five decision clusters remain before Draft 1 can move forward
 
 ## Status
 
-DRAFT
+**CONCEPT LOCKED**
 
 ## Job
 
@@ -895,61 +895,91 @@ Convert the detailed decision sheet into a manageable live discussion agenda.
 
 ## Audience takeaway
 
-> Most procedural research is done; leadership now needs to approve or modify five design clusters.
+> The detailed sheet contains individual line items, but the live discussion can be managed as five decision clusters: officers/Local relationship, representation, terms/continuity, bargaining/ratification, and vacancies/first election.
 
 ## On-slide content
 
-### 1 — OFFICERS
-Four officers? • President as principal Local liaison?
+### 01 — OFFICERS & LOCAL RELATIONSHIP
+- four elected GSU officers?
+- President as principal Local liaison?
+- boundary: no automatic Local Executive Board seat.
 
-### 2 — REPRESENTATION
-Separate Representative Council? • Hybrid college/school seats + two at-large? • Cross-cutting groups through committees?
+### 02 — REPRESENTATION
+- separate Representative Council?
+- college / school seats + two at-large?
+- proposed proportional thresholds?
+- cross-cutting interests through caucuses / committees?
 
-### 3 — TERMS & CONTINUITY
-One-year terms? • No one-year waiting period? • Summer continuity rule?
+### 03 — TERMS & CONTINUITY
+- one-year terms?
+- no one-year waiting period?
+- **summer appointment-gap continuity — proposed?**
 
-### 4 — BARGAINING
-GSU-selected bargaining team? • GSU leadership participates in ratification administration with Local officers?
+### 04 — BARGAINING & RATIFICATION
+- GSU bargaining-team selection process?
+- member-driven bargaining priorities?
+- GSU leadership coordinates ratification with Local officers?
 
-### 5 — VACANCIES & TRANSITION
-Special elections for meaningful vacancies? • Initial election after amendments take effect?
-
-Footer:
-
-**Optional discussion:** keep current Local name now; consider a broader umbrella name later.
+### 05 — VACANCIES & FIRST ELECTION
+- Vice President succeeds President?
+- >90-day vacancies return to voters?
+- initial election after amendments take effect?
+- initial term ends June 30, 2027?
 
 Dominant action label:
 
-**APPROVE AS PROPOSED / MODIFY**
+**FOR EACH CLUSTER: APPROVE • MODIFY • REMOVE**
+
+The Local-name question stays off the main decision board because Draft 1 preserves the existing name and the issue does not block this package.
 
 ## Visual concept
 
-Five large decision tiles. This is the point where the presentation becomes the meeting discussion.
+Treat this as a literal decision dashboard rather than another explanatory slide.
+
+Use three decision cards across the top and two wider cards below. Give every card a clear number and short title. The `APPROVE • MODIFY • REMOVE` action bar spans the bottom and should be visually dominant.
+
+The summer continuity item remains visibly marked `PROPOSED` inside Cluster 03.
+
+Do not put the optional Local-name discussion on the main visual; mention it only in narration.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| FIVE DECISIONS DETERMINE WHETHER DRAFT 1 MOVES FORWARD           |
+| FIVE DECISION CLUSTERS REMAIN BEFORE DRAFT 1 CAN MOVE FORWARD    |
 |                                                                  |
-| [1 OFFICERS]   [2 REPRESENTATION]   [3 TERMS / CONTINUITY]       |
-| 4 officers?     council / seats?     1-year / no wait?            |
-| liaison?        committees?          summer rule?                 |
+|  01 OFFICERS &       02 REPRESENTATION       03 TERMS &          |
+|  LOCAL RELATIONSHIP                          CONTINUITY           |
 |                                                                  |
-|       [4 BARGAINING]          [5 VACANCIES / TRANSITION]         |
-|       own team?                special elections?                 |
-|       ratification role?       initial election?                  |
+|  • four officers?    • Rep Council?          • 1-year terms?     |
+|  • Pres. liaison?    • college + at-large?   • no 1-year wait?   |
+|  • no auto Local EB  • seat thresholds?      • summer rule?      |
+|                      • caucuses?                                  |
 |                                                                  |
-|              APPROVE AS PROPOSED  /  MODIFY                      |
-| Optional: broader Local name later; Draft 1 keeps current name.  |
+|       04 BARGAINING &                  05 VACANCIES &             |
+|          RATIFICATION                     FIRST ELECTION          |
+|                                                                  |
+|       • team process?                   • VP succession?          |
+|       • member priorities?              • >90-day elections?     |
+|       • ratification coordination?      • initial election?      |
+|                                         • June 30, 2027?          |
+|                                                                  |
+|  --------------------------------------------------------------  |
+|          FOR EACH CLUSTER: APPROVE • MODIFY • REMOVE             |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- The detailed decision sheet breaks these into individual line items, but the live conversation works better in five clusters.
-- Approve a cluster if it works; otherwise record the exact modification.
-- Do not reopen already resolved procedural research unless a concrete issue emerges.
+- The detailed decision sheet contains individual line items, but the live meeting works better if they are handled in five coherent clusters.
+- Cluster 1 covers GSU officers and the boundary with existing Local governance.
+- Cluster 2 covers the Representative Council, seat formula, at-large representation, and cross-cutting caucuses / committees.
+- Cluster 3 covers one-year terms, open eligibility, and the proposed summer continuity rule.
+- Cluster 4 covers the bargaining-team selection process, member-driven priorities, and GSU participation in ratification administration with Local officers.
+- Cluster 5 covers succession, longer vacancies, and the first constitutional election / transition term.
+- For each cluster, leadership should approve it as proposed, identify the exact modification, or remove a provision from Draft 1.
+- Do not reopen already resolved factual or procedural questions unless a concrete issue emerges.
+- The Local-name question is optional; Draft 1 keeps the current name, so it does not block the package.
 
 ---
 
