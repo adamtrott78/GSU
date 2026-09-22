@@ -52,7 +52,7 @@ The emotional arc is:
 | 4 | One Local, two bargaining units: preserve Local leadership and add GSU self-governance | Show the whole-system architecture | **CONCEPT LOCKED** |
 | 5 | Draft 1 adds GSU governance while preserving Local 6350 leadership | Show the package is additive and narrowly scoped | **CONCEPT LOCKED** |
 | 6 | Four elected officers give GSU clear accountability | Explain the officer model and liaison role | **CONCEPT LOCKED** |
-| 7 | A Representative Council gives every part of GSU an elected voice | Explain representation, seat logic, and committees/caucuses | DRAFT |
+| 7 | A hybrid Representative Council balances stable constituencies with cross-cutting interests | Explain representation, seat logic, and committees/caucuses | **CONCEPT LOCKED** |
 | 8 | Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps | Explain term/eligibility/vacancy/continuity rules | DRAFT |
 | 9 | GSU selects its bargaining team; only GSU members ratify its contract | Explain bargaining and ratification autonomy | DRAFT |
 | 10 | Five decisions determine whether Draft 1 moves forward | Consolidate remaining governance choices | DRAFT |
@@ -590,36 +590,40 @@ Do not add bargaining detail to the President card; retain that nuance in narrat
 
 ---
 
-# Slide 7 — A Representative Council gives every part of GSU an elected voice
+# Slide 7 — A hybrid Representative Council balances stable constituencies with cross-cutting interests
 
 ## Status
 
-DRAFT
+**CONCEPT LOCKED**
 
 ## Job
 
-Explain how representation works and why college/school is the primary electoral axis.
+Explain why college / school is the primary electoral axis, how larger constituencies gain representation, and why overlapping groups belong in committees or caucuses rather than separate voting districts.
 
 ## Audience takeaway
 
-> Stable academic constituencies elect representatives, while committees/caucuses represent overlapping identities and employment types.
+> Stable academic constituencies elect representatives, while cross-cutting employment types and identities organize through committees or caucuses.
 
 ## On-slide content
 
-### Council composition
-- four GSU officers;
-- elected college / school representatives;
-- two at-large representatives.
+### REPRESENTATIVE COUNCIL
+**4 GSU officers + college / school representatives + 2 at-large representatives**
 
 ### PROPOSED SEAT FORMULA
 **5–54 members -> 1 seat**  
 **55–104 -> 2 seats**  
 **105–154 -> 3 seats**
 
-One guaranteed seat for qualifying colleges + one additional seat per additional 50 members.
+**1 guaranteed seat once a college / school reaches 5 members + 1 additional seat per additional 50 members**
 
-### Cross-cutting committees / caucuses
-RA / Research • TA / Instructional • Master's • PhD • International • Organizing / grievance / communications
+### CROSS-CUTTING CAUCUSES / COMMITTEES
+RA / Research  
+TA / Instructional  
+Master's  
+PhD  
+International
+
+Secondary functional committees may include organizing, grievance, and communications.
 
 Bottom statement:
 
@@ -627,37 +631,59 @@ Bottom statement:
 
 ## Visual concept
 
-Center `GSU REPRESENTATIVE COUNCIL` with example college/school nodes around it. A clearly labeled `PROPOSED SEAT FORMULA` badge prevents the thresholds from looking settled. A bottom ribbon of committees/caucuses overlays the representation structure rather than competing with it.
+Use a centered three-layer hierarchy rather than a spider-web map of colleges.
+
+Reading order:
+
+1. `REPRESENTATIVE COUNCIL`;
+2. composition: `4 GSU OFFICERS + COLLEGE / SCHOOL REPS + 2 AT-LARGE`;
+3. a clearly labeled `PROPOSED SEAT FORMULA`;
+4. a bottom layer for cross-cutting caucuses / committees.
+
+`PROPOSED` must be visually prominent so the numerical thresholds do not appear settled.
+
+Do not mix constituency caucuses with functional committees as though they are equivalent categories. RA / TA, Master's / PhD, and international status are cross-cutting interests; organizing, grievance, and communications are organizational functions.
 
 ## Rough mockup
 
 ```text
 +------------------------------------------------------------------+
-| A REPRESENTATIVE COUNCIL GIVES EVERY PART OF GSU AN ELECTED VOICE|
+| A HYBRID REPRESENTATIVE COUNCIL BALANCES STABLE                  |
+| CONSTITUENCIES WITH CROSS-CUTTING INTERESTS                      |
 |                                                                  |
-| [Engineering]   [Arts & Sciences]   [Business]                   |
-|       \               |                /                          |
-|             [ REPRESENTATIVE COUNCIL ]                            |
-|       /               |                \                          |
-| [Nursing]       [At-large x2]       [SMAST / other]              |
+|                 [ REPRESENTATIVE COUNCIL ]                        |
 |                                                                  |
-| [ PROPOSED SEAT FORMULA ]                                       |
-| 5–54 = 1 | 55–104 = 2 | 105–154 = 3 ...                         |
+|       4 GSU OFFICERS  +  COLLEGE/SCHOOL REPS  +  2 AT-LARGE     |
+|                                |                                 |
+|                                v                                 |
+|                    [ PROPOSED SEAT FORMULA ]                     |
 |                                                                  |
-| RA | TA | Master's | PhD | International | Organizing | Grievance|
-| Elect by stable constituency. Organize by overlapping interest.  |
+|          5–54               55–104             105–154           |
+|          1 seat              2 seats             3 seats          |
+|                                                                  |
+|       +1 guaranteed seat at 5 members                            |
+|       +1 seat for each additional 50                             |
+|                                                                  |
+|  --------------------------------------------------------------  |
+|                CROSS-CUTTING CAUCUSES / COMMITTEES               |
+|                                                                  |
+|       RA / Research   TA / Instructional   Master's   PhD        |
+|                         International                             |
+|                                                                  |
+|  ELECT BY STABLE CONSTITUENCY. ORGANIZE BY OVERLAPPING INTEREST. |
 +------------------------------------------------------------------+
 ```
 
 ## Talking points
 
-- Council is the broad democratic body inside GSU.
-- College/school is comparatively stable.
-- RA/TA, Master's/PhD, and international status overlap and can change, so committees fit better than overlapping electoral districts.
-- The numerical seat formula is explicitly a Tuesday decision.
+- The Council is the broad democratic body inside GSU beyond the four executive officers.
+- College / school is comparatively stable and therefore works as the primary electoral constituency.
+- The proposed formula protects smaller constituencies while allowing larger ones additional representation.
+- RA / TA, Master's / PhD, and international status overlap and can change, so committees or caucuses fit better than overlapping electoral districts.
+- The numerical seat formula is explicitly a leadership decision, not a settled rule.
+- If reliable membership counts are unavailable for the first election, the proposed fallback is one representative per recognized college / school, followed by reapportionment once counts are available.
 
 ---
-
 # Slide 8 — Graduate-worker turnover demands annual terms, open eligibility, and continuity across ordinary appointment gaps
 
 ## Status
